@@ -1,0 +1,85 @@
+Manyi Lu	HADB technology in the Sun Java System Application Server	2005	
+Heather Vancura	The Java Community Process; how the Java technology binary software	2005	
+Andrea Smyth	Achieving SOA made easy by Celtix 1.0 ESB	2006	
+Angela Caicedo	The Sun Small Programmable Object Technology (Sun SPOT): Java™ Technology-Based Wireless Sensor Networks	2006	
+Mary Poppendieck	Beyond Agile Software Development: Becoming Lean	2006	
+Kristin Halvorsen	You can't go wrong with beige	2006	
+Angela Caicedo	Unleash the power of Java!	2006	
+Angela M. Caicedo	Latest in Java Technology From Sun Microsystems	2007	
+Linda DeMichiel	Java Persistence 2.0 - What's New	2007	
+Martine Devos	Looking back to the future. Were is the industry 5 years from now, where do we want it to be?	2007	
+Mary Poppendieck	Teaching Computers to Drive	2007	
+Martine Devos	From Bestimate to Estimate – techniques and perception management for estimators and their customers	2007	
+Heidi Arnesen Austlid	Fri programvare - lønnsom innovasjon?	2008	
+Martine Devos	System Thinking techniques for Agile Teams – seeing the forest and the trees	2008	
+Mary Poppendieck	The Double Paradox of Lean Software Development	2008	
+Janniche Haugen	FitNesse in the real world - yes, it really does work.	2008	
+Lene Pettersen	Kannibaler, klassifikasjon og representasjoner av virkeligheter	2008	
+Bernadette Ann Eirheim	An affair to remember - technology and user experience	2008	
+Kristin Halvorsen	An affair to remember - technology and user experience	2008	
+Lene Pettersen	An affair to remember - technology and user experience	2008	
+Ellen D. Varsi	Dokumentasjon uten pistol - går det an?	2008	
+Heather VanCura	Who needs standards in an open source world	2008	
+Else Nordhagen	iLabs mobile toolbox: J2ME applications without intolerable pain	2008	
+Aiko Fallas Yamashita	Code Smells and Refactoring Revisited:  Advances from the software engineering research community	2009	
+Janniche Haugen	Domain driven design: Noe mer enn god objektorientering?	2009	
+Klara Vatn	Smidig interaksjonsdesign - sånn gjør jeg det!	2009	
+Irene Blesvik	Sant og usant - Integrasjonserfaringer	2009	
+Janniche Haugen	No pain, no gain	2009	
+Karianne Berg	Tre ting du ikke visste at du kunne gjøre med Spring	2009	
+Patrycja Wegrzynowicz	Static Analysis in Search for Performance Anti-Patterns	2010	
+Inga Kristine Holen	Basic Memory Troubleshooting	2010	
+Janniche Haugen	Bygg applikasjonen din testbar	2010	
+Rita Nordtug	Så du ønsker å øke ytelsen ved å parallellprosessere - er koden din trådsikker da?	2010	
+Margaretha Miles	Programfeil i produksjon	2010	
+Nina Heitmann	Scala - fra newbie til ninja på en time	2010	
+Karianne Berg	Scala - fra newbie til ninja på en time	2010	
+Christine Hafskjold	Paneldebatt: Åpne offentlige data	2010	
+Liv Freihow	Paneldebatt: Åpne offentlige data	2010	
+Angelika Langer	The Art of Garbage Collector Tuning (for the SUN/Oracle JVM)	2011	
+Angelika Langer	The Java Memory Model	2011	
+Christin Gorman	Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity.	2011	
+Bodil Stokke	CoffeeScript: JavaScript without the Fail	2011	
+Cathrine Riise Dannevig	Hvordan mislykkes med Drools	2011	
+Janniche Haugen	Kontinuerlige leveranser krever kontinuerlig testing	2011	
+Karianne Berg	Strukturert refaktorering	2011	
+Nina Heitmann	Erfaringer med Scala i en Java-stack	2011	
+Kari Bergh Schjønsby	Comfort code	2012	
+Karianne Berg	How about learning f***ing programming?	2012	
+Bodil Stokke	Painless Web App Development with Backbone	2012	
+Angelika Langer	Lambdas in Java 8	2012	
+Therese Lindblom	Arkitekturstyring på 1-2-3	2012	
+Katrina Sponheim	How NoSQL Paid Off for Telenor	2012	
+Christin Gorman	Readable code - and the long lost secret of how to achieve it	2012	
+Margaretha Miles	The challenge of maintenance	2012	
+Angelika Langer	Memory Leaks in Java	2012	
+Ellen Weber	SBT or Maven? - I'll take both!	2012	
+Christin Gorman	So SQL	2013	
+Trisha Gee	Design is a Process, not a Document	2013	
+Bodil Stokke	Programming, Only Better	2013	
+Ragne Elisabeth Henriksen	2-faktor autentisering – Hva må til for å hacke deg inn i Nettbanken?	2013	
+Christin Gorman	Fix That!	2014	
+Hadi Hariri	Refactoring to Functional	2014	
+Kari Bergh Schjønsby	Det var en gang en hendelse	2014	
+Svetlana Isakova	Kotlin vs Java puzzlers	2014	
+Anna Karpova	Fra idé til realisering på 3 uker med dagens frontend teknologi	2014	
+Anne Landro	Er JavaFX noe for deg som hater å knote med GUI?	2014	
+Åshild Kaldahl Thorrud	Content Security Policy - Hva er din side lastet med?	2014	
+Tanja Milijana Gruschke	Hvordan jeg fikk tredd Scala ned over hodet.	2014	
+Lotte Johansen	Universell utforming for alle!	2015	
+Kari Bergh Schjønsby	Fjellvettreglene og software	2015	
+Rabea Gransberger	Code Reviews: Techniques and Tips	2015	
+Rita Nordtug	Building security into your continuous delivery pipeline	2015	
+Klara Ward	Production time profiling On-Demand with Java Flight Recorder	2015	
+Alexandra Leisse	Developers, start thinking about design!	2015	
+Christina Kjær Seime	Motivasjon - er det så viktig da?	2015	
+Anne Landro	Stor endring i kjernefunksjonalitet – er det så lurt da?	2015	
+Christin Gorman	How to make your code sustainable - what they don't teach you	2015	
+Cecilie Schrøder Fjellhøy	Brukertesting - 5 ting du ikke ante at brukerne dine sliter med	2015	
+Susanne Kvernmo	Førstehjelp til bedre UX - 5 raske tips	2015	
+Margaretha Miles	A dedicated follower of fashion	2015	
+Lisa Long	Juggling chainsaws while on fire: Introduction to Product Management	2015	
+Merethe Granevang	Utvikling av apper for smartklokker i JavaScript	2015	
+Liv Kolås	Ekorn i buksene (SQRL Secure Quick Reliable Login)	2015	
+June Henriksen	Skrivetips for utviklere	2015	
+Klara Ward	Java Flight Recorder Hands On Lab	2015	

@@ -1,0 +1,1108 @@
+[
+  {
+    "title": "Adopting AspectJ",
+    "level": "beginner-intermediate",
+    "summary": "Heard of aspect-oriented programming (AOP), but not sure how to get started? In this session Adrian Colyer, leader of the AspectJ project, will present a proven road map for adopting AOP using AspectJ. Attendees will gain an understanding of the phases of adoption, with examples and demonstrations of the kinds of aspects you might write at each stage. There will be plenty of opportunity to see the latest version of AJDT (the AspectJ Development Tools for Eclipse) in action too.",
+    "description": "Introduction Overview of the phased adoption approach Enforcement & Exploration aspects Auxiliiary / infrastructure aspects Core / business aspects Sanity check - what makes a good aspect? Conclusions and next steps Required Experience: Attendees will be expected to be familiar with Java programming, and preferably with some of the concepts of AOP (these will not be covered in the session). Hands-on programming experience with AspectJ is not required.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Adrian Colyer",
+        "biography": "Senior Technical Staff Member at IBM ( IBM ) Adrian Colyer is a Senior Technical Staff Member at IBM and the leader of the AspectJ project on Eclipse.org. He is co-author of the book \"Eclipse AspectJ: Aspect-Oriented Programming in Eclipse with AspectJ and AJDT\", and in 2004 he was voted one of the top 100 innovators in the world by MIT Technology Review magazine. His time is divided between developing tools and technology to support aspect-oriented programming (AOP), helping groups inside and outside of IBM to adopt and apply the ideas, and writing and speaking on the theme of aspect-oriented software development. You can catch his blog at http://www.aspectprogrammer.org/blogs/adrian."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Cracking the New Sun Certified Programmer for Java 2 Platform 1.5 Exam",
+    "level": "beginner",
+    "summary": "It is not surprising that after Java 1.5 became official, that the Sun Certified Programmer for Java 2 Platform exam should also be updated. However, it might come as a surprise that the new exam for Java 1.5 is radically different from earlier versions of this exam, requiring a different mindset in preparing for the new exam. Early in 2005 Sun completed beta-testing of its new Sun Certified Programmer for Java 2 Platform 1.5 (SCJP 1.5) Exam. The exam is expected to be finalized in the summer of 2005. The objectives of the new exam have been revamped. The objectives emphasize understanding of Java language features and being able to understand code scenarios which use these features. Esoteric features have been omitted, and heavy emphasis put on OOP concepts, locales, stream I/O, and nearly all the new features introduced in Java 1.5 (Autoboxing/unboxing of primitive values, Enums, Foreach loop, Formatting of values, Using regular expressions with the Scanner class for parsing input, Generic types/methods/wildcards, Static import, StringBuilder class).",
+    "description": "The talk answers pertinent questions like: How to plan, study and prepare for the SCJP 1.5 exam Where to get certification resources for the SCJP 1.5 exam, as currently no certification Books are available on the market. However, the talk will concentrate on examples of code scenarios that providing insights into a selection of important topics that appear on the new exam. Outline Please note that the Exam objectives have not been finalized at the time of writing this proposal. Java Technology Certification Overview (3 min.) New exams for J2SE and J2EE. Sun Certified Programmer for Java 2 Platform 1.5 (SCJP 1.5) Exam: (3 min.) Practical information about the new exam Overview of the Objectives of the SCJP 1.5 Exam (4 min.) Understanding language features Reading and interpreting code scenarios Code Scenarios to illustrate the topics on the exam (30 min.) Realistic Sample Exam Questions on important topics: OOP concepts Autoboxing/unboxing of primitive values Enums",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Khalid A. Mughal",
+        "biography": "Associate professor ( University of Bergen ) Khalid A. Mughal is an associate professor at the Department of Informatics, University of Bergen, Norway. During his extensive career, he has designed and implemented many courses on Java, object-oriented system development, and compiler techniques. For the past four years he has been responsible for developing and running a web-based programming course in Java, which is offered to off-campus students. Apart from giving courses at other universities and colleges, he also gives seminars on Java-related technologies for the IT industry. He is the principal author of the book: A Programmer's Guide to Java™ Certification (Second Edition), Addison-Wesley, ISBN 020172828, 2003. He is also the principal author of an introductory Norwegian textbook on programming in Java: Java som første programmeringsspråk/Java as First Programming Language (2. utg.), Cappelen Akademisk Forlag, ISBN 82-02-23274-0, 2003. Apart from keeping abreast with the developments in the Java programming language, his current work involves applying Object-Oriented Technology in the development of learning content management systems."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Managing Web Conversations with Spring Web Flow.",
+    "level": "intermediate",
+    "summary": "This session will explore Spring Web Flow (SWF), a core module of Spring's web stack, and its architecture as a powerful controller technology based on a finite-state machine.",
+    "description": "Keith will discuss in detail SWF's capabilities, including its ability to capture web application page flows as self-contained, reusable modules that make dynamic and sophisticated page navigation decisions. Keith will demonstrate SWF's solutions to important issues facing web application developers in areas such as application transactions, duplicate submits, security, testability, browser-navigation button use, and state management. This session will also show how Spring Web Flow may be leveraged in a variety of web environments as a compliment to \"traditional\" controllers. You'll see how to embed flows within a number of established frameworks in the web space, including Struts, Spring MVC, and JSF. You'll also see how it integrates with the rest of the Spring Framework. You can expect to see in-action the benefits of using a declarative, test-driven approach to building page flows to orchestrate controlled navigations that drive business processes. You'll leave with an understanding on when to use Spring Web Flow, and how to use it in a best-practice manner.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Keith Donald",
+        "biography": "( Interface21 ) Keith Donald is a core Spring project member and principal with Interface21, a global company led by the creators of the Spring Framework. An experienced developer and mentor, Keith has built applications for customers spanning a diverse set of industries including banking, network management, information assurance, education, and retail. He specializes in translating business requirements into technical solutions. Keith is the founder of the Spring Rich Client Project and co-lead of Spring Web Flow with Erwin Vervaet. Lately you can find him leading Spring training courses across the US and abroad, planning the upcoming \"Spring Experience\" event in Bal Harbour Beach on December 7th - 10th, and serving as a guest speaker on advanced Spring with the NoFluffJustStuff (NFJS) tour. References: The Spring Framework: http://www.springframework.org The Spring Experience: http://www.thespringexperience.com Interface21, Inc: http://www.interface21.com"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Beyond Java",
+    "level": "beginner-intermediate",
+    "summary": "The Java programming language has been tremendously successful. Many of the roots of its success may be surprising to the audience. But every major programming language has a limited life cycle. While it’s true that Java and .NET seem to be the only games in town, some alternatives are beginning to emerge. In this session, we’ll discuss some of the limitations of the Java language, and the impact that they might have on the productivity of Java developers. We’ll then look at some of the innovations around other frameworks and languages, and some of the features of those languages that boost the productivity of other non-Java developers: Typing, and why it matters Code blocks and closures Regular expressions Innovative frameworks Finally, we’ll take a look at where developers may look at using other languages. Clearly, most of the work that we do will be in Java for the foreseeable future, but certain project classifications may make it much easier to embrace alternatives, for good competitive effect.",
+    "description": "Goals: After this session, attendees should: Understand why Java was initially successful Know where Java is coming up short Know some language features that yield better productivity Know what types of projects may be better served by other languages and platforms. Pre-requisites: Attendees should: Have a good understanding of the Java programming language Have used Java in a project Have an open mind Track: Core Java, management",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Bruce Tate",
+        "biography": "President, J2Life, LLC ( J2Life, LLC ) Bruce Tate is a fifteen year veteran of the information technology profession. He has delighted hundreds of customers in a variety of roles from Internet development, to database performance and design sessions. He has served as CTO of two startups and also served as lead architect of various organizations. At IBM, Bruce filled a variety of roles, including Java proof of concept work, Java architectures, national sales and support, object oriented systems programming and database systems programming. He served on the certification board for the I/T profession, and has been a leader throughout his career. Bruce is named on eight IBM patents. As an independent consultant, Bruce is the author of five books, including the best-selling Bitter Java and Better, Faster, Lighter Java. He is the founder and principle author and editor for Manning's Bitter series. Bruce speaks at a variety of conferences and users groups spanning North America. Bruce is a strong persistence expert, a proven performance analyst, an adept architect and facilitator, and an excellent communicator. This makes him an outstanding choice for public speaking, performance analysis, design reviews and a wide variety of other engagements."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "A successful experiment: Designing Multi Agent Systems using Java as an inter-program language",
+    "level": "intermediate-advanced",
+    "summary": "Put simply, a Multi Agent System (MAS) is a computer system built as an anthill. The MAS is composed of many different, independent programs. These programs exchange messages and adapt their behavior to each other in order to solve problems. However, MAS and agent systems in general have obtained the stigma of hype since no techniques and methods have enabled programmers to implement grand and futuristic MAS designs. Here, an experimental method is presented that enables simple and fast implementation of MAS. Using Java (with two minor syntactic adaptations) as a language for inter-program communication and collaboration, MAS designs can be implemented. The Java language (with adaptations) allows each individual agent program to integrate new and existing functionality in order to adapt seamlessly and service the needs of other agent programs. A problem requiring adaptable, collaborative programs along with its MAS solution is presented, and actual and understandable examples of running programs and code are used to illustrate how old dreams can now be made reality.",
+    "description": "Topics and time: 1. Introduction to the problem of MAS: How can we set up a program that provides a (web) service, but were both the format and the method of delivery of the service result can only be set up and adapted to client programs’ different needs at run-time? 20 min. 2. Example of a simple, implemented MAS solution using presented method: A graphical demonstration of programs run-time and an easy-to-understand presentation of the underlying program code. 15 min. 3. Java as an inter-program language – how Java can be used and the few adaptations necessary. Parallels are drawn to similar methods such as BeanShell, RPC, CORBA, and SOAP. 10 min",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ivar Ørstavik",
+        "biography": "phd-student ( NTNU ) Presenter’s background: I.T.B. Ørstavik is a phd-student in applied linguistics and programming at HiST (AITeL) and NTNU (HF), Trondheim. The presentation is based on an experimental project going back three years and a project of six students/researchers this summer (NTNU has funded the construction of a large scale prototype with a compiling service and RTE for external use in 2005)."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Web Application Development with Spring",
+    "level": "beginner",
+    "summary": "The tutorial will focus on real-life experience with the Spring Framework. The context for the presentation is building web applications using the framework and how to declaratively configure applications. Its main aim is to give an introduction to the most important concepts in this context. Testing is an important part of any application and how to do integration testing with the Spring framework will be demonstrated. Ideas for handy helper classes will also be discussed. Further on the presentation will focus on how to get the most out of Spring’s support for AOP and how to declaratively configure interceptor chains. Real life examples will be shown. Spring’s support for Hibernate as well as how to successfully configure Hibernate with Spring is also a topic – the aim being to get the most out of Hibernate. This part will be brief – but is nonetheless important and not as trivial as one would think! As this is a practical introduction to web application development with the Spring framework, the Model-View-Controller (MVC) tier is important. Configuration and a few examples will be demonstrated. The main goal of the presentation is to give a thorough introduction of how to configure Spring in a fast and reliable way in order to focus on building the web application itself. By providing this tutorial I aim to help the audience by providing solutions to many issues and challenges that one faces when first using the Spring framework in this context.",
+    "description": "Development environment setup Handy helper classes Basics of testing Interceptor chaining Aspect Oriented Programming (AOP) examples Spring and Hibernate Spring and JDBC Spring and MVC Required experience The participants should be familiar with the basic concepts of the Spring framework and should have some knowledge about web application development based on J2EE and MVC. Expected audience Developers and architects who are interested in learning how the Spring framework can be used as an efficient way of building web applications should attend this presentation. It will take a practical approach toward setting up an development environment, explaining the relevant components in order to get up and running and ready to focus on implementing business logic efficiently.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kristoffer Moum",
+        "biography": "Systemutvikler ( Objectware ) Kristoffer Moum works as a consultant for Objectware. He has five years of experience as a J2EE developer and has approximately six months of experience with the Spring framework in two separate projects. He has a special interest in frameworks that make his life as a developer easier and more efficient. Kristoffer believes it is important to focus on producing business value and that this can be accomplished by choosing frameworks that abstract away as much unwanted complexity as possible - as well as make application code testing easy and funny."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Tjenestebasert design med dynamiske proxyer og Spring",
+    "level": "intermediate",
+    "summary": "Dette foredraget vil se på redesign av et tjenestegrensesnitt brukt i en portalløsning for å lettere kunne møte nye ikke-funksjonelle krav samt å forenkle utvikling av ny forretningslogikk. Verktøy som blir tatt i bruk er bl.a. dynamiske proxyer, aop og dependency injection ved hjelp av Spring. Resultatet blir en løsning hvor egenskaper som caching, logging og EJB-teknologi blir kapslet inn slik at man til daglig ikke trenger å forholde seg til dette. Foredraget vil være praktisk anlagt med både kodeeksempler og muligens også live kode. I tillegg vil det også bli brukt litt tid på å se på fordeler og ulemper ved et slikt design, samt å se på hvilke nye muligheter dette designet gir. Dette foredraget er basert på mine erfaringer fra et større forretningskritisk prosjekt hvor dette designet nå er i produksjon.",
+    "description": "Vis designet til grensesnittet som skal refaktoreres (5 min) Gå gjennom fordeler og ulemper med dette designet (5 min) Mål for ny løsning (5 min) Kort introduksjon til verktøy for jobben og hvorfor de ble valgt (15 min) Dynamic proxies Spring, både som aop-rammeverk og lettvekts-container Vis skisse til nytt design og hvordan dette løser målene skissert tidligere (5 min) Strategi for hvordan man kan gå fram for å gjøre en slik refactoring (5 min) Fordeler og ulemper med ny løsning (5 min) Vis kode på ny løsning (5 min) Forventet forhåndskunnskap: Det vil være en fordel med noe kunskap om dynamiske proxyer, spring og aop.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Bjørn Vidar Bøe",
+        "biography": "Seniorkonsulent ( Objectware ) Bjørn Vidar Bøe har en MSc Software Engineering og en BSc Informatics. Han jobber som konsulent hos Objectware og driver hovedsakelig med utvikling på Java-plattform."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Implementation of domain models using dynamic proxies",
+    "level": "advanced",
+    "summary": "In the last two years, ORM tools like Hibernate have become popular in the Java developer community as a part of a trend towards simplifying J2EE application development. Many of these tools support generating the database from the object-model and try in this way to minimize the required knowledge of database design, even though in practice some database design knowledge is still required. Other tools, like Prevayler, try to take this even further by eliminating the database altogether.",
+    "description": "Another recent trend is the use of AOP for implementing cross-cutting concerns like logging, security, caching, and even the domain logic itself, such as proposed by Rickard Öberg at the JavaZone conference in Oslo in 2004. In this talk I will present a design approach for how domain models can be described with as little information as possible, where dynamic proxies are used for managing the data and thereby realizing an even more agile and adaptive way of defining the domain model. The design is inspired by Rickard Öbergs thoughts, but avoids the use of AOP for the implementation because it doesn’t provide the necessary functionality for implementing this. I will also look at how business logic can be handled in this kind of a design by using a variant of the dependency injection pattern. The talk will also have a live demonstration of how this works and go into detail about pros and cons of such a solution.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Bjørn Vidar Bøe",
+        "biography": "Seniorkonsulent ( Objectware ) Bjørn Vidar Bøe har en MSc Software Engineering og en BSc Informatics. Han jobber som konsulent hos Objectware og driver hovedsakelig med utvikling på Java-plattform."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Lightweight development strategies",
+    "level": "beginner-intermediate",
+    "summary": "Traditional object oriented development may work for large projects, but it’s not the right approach for most of the enterprise software that we build. Certain characteristics of technology can improve your chances of success. Some new open source technologies, like Spring and Hibernate, dramatically simplify programming by reducing complexity. Many development teams use heavyweight development technologies to solve basic problems. We overuse EJB, we use XML where it’s not the best fit, and we needlessly complicate our lives in many other ways. We’ll look at process, architectures, and technologies that can simplify your code and save you money. When the session is over, you’ll have a good understanding of the techniques that you can use to do lighter-weight, simpler development projects. You’ll know the processes that the experts favor, and the tool kits that they use to simplify their lives.",
+    "description": "Goals: After this session, attendees should: Understand the foundations of the lightweight development movement Know some basic principles that simplify programming Understand the basic tools for dealing with complexity Get an overview of technologies that can improve development",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Bruce Tate",
+        "biography": "President, J2Life, LLC ( J2Life, LLC ) Bruce Tate is a fifteen year veteran of the information technology profession. He has delighted hundreds of customers in a variety of roles from Internet development, to database performance and design sessions. He has served as CTO of two startups and also served as lead architect of various organizations. At IBM, Bruce filled a variety of roles, including Java proof of concept work, Java architectures, national sales and support, object oriented systems programming and database systems programming. He served on the certification board for the I/T profession, and has been a leader throughout his career. Bruce is named on eight IBM patents. As an independent consultant, Bruce is the author of five books, including the best-selling Bitter Java and Better, Faster, Lighter Java. He is the founder and principle author and editor for Manning's Bitter series. Bruce speaks at a variety of conferences and users groups spanning North America. Bruce is a strong persistence expert, a proven performance analyst, an adept architect and facilitator, and an excellent communicator. This makes him an outstanding choice for public speaking, performance analysis, design reviews and a wide variety of other engagements."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "EJB vs Hibernate vs JDBC, Which is better?",
+    "level": "beginner-intermediate",
+    "summary": "Being one of the hottest topics in the Java community, the content of this presentation will be an introspective on the different and typical persistence layers in Java. The presentation will focus on each of the persistence layers and offer the pros and cons of each. It will show the architectural merits of the different persistence mechanisms, where they are most appropriate for use, and culminate in showing that they can coexist in the same application.",
+    "description": "Introduction Preamble Peristence Layers   o EJB   o JDBC   o O/R Mapping   + Hibernate EJB  o Advantages  o Disadvantages JDBC  o Advantages  o Disadvantages O/R Mapping  o Advantages  o Disadvantages Architectual Merits  o Is One Better than the other?  o Where should each be used?  o They can live together, and often do.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jeff Genender",
+        "biography": "Practice Leader ( Virtuas Solutions ) Jeff Genender is a Practice Leader for Virtuas Solutions, an Open Source Strategy and consulting organization. He has over 16 years of Software Architecture, Team lead, and Development experience in multiple industries. Jeff authored \"Enterprise Java Servlets\", September 2001, Addison Wesley Longman, which was one of the first how-to books on properly architecting and developing enterprise class java web applications. Jeff also is currently authoring \"JBoss Live\", 2005, Sourcebeat. Jeff is currently an active committer and on the Project Management Committee for Apache Geronimo and has also contributed to a number of other open source projects. Jeff is an open source evangelist and has successfully brought open source development efforts, initiatives, and success stories into a number of fortune 500 companies, saving these organizations millions in licensing costs."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Unittesting with Domain Experts.",
+    "level": "beginner",
+    "summary": "Few argue against the value of Developer Testing (a.k.a. Unit Testing): it provides undisputed benefits for improving software quality, developer productivity, and control over delivery schedules. Agitator amplifies these benefits by providing automation for test creation and by enabling large-scale adoption. In this presentation Alan Perkins will show the power of Domain Experts, the out-of-the-box support for Struts, J2EE, and more, and the ability of the Domain Experts to learn from your domain knowledge and business logic and make your Testing Tool as smart as you are.",
+    "description": "In the USA Agitator was recognized by an unprecedented 6 major awards for technical excellence in its first year on the market. Now Agitator 3.0 raises the bar again with Domain Experts, which analyze not only your Java code, but also contextual information such as the configuration of your application frameworks - so you get the most useful tests possible. Few argue against the value of Developer Testing (a.k.a. Unit Testing): it provides undisputed benefits for improving software quality, developer productivity, and control over delivery schedules. Agitator amplifies these benefits by providing automation for test creation and by enabling large-scale adoption.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Alan Perkins",
+        "biography": "( Agitar ) Alan has over twenty year experience in the software industry including ten years as a application developer/tools developer/Project manager in the Mil-Aerospace sector with companies such as Ferranti, Plessey, Racal, SD Scicon, and Smiths; and 13 years in technical sales and technical management with Rational tech sales"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "WebWork + AJAX: A winning combination",
+    "level": "intermediate-advanced",
+    "summary": "In this presentation, we'll look in depth the new features of WebWork 2.2 that extend WebWork's existing UI tag library and embrace rich client-side interaction using JavaScript, XML, DHTML, and XmlHttpRequest. Now commonly referred to as AJAX (Asynchronous JavaScript and XML), the technique of enabling rich user interaction and instant feedback has become quite popular in recent months. Using these components, we'll see that building an application like Gmail or Google Maps is much easier than it might first appear. More importantly, we'll continue to underline the importance of componentizing your web applications and show you how building reusable libraries not only lets you create richer applications, but also increases your productivity and quality of the products you develop. Lastly, we'll see how AJAX doesn't fundamentally change the MVC style of development, but rather facilitates it while still following the same principles of keeping the data on the on the server as long as possible.",
+    "description": "1) Introduction(3 minutes) o WebWork, web applications, who am I, etc o Quick overview of OpenSymphony 2) AJAX: Definition(5 minutes) o Example of AJAX o Discuss XmlHttpRequest slightly o Browser requirements 3) Simple action(8 minutes) o Show a simple WebWork action o Expand that example to use UI tags o Explain UI tags, but don't go in-depth on them o Discuss general WebWork concepts 4) Uses of AJAX(3 minutes) o Caution: can be overused o WebWork components: Tabbed Pane, Validation, Polling, etc 5) Building blocks o 6 minutes o Discuss the basic building AJAX building blocks in WebWork o ww:div tag o ww:a tag o ww:form tag o ww:submit tag 6) Tabbed Pane(5 minutes) o Show WW tabbed pane component, how it works, etc 7) Validation(7 minutes) o Show normal WW validation and then turn on client side validation 8) Polling(5 minutes) o Chat application 9) AJAX pitfalls(5 minutes) o Discuss areas where AJAX can be improperly used o Address compatibility (cite gmail.com) o Handling polling: too many requests vs. sockets open too long 10) Wrap-up(3 minutes) o AJAX tools: DWR, Dojo, etc o Conclusion 11) Q & A(10 minutes)",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Patrick Lightbody",
+        "biography": "Head of Jive Software's Professional Services ( Jive Software ) Heading up Jive Software's Professional Services organization, Patrick Lightbody has worked for various technology companies, ranging from well-established giants such as Cisco Systems to tiny Silicon Valley startups. Patrick is the author of Java Open Source Programming and WebWork in Action and spends his spare time contributing to various OpenSymphony projects, including WebWork and OSWorkflow. While he grew up in the heart of the Silicon Valley, Patrick now resides in Portland, OR enjoying the beautiful year round weather."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Maven 2",
+    "level": "intermediate-advanced",
+    "summary": "The presentation will briefly discuss the history and philosophy of Maven, discuss why the collection of project level metadata, Maven's POM, is important for Java, discuss all the Maven 2.x technologies that are currently being developed and how they can benefit those working with Java.",
+    "description": "A brief discussion of the history and philosophy of Maven. What goals Maven has tried to solve and how the project has evolved in the last 3 years. A discussion of Maven 2.x itself. What new features it adds and how it is different from m1. A discussion of Continuum. Why Continuous integration is critical in software development and how Continuum makes CI seamless when working in tandem with Maven. A discussion of our new Repository Manager (which will be in alpha). How a project can help manage its software inventory in your Maven repository by leveraging its indexing, seach, and categorization capabilities.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jason van Zyl",
+        "biography": "Founder of the Apache Maven project ( Mergere ) Jason van Zyl is the founder of the Apache Maven project and currently serves as the chair of its PMC. Jason is a co-founder of Mergere whose aim is to to promote the use of Maven technologies in the Enterprise. Jason currently serves as the Chief Architect at Mergere."
+      },
+      {
+        "name": "Trygve Laugstøl",
+        "biography": "( Mergere ) Trygve Laugstøl is a developer on the Apache Maven and Continuum projects. He is currently working for Mergere."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "BEA and Open Source ­ Leading Java Innovation",
+    "level": "intermediate",
+    "summary": "BEA and OSS ­ Leading Java Innovation This presentation will discuss how BEA is working with the Open Source community to help bring innovations to the market quicker and to compliment BEA¹s standardization strategy. This presentation will describe the current work BEA is doing within the Eclipse Foundation and the Apache Organization including the Eclipse Web Tools Platform project, Apache Beehive and Apache XMLBeans.",
+    "description": "Looking back at WebLogic 8.1 ­ release themes BEA Standards and Open Source strategy BEA¹s Eclipse Participation how Java is evolving ­ common trends and frameworks Apache Beehive ­ each section to include overview and code examples (this will be the majority of the talk) Java PageFlows Java Controls Java Web Services ­ JSR 18 Apache XMLBeans Required Experience: Basic understanding of Java, Web applications and Web Services Expected audience: Developers, architects looking to increase productivity",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Martin Percival",
+        "biography": "Senior European Technology Evangelist ( bea ) Martin is the senior European technology evangelist and technology manager for BEA Systems Ltd. Based in the UK, Martin acts as BEA’s technical representative for Europe’s community of developers and architects. With 21 years of experience in the technology industry, Martin has a wealth of technical knowledge which serves him well in his roles as both analyst and press spokesperson. Martin is particularly interested in the direction that open source is moving and how this shapes the direction of the software industry. Martin has a deep technical understanding of all levels of support. Previously, he worked in the pre-sales team for BEA, where he had particular responsibility for the government sector. Prior to joining BEA Systems, Martin worked for Tandem where he focussed on fault tolerant Unix systems kernel support."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "High-quality searching with Lucene",
+    "level": "intermediate",
+    "summary": "Users of today's web sites desire high-quality search functionality, but, the techniques to achieve that are rarely discussed from a technological point of view. This presentation gives an overview of Lucene and various experiences from projects where this open source API has been used. The presentation will include: How to extract data: Integration, web crawling and parsing Queries and language issues Performance, scalability and tuning Steps to take when adding search functionality to existing web sites",
+    "description": "How does a search engine work? - 5 min About Lucene: What will it give you? What does the API offer? - 5 min How to make a high-quality search: Typical issues and suggestions on how to handle them - 20 min Experiences: Some projects and \"lessons learned\" - 15 min Q & A - 10 min Required experience: Basic knowledge of databases and Java-based web applications Expected audience: Java developers and architects that want to create good searches Developers interested in utilising valuable open source libraries",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kristoffer Dyrkorn",
+        "biography": "Seniorkonsulent ( BEKK ) Kristoffer Dyrkorn is a senior consultant at BEKK. He started developing Java-based applications in 1997 and is now focussing on information retrieval, systems integration and the use of open source toolkits such as Lucene, Castor and Hibernate. He enjoys working with all aspects of data searching - including usability, scalability and integration."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "*SwiX^ml * og Thinlet",
+    "level": "intermediate",
+    "summary": "Det finnes en rekke rammeverk for utvikling av brukergrensesnitt som baserer seg på XML. Deklarativ GUI-utvikling gir mange fordeler i en del av systemutviklingen som tradisjonelt er veldig tidkrevende. Rutinemessig arbeid minimaliseres og kodebasen reduseres. Hierarkisk definering av GUI komponenter i XML-filer gir også god oversikt og er lesbart for vanlige mennesker.",
+    "description": "Objectnet har benyttet rammeverkene SwiX^ml og Thinlet i tre av sine utviklingsprosjekter. Hensikten med denne presentasjonen er å gi en introduksjon til XML-drevet GUI utvikling og Objectnets erfaring med disse rammeverkene. SwiX^ml (http://swixml.org <http://swixml.org/>) er et open-source (ala Apache) Java bibliotek med intensjon om å forenkle implementasjon av Swing brukergrensesnitt. Rammeverket leser XML-definisjonen under kjøretid og bygger opp et brukergrensesnitt på basis av innholdet i definisjonen. De fleste standard Swing komponenter støttes. Det er i tillegg mulig å utvide rammeverket med nye komponenter. SwiX^ml er tett integrert med Swing-biblioteket og bygger på eksisterende Swing kompetanse. Dette gjør overgangen fra tradisjonell Swing-programmering til XML-drevet GUI enkel. Thinlet (http://thinlet.com <http://thinlet.com/>) er en annen open-source (LGPL) løsning for XML-drevet GUI. Denne er laget med et eget proprietært komponentsett. Hovedvekten er lagt i å gjøre GUI-motoren lettvekt. Dermed kan den benyttes selv på små plattformer ned til Personal Java. Thinlet har alle de komponenter som vi er vant med og utseendet er enkelt og moderne. Til slutt vil vi avslutte med en funksjonssammenligning mellom de to grensesnittsverktøyene og sette dette opp mot XUL.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Thor Åge Eldby",
+        "biography": "( Objectnet ) Thor Åge Eldby er konsulent på andre året ved Objectnet AS. Han har 10 års erfaring innen systemutvikling og har jobbet i Telenor Mobil, FairPlay International og LCC Europe. For seks år siden startet han å jobbe med Java som hovedspråk. Mesteparten av utviklingen har det gått på store applikasjonsservermiljø, men i det siste har utvikling av GUI og web-GUI kommet i fokus. Andre ting som Thor Åge finner interessant for tiden er dynamiske språk, J2ME og Spring."
+      },
+      {
+        "name": "Andreas Bade",
+        "biography": "( Objectnet ) Andreas Bade har over fem års erfaring i systemutvikling. Det siste halvannet året i Objectnet AS. Han har jobbet med programmering av både webløsinger og desktop-applikasjoner. Hovedfokus er Java-utvikling, men har også besøkt .NET-leiren. Han har tidligere jobbet i Accenture i litt over fire år. Hovedinteresser er Spring, J2EE, desktop-GUI og Hibernate."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Configuring JCA CICS Records using Hibernate",
+    "level": "intermediate",
+    "summary": "Når man gjør integrasjoner mot ulike baksystem vil man oppleve at ulike konvertering teknikker må benyttes for å mappe mellom proprietære eller strengbasserte resultater til en intern DO representasjon. Dette medfører at man bør ha bygge inn muligheten for å konfigurere denne mappingen for å enkelt kunne bygge utvidelser og endre konfigurasjonen.",
+    "description": "Da vi i mitt nåværende prosjekt skulle bestemme oss på hvordan mappe mellom CICS record, offset string basert resultat, falt valget på å benytte Hibernate Configurasjon siden vi allerede skulle benytte Hibernate. For å få gjort dette måtte det gjøres noen utvidelser til Hibernate for å få den nødvendige ekstra funksjonaliteten. Dette førte til at vi kunne konfigurere mappingen mellom DO's og Cics Records (CopyBooks) i samme format som for vår database. Videre for å konfigurere hvilken configurasjon for hvilket kall i CICS benyttet vi Spring Framework. Duration: 45-50 Min Required experience: Kjent med Hibernate og Spring Expected audience: Personer som jobber med integrasjonsarktiektur (J2EE Arkitekter). Hibernate utviklere",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Thomas Kvalvåg",
+        "biography": "( Accenture ) 5 years work experience in Accenture 3 years as J2EE Architect Intresser: - Integrasjonsarkitektur - Utviklingsarkitektur - Distribuerte Multimedia Systemer - Linux Bachelor in Computer Sience Soon to recieve MSc in Computer Sience"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Enterprise Java development with Eclipse",
+    "level": "intermediate",
+    "summary": "As one of the founding members of the Eclipse platform, as well as one of the members of the board of directors, Borland has supported the Eclipse platform with various solutions and technologies for several years. Borland is now amplifying this initiative further by offering a complete ALM (Application Lifecycle Management) solution on the Eclipse platform. This presentation will show you how you can extend the Eclipse platform with enterprise level modelling, requirements management, and change management capabilities. Enterprises can now rely on Eclipse as their software delivery platform of choice. Come and see Eclipse as you’ve never seen it before.",
+    "description": "Subjects covered include: - Requirements management on the Eclipse platform - Modeling on the Eclipse platform - Change management on the Eclipse platform Duration: 45 min presentation and demonstration followed by 15 min Q&A Required experience: Basic understanding of the Java language and runtime environment Expected audience: Developers and IT professionals interested in development on the Eclipse platform",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Markus Hebach",
+        "biography": "Product Line Manager for Together Products and modeling technologies for EMEA ( Borland ) Markus Hebach is the Product Line Manager for Together Products and modeling technologies for EMEA at Borland. He joined Borland 2002 with the TogetherSoft acquisition, and has a history of 12 years working with, or close to Borland in different areas. Markus studied computer engineering in Frankfurt (Germany), worked as a programmer with Pascal and 4GL-Languages, was an independent trainer for Delphi and co-founded a publishing company for Developer-Magazines. His position at Borland before taking his current role was senior technical consultant for UML and Together products with a total of 16 years experience in the software business. Markus is an accomplished speaker and has presented at many conferences, seminars and training courses throughout Scandinavia and Europe."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Real Single Sign-on for web applictions",
+    "level": "intermediate",
+    "summary": "Etterhvert som bedrifter tar i bruk flere og flere web-løsninger internt øker brukernes krav om å slippe å oppgi brukernavn og passord for hver applikasjon. Microsoft har lagd en utvidelse av HTTP autentisering for IE og IIS som tillater brukere som er logget på en Windows-maskin på et Active Directory (AD) domene å autentisere seg mot websider uten å oppgi brukernavn og passord. Autentiseringen foregår ved at brukerens AD-sesjon sendes til webserveren og autentiseres mot AD-serveren. Dette foredraget viser hvordan man kan benytte dette i en Javaløsning uten å benytte IIS eller Windows på serversiden.",
+    "description": "Foredraget er praktisk rettet og går igjennom den nødvendige java-koden for å implementere denne typen av single sign-on. Det blir en kort overordnet beskrivelse av Single sign-on generelt og NTLM-protokollen, samt jCIFS-biblioteket som ble benyttet for å implementere dette. Foredraget er basert på erfaringer gjort på en webapplikasjon i WebSphere som kjørte på Windows, HP-UX og IBM stormaskin. Brukerne av dette systemet er logget på sin Windows arbeidsstasjon og trenger ikke å oppgi brukernavn og passord for å logge seg på webapplikasjonen etter at denne løsningen ble implementert. Det vil også bli en kort gjennomgang av hvordan dette kan benyttes på andre applikasjonstjenere som WebLogic og JBoss. Outline 0. Why single sing-on? Different ways of doing single sing-on 1. Background: Java Authentication and Authorization Service (JAAS) 2. Microsoft's NTLM authentication protocoll 3. Implementing single sign-on with NTLM using an open source library (jCIFS) 4. Making WebSphere trust our NTLM-implementation 5. Other application servers (BEA and jBoss) Required experience Man bør kjenne til J2EE.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Holger Zobel",
+        "biography": "Konsulent ( Accenture ) Holger har vært konsulent i Accenture i 7 år og er med i Accentures \"Global Architecture and Core technologies\"-gruppe som fokuserer på teknisk arkitektur og grunnteknologier. Han har de siste 5 årene jobbet på J2EE prosjekter og har en spesiell interesse for sikkerhet i webløsninger. Han er IBM Subject Matter Expert og jobber for tiden som leder for arkitekturgruppen i et større J2EE prosjekt som benytter Hibernate og Spring på WebSphere og DB2 på z/OS."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Refactoring with Multi-Paradigm Design",
+    "level": "intermediate-advanced",
+    "summary": "Multi-Paradigm Design handler om systematisk å kombinere flere paradigmer for design av software. I Java kan vi benytte objekt-orientering, meta-programmering, generisk programmering og aspekt-orientert programmering. Refaktorisering bør utføres for å unngå duplisering av kode. I mange tilfeller finner man duplisert kode som håndterer ”cross-cutting concerns”, dvs. funksjonalitet som går på tvers av klasser og metoder. Foredraget viser hvordan forskjellige paradigmer kan avvendes for å refaktorisere ”cross-cutting code”. Det vil være spesielt fokus på likheter og forskjeller mellom AspectJ Advice, Dynamic Proxy og objekt-orienterte design patterns, og hvordan velge blant disse. Prinsippene illustreres gjennom et case-study som tar utgangspunkt i en J2EE applikasjon basert på EJB og Struts som refaktoriseres ved å kombinere forskjellige paradigmer. Foredraget viderefører prinsippene fra fjorårets foredrag på JavaZone (Multi-Paradigm Design in Java), med fordypning på problemstillinger rundt refaktorisering av ”cross-cutting code”.",
+    "description": "Outline 1) Introduksjon (2.5 min.) - Oversikt over paradigmer i Java (OOP, Meta-progr, Generics, AOP) - Om å kombinere paradigmer 2) Refaktorisering (25 min.) - Felles kode på tvers av klasser og metoder (cross-cutting code) - Om behovet for refaktorisering - Språk-støtte i Java - AspectJ advice - Dynamic Proxy - OO design patterns 3) Case study (25 min.) - Refaktorisering av J2EE applikasjon basert på EJB og Struts ved å kombinere forskjellige paradigmer - Oppsummering (2.5 min.)",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Frode Standal",
+        "biography": "Chief consultant ( Kantega ) Chief consultant in Kantega. 13 years of experience in the software industry, 4 years of experience with J2EE as a developer and architect. Special interests include programming languages, design patterns and frameworks."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Build, deploy and test Enterprise JavaBeans in few seconds",
+    "level": "intermediate",
+    "summary": "Would it be interesting if you could (build &#61664; deploy &#61664; test) Enterprise JavaBeans in few seconds? In this session, you will learn how to easily create input data for your JUnit tests with XStream. Then you will learn how to benefit from running your tests with an embedded EJB container called OpenEJB. Finally, you will see how the same tests can be run unmodified on your full-featured production EJB container, e.g. Oracle OC4J.",
+    "description": "1 Introduction Would it be interesting if you could (build &#61664; deploy &#61664; test) Enterprise JavaBeans in few seconds? If you think it is interesting, read the rest of this article. In this article, you will learn how to easily create input data for your JUnit tests with XStream. Then you will learn how to benefit from running your tests with an embedded EJB container called OpenEJB. Finally, you will see how the same tests can be run unmodified on your full-featured production EJB container, e.g. Oracle OC4J. 2 Background With Enterprise JavaBeans, EJBs, the development-cycle (build &#61664; deploy &#61664; test) is very time-consuming. This is partly because EJBs run inside an EJB container which in turn depends on various resources like data-sources and JNDI provider. The traditional development-cycle (build &#61664; deploy &#61664; test) varies from few minutes up to half an hour depending on the complexity of your application, the number of beans and the features of the EJB container. Some EJB containers provide hot-deployment such that any change of the application results in an automatic re-deployment. Based on my experience, hot-deployment does not always function properly as a deletion of cache, a restarting of server and a re-deployment is very often needed. Another challenge with EJB development is to use the debugger tool with an EJB container. Since the test and the container system run in different JVMs, you have to setup a remote debugging environment which itself may become very complex. Unit-testing (JUnit) of EJBs is not easy either. Firstly, the beans have to be deployed to the container which itself is time-consuming. Secondly, you have two options with JUnit tests which each is complex and time-consuming: 1. The tests run within the container which requires that the test to be deployed to container. 2. The tests run in different JVM and act as a client against a remote EJB container. To accommodate with the above challenges, the J2EE community has come up with several good solutions to shorten the development-cycle (build &#61664; deploy &#61664; test). However, there are still many challenges mainly due to the number of technologies (EJB, Servlet/JSP, JMS, and JDBC) that a J2EE application relies on. In addition, there are many competing and complementary solutions out there. It is thus difficult to know exactly which one to choose. As it goes for EJB development, there are varying solutions. One solution is to test the application when it is deployed to an EJB container. The second solution is to test the application on a simulated EJB container. The second solution is to run some EJBs in the simulated environment which call other EJBs and resources in an EJB container. Nevertheless, each of the above solutions has its complexities and shortcomings. In below, you will be introduced to a combination of tools that significantly simplifies and shortens EJB development-cycle. To give you some number, it takes three seconds from the time some code has changed until the results of my tests appear on the screen on a Mobile Intel Pentium 4 – 2.2 GHz laptop. This article is based on the experience from an on-going development project. The project consists of roughly 300 Java classes and ten Enterprise Java Beans. Through out the article, we will refer to the tools that were used in the project. We used XStream, OpenEJB, Eclipse and Oracle OC4J. 3 Macroscopic view The technique is to use a light-weight embeddable EJB container inside your tests: “Instead of running your test inside a container, Run the container inside your test.” Most of the EJB containers have too much footprint to be embedded in an application. However, OpenEJB has been designed to be embedded and has a low footprint. We found OpenEJB to be a perfect choice for EJB development. As an embedded EJB container, OpenEJB starts in a couple of seconds (on a Mobile Intel Pentium 4 – 2.2 GHz laptop). When running, OpenEJB is like any other full-featured EJB container. But what if your project has already chosen a particular EJB container? Can you still benefit from OpenEJB? Can your tests be carried both in OpenEJB and your choice of EJB container? If yes, do you have to make lots of adjustments? How much effort do you have to make in order to embed OpenEJB? As an answer to the above questions, let me assert that it takes few minutes to setup OpenEJB and your tests can be run unmodified both on OpenEJB and your choice of EJB container. 4 Tools Let us first get an overview of the tools you need: Mandatory tools: J2SE for compiling and running the tests (www.javasoft.com) OpenEJB as embedded container (www.openejb.org) JUnit for writing and automating tests (www.junit.org) Optional tools: XStream for mocking (simulating) input data (xstream.codehaus.org) Eclipse IDE (www.eclipse.org) Some J2EE server your choice of application server for production purpose In our project, we used Eclipse as IDE and Oracle OC4J as EJB container for production. Furthermore, we used XStream to persist Java objects to XML files. These XML files were used for simulating input data for our tests. 5 Getting started Below is a summary of the steps you should take: 1. (Optional) As input data, feed your tests with XML files (mocks). This will save you from typing the very same input over and over again. Here, I recommend you to use XStream. XStream is a tiny but a powerful library that maps XML to and from Java. Instead of XML, you could use hard-coded Java objects as input, but this would pollute your code; not to mention how much time it would take to create and maintain such a Java code. 2. Write your tests with JUnit or some other unit-test framework. JUnit benefits from a large community and there are many extensions to JUnit. 3. Install OpenEJB (see below). 4. Deploy your application jar files to OpenEJB only once. This step does not need to be repeated as long as you do not add or remove EJBs or modify the configuration (see below). The deployment process typically takes a couple of minutes. 5. Any time you modify a piece of code, you can run the tests which an embedded OpenEJB. You will probably repeat this step very often. 6. When you are satisfied with the quality of the code in step 5, run the same tests on the application server that you have chosen for production. The purpose of this step is to discover possible incompatibilities between OpenEJB and your production application server. 5.1 (Optional) Create XML-mocks To speed up the development, we can use XStream to create XML-mocks as input data for the tests. XStream is a powerful yet easy-to-use library for converting Java to and from XML. In order to use XStream, make sure the following jar files are in your classpath: 1. xpp3-1.1.3.4d_b4_min.jar 2. xstream-1.0.2.jar The following statements will create an XML representation of any Java object: XStream xstream = new XStream(); String xml = xstream.toXML(someJavaObject)); Let us see how we can use the above code to generate input data for your tests. Consider you want to test the following code: public class CarReservation(){ public boolean reserveCar(Car car){ // do something with the car } } The reserveCar method takes a car as parameter. Now, the question is how to create the car object? Of course, one method would be to hard-code the car object. Another method would be to capture a snapshot of a car object and re-use the snapshot as input for the tests. Suppose your application contains the following code: public void getCarInformationFromUser(Request request){ Car car = request.getCar(); } You could modify the above code to: public void getCarInformationFromUser(Request request){ Car car = request.getCar(); XStream xstream = new XStream(); System.out.println(\"car=\" + xstream.toXML(car)); } If you run your application once, you can copy the XML representation of the car object from the standard output and save it to a file. Now you can test the reserveCar method with the XML-mocks you just created: public void testReserveCar(){ / Read the Xml string from a file / String xml = SomeFileReader.getCarXML(); XStream xstream = new XStream(); Car mockCar = (Car) xstream.fromXML(xml); / continue the test / CarReservation reservation = new CarReservation(); boolean ok = reservation.reserveCar(mockCar); assertTrue(ok); } You may decide to standardize the way objects are converted to XML by creating an interface and let your classes (or preferably super classes) implement it: public interface XMLStylate { / @return a string that contains the XML representation of an object. / String toXML(); } Your CarReservation class can be extended with the following method: public class CarReservation() implements XMLStylate{ public boolean reserveCar(Car car){ // do something with the car } public String toXML(){ XStream xstream = new XStream(); return xstream.toXML(this); } } 5.2 Write your JUnit tests Your EJB tests will look like a code that is run within an EJB container. Many frameworks for EJB-testing require the tests to contain some framework-specific code. As you can see, the following test does not contain any framework-specific code. Let us write a simple test for our Car Reservation application: public class CarEjbTest extends TestCase { private Context context; private Car mockCar; public final static String CAR_HOME = \"ejb/car/Car\"; protected void setUp() throws Exception { super.setUp(); context = new InitialContext(); / You have to write some file reader that reads the XML representing the car object. / String xml = SomeFileReader.getCarXML(); mockCar = (Car) (new XStrem()).fromXML(xml); } protected void tearDown() throws Exception { super.tearDown(); } public void testCar() throws Exception { try { / Get the reference to home object / Object objref = context.lookup(CAR_HOME); CarReservationHome carReservationHome = (CarReservationHome) PortableRemoteObject.narrow(objref, CarReservationHome.class); CarReservation carReservation = carReservationHome.create(); boolean ok = reservation.reserveCar(mockCar); assertTrue(ok); } catch (NamingException e) { e.printStackTrace(); } catch (RemoteException e) { e.printStackTrace(); } } } Interestingly, the above test can be run both inside and outside an EJB container. It is thus possible with the following alternatives: 1. test calls EJB beans that are deployed and run as part of an embedded OpenEJB container 2. test makes remote calls to EJB beans that are deployed to an EJB container 3. test runs in an EJB container and makes local calls to EJB beans 5.3 Install OpenEJB OpenEJB can be installed as a standalone server or an embedded container. 1. Download OpenEJB 2. Unzip it to a folder, say to c:\\java\\openejb 3. Create a new configuration from scratch a. Remove the old configuration move conf conf.bak b. Create an empty folder called conf mkdir conf c. In the recently created conf folder, create the following files: i. openejb.conf ii. logging.conf iii. myapp.cmp.global-database.xml iv. myapp.cmp.local-database.xml v. myapp.cmp.or-mapping.xml d. Edit openejb.conf and make sure that it correctly references the myapp.cmp.global-database.xml, myapp.cmp.local-database.xml and myapp.cmp.or-mapping.xml. Note that the path is calculated from c:\\java\\openejb. For example, the path to myapp.cmp.global-database.xml would be conf/myapp.cmp.global-database.xml in openejb.conf. In all the above files, you need to define various CMP and BMP containers. Furthermore, you need to define connectors for various data sources. 4. Add your jar file to OpenEJB configuration. In openejb.conf, add a reference to your jar file. For example: <Deployments jar=\"C:\\dev\\myapp\\deploy\\myapp-ejb.jar\"/> 5. Make the necessary modifications in each of the above files. For more details, download the sample configuration from http://xxxxxxxxxxxxxxxxx 5.4 Deploy to OpenEJB Deploy your application jar file only once to OpenEJB. By doing so, OpenEJB will add a file called openejb-jar.xml to your jar file. The openejb-jar.xml file contains configuration information specific to OpenEJB. If you add or remove EJB beans, you have to go through the deployment process again. Here is the syntax for deploying a jar file: openejb deploy -a -c C:\\dev\\myapp\\deploy\\myapp-ejb.jar Now, you need to backup openejb-jar.xml. You will find it under META-INF folder of the application jar file. Simply, go to command prompt and run the following to extract the files: jar xvf C:\\dev\\myapp\\deploy\\myapp-ejb.jar You have to make sure that openejb-jar.xml is added to application jar file everytime you make a new build. For example, if you use ant, make sure ant always includes openejb-jar.xml. It is very important to have the same naming convention in the application, the test and openejb-jar.xml. This will make sure that the same application and the same test be run unmodified both in OpenEJB and your choice of production application server. For example, in the above test, we used the following the convention: public final static String CAR_HOME = \"ejb/car/Car\"; Therefore, make sure that the configuration in openejb-jar.xml looks like this: <ejb-deployment ejb-name=\"TheCar\" deployment-id=\"ejb/car/Car\" container-id=\"Default Stateless Container\"> </ejb-deployment> 5.5 Run the test with embedded OpenEJB Here comes the magic. All you just need is to add the following command line arguments to your JUnit tests: -Djava.naming.factory.initial=org.openejb.client.LocalInitialContextFactory -Djava.naming.provider.url=ormi://localhost:4201 -Dopenejb.home=c:\\java\\openejb\\openejb-0.9.2 -Dopenejb.configuration=c:\\java\\openejb\\openejb-0.9.2\\conf\\openejb.conf -Dopenejb.loader=embed -Dopenejb.localcopy=true If you have configured OpenEJB with username and password, the following arguments must also be added: -Djava.naming.security.principal=adminusername -Djava.naming.security.credentials=password Let us walk through the above arguments. The following two arguments tell JVM to use OpenEJB as JNDI provider: -Djava.naming.factory.initial=org.openejb.client.LocalInitialContextFactory -Djava.naming.provider.url=ormi://localhost:4201 In fact, the first time your application asks for a JNDI resource, LocalInitialContextFactory initializes and starts an instance of OpenEJB. OpenEJB will then deploy and start the jar files that are specified in openejb.conf. The following two arguments tell where the home of OpenEJB is and where the configuration file is: -Dopenejb.home=c:\\java\\openejb\\openejb-0.9.2 -Dopenejb.configuration=c:\\java\\openejb\\openejb-0.9.2\\conf\\openejb.conf As you can see, only absolute path is used since OpenEJB otherwise does not initialize properly. Finally, the following lines make sure OpenEJB is started in embedded mode: -Dopenejb.loader=embed -Dopenejb.localcopy=true Here is how CarEjbTest is run with embedded OpenEJB in EClipse: 5.6 Run the test on the remote production server See the documentation of your choice of EJB container. With Oracle OC4J, it is very simple. 1. Start OC4J 2. Deploy your application to OC4J 3. Run the test with the following command line arguments: -Djava.naming.factory.initial= com.evermind.server.ApplicationClientInitialContextFactory -Djava.naming.provider.url=ormi://localhost:23791/myapplication -Djava.naming.security.principal=admin -Djava.naming.security.credentials=password The above command line arguments specify that OC4J is the JNDI provider. Furthermore, it tells OC4J to expose the resources within the application myapplication. Oracle provides two different classes as JNDI provider: 1. com.evermind.server.ApplicationClientInitialContextFactory 2. com.evermind.server.rmi.RMIInitialContextFactory For a discussion about which class to choose, see: http://www.di.unipi.it/~ghelli/bdl/A97329_03/web.902/a95879/jndi.htm. Here is how CarEjbTest is run for OC4J in eClipse: 6 Discussion Frequent testing of EJB's is usually time-consuming. Several frameworks try to reduce the time it takes to test EJB's, but these frameworks often require one to learn framework-specific features. As it is illustrated above, the time it takes to test EJB's is significantly reduced by using OpenEJB as an embedded container. In embedded mode, OpenEJB runs within the test's JVM. The boot time of OpenEJB is few seconds. In our project, we have 160 classes and ten EJB beans. The JUnit tests run on a laptop which is a Mobile Intel Pentium 4 – 2.2 GHz. It takes almost 3 seconds for OpenEJB and the tests to start. There is no need to redeploy or empty the cache when the same test is run over and over again. Most of the time, say 90%, the development (build &#61664; deploy &#61664; test) is done using an embedded OpenEJB. When the developer feels that a component is ready for integration testing, the application is deployed to the application server that is chosen for production, say Oracle OC4J. In author's experience, XStream is a great tool that can be used to generate input data in XML for the tests. When testing, XStream simply saves the developer from punching the same input data over and over again. 7 Acknowledgments I would very much like to thank the following persons for reviewing this article: 8 References http://www.openejb.org http://xstream.codehaus.org/ http://www.theserverside.com/articles/article.tss?l=ContainerDrivenTestingSeries http://blog.ideoplex.com/software/2004/01/29.html#a768 http://blog.ideoplex.com/software/2004/03/31.html#a828",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Nader Aeinehchi",
+        "biography": "( EDB Business Partner ) Nader Aeinehchi works as Chief Architect at EDB Business Partner AS, Norway's largest IT compnay.  Nader holds a MSc in Physics.  He has been working with various programming languages and operating systems since 1987. Since 1996, Nader has been reading, teaching and coding Java.  Nader can be reached at nader@edb.com or nader@aeinehchi.com.  For more information, please visit http://www.aeinehchi.com."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Single sign-on - is it really so difficult?",
+    "level": "advanced",
+    "summary": "Implementing Single sign-on (SSO) can be challenging to implement in heterogeneous environments. There are many approaches, some of them involving rather large and intrigue solutions. We demonstrate some of the simpler approaches that you may use to implement web single sign-on, based on experience from successful SSO implementations. These approaches consist of leveraging possibilities in your existing IT environment, and tailoring a solution to fit your requirements. We will demonstrate that in many situations, you will be able to create a relatively easy SSO implementation without introducing large changes to your environment.",
+    "description": "- What is single sign on its benefits (5min) - Bringing in the big guns. WebSEAL and SiteMinder (10min) - Dissecting single sign-on. What makes it tick? (10min) - Lighter guns - tailored to actual needs (15min) - Experiences from the field: lessons learned (5min) - Demonstration (5min) - Q&A (10min) Required expirience: Basic security knowledge. Basic architectural knowledge. Expected audience: J2EE architects and developers.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Vidar Kongsli",
+        "biography": "Senior consultant ( Bekk Consulting AS ) Vidar Kongsli is a senior consultant with Bekk Consulting AS, and works as a system developer and architect. He has worked with enterprise solutions on various platforms for five years. He heads the security competency group in BEKK."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Implementing an Open Source Enterprise Service Bus Solution",
+    "level": "intermediate-advanced",
+    "summary": "An introspective of how a large utility company utilized open source to solve the problem of moving 24x7 mission critical data around an organization requiring workflow, transactions, providing/transforming data from one system and format to another with distributed components. The overall goal was to replace hundreds of small, one-off applications with an enterprise class, distributed J2EE architecture. The completed solution is a prime example of using 100% open source software to develop an enterprise class system that saved the organization a significant amount of investment in commercial software. The solution resulted in a centralized enterprise service bus architecture utilizing best-in-class architectural concepts, J2EE components and open source implementations, such as Spring, Webservices/AXIS, Hibernate, JBoss, Quartz, JBPM, EJB/MDB, JMS, and JMX/MBeans.",
+    "description": "This presentation will focus on various aspects of the project including the overall architecture, the project’s affect on the business, the open source software used to complete the project and the many struggles throughout the project lifecycle. The project will be demonstrated and discussed throughout the discussion of the architecture and the open software used to accomplish the project goals. TOPIC OUTLINE The Problem Definition Many data formats Many incompatible systems/applications moving the data Lack of identified workflow Lack of status notification The Business Constraints Limited budget Limited time Must follow the company process The Solution Centralized management of transformations Guaranteed delivery of events and results Workflow/Task identification and management Pluggable transformation component framework Scheduled and manual implementation of tasks The Project Architecture Build system (Maven) Unit and functional tests (JUnit) Administrative web console (Struts) Scheduler (Quartz) Workflow (JBPM) Messaging event engine (JMS/MDB) Activity transformers (moving data, performing business logic) Notification (JavaMail) Using IoC effectively (JMX, Spring) Persistence to multiple data stores (Hibernate, Spring JDBC) Generation of object model and business delegates (Middlegen, XDoclet) Single sign-on (JAAS, JCIFS) Application Server (JBoss) Webservices/AXIS (SOA communication to third party systems) Operating System (Linux) Lessons Learned What worked What didn’t",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jeff Genender",
+        "biography": "Practice Leader ( Virtuas Solutions ) Jeff Genender is a Practice Leader for Virtuas Solutions, an Open Source Strategy and consulting organization. He has over 16 years of Software Architecture, Team lead, and Development experience in multiple industries. Jeff authored \"Enterprise Java Servlets\", September 2001, Addison Wesley Longman, which was one of the first how-to books on properly architecting and developing enterprise class java web applications. Jeff also is currently authoring \"JBoss Live\", 2005, Sourcebeat. Jeff is currently an active committer and on the Project Management Committee for Apache Geronimo and has also contributed to a number of other open source projects. Jeff is an open source evangelist and has successfully brought open source development efforts, initiatives, and success stories into a number of fortune 500 companies, saving these organizations millions in licensing costs."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Can EJB 3.0 make developers more productive",
+    "level": "intermediate",
+    "summary": "This session will walk the audience through the experiences gained migrating real world EJB 2.x applications to EJB 3.0. Session will cover the key differences in coding and design patterns between EJB 2.1 and EJB 3.0 applications. Specific tips and techniques that can be adopted for migrating applications to EJB 3.0, and potential pitfalls that developers should be aware of will be discussed with real examples. This session will also highlight the potential limitations of EJB 3.0 specifications and implementations and what can be done to better improve the developer experience in building applications.",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Raghu Kodali",
+        "biography": "( Oracle ) Raghu R. Kodali is Consulting Product Manager and SOA Evangelist for Oracle application Server. Raghu leads next-generation SOA initiatives and J2EE feature sets for Oracle Application Server, with particular expertise in EJB, J2EE Deployment, Web Services and BPEL. Prior to product management, Raghu held Presales and Technical Marketing positions in Oracle Asia-Pacific, based in Singapore. Prior to Oracle, he worked as software developer with National Computer Systems, Singapore. He holds a Masters Degree in Computer Science, and is a frequent speaker at technology conferences. Raghu maintains an active blog - Loosely Coupled Corner - http://www.jroller.com/page/raghukodali"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "A Performance Comparison: EJB 2.1 vs EJB 3.0",
+    "level": "intermediate",
+    "summary": "This paper describes the findings of performance comparisons between design patterns and typical uses of EJB 2.1 with similar functionalities using the new features of EJB 3.0. Concentrating on some of the most common techniques used by EJB developers, we review the use of patterns such as Data Transfer Object and Session Facade and compare them with equivalent functionalities in EJB 3.0. We also compare Container Managed Relationship of EJB 2.1 with the EJB 3.0 getters/setters. The test code and harness, as well as the testing methodology, from the book \"J2EE Performance Testing\", will also be explained and made available.",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Raghu Kodali",
+        "biography": "( Oracle ) Raghu R. Kodali is Consulting Product Manager and SOA Evangelist for Oracle application Server. Raghu leads next-generation SOA initiatives and J2EE feature sets for Oracle Application Server, with particular expertise in EJB, J2EE Deployment, Web Services and BPEL. Prior to product management, Raghu held Presales and Technical Marketing positions in Oracle Asia-Pacific, based in Singapore. Prior to Oracle, he worked as software developer with National Computer Systems, Singapore. He holds a Masters Degree in Computer Science, and is a frequent speaker at technology conferences. Raghu maintains an active blog - Loosely Coupled Corner - http://www.jroller.com/page/raghukodali"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Successfull unit testing of large enterprise java systems with Surrogate",
+    "level": "advanced",
+    "summary": "Large and complex Java systems are often difficult to unit test due to tangled code, problematic design patterns and certain aspects of the Java language. This talk describes how a complimentary framework can be used to introduce unit testing in large Java enterprise systems. The framework has been used on a Java system comprising 5000+ Java classes with more than one thousand service methods and makes it possible to effectively isolate virtually any module for unit testing without changing the production code.",
+    "description": "Introduction (15 minutes) What is a (good) unit test? Unit test in XP vs. the industry Isolation of what to test --> Mock objects Repeatable tests Test what possibly can break Common misconceptions Problems with unit testing in large enterprise systems Pipeline design Singletons and factories Datasources ++ Tackling the problem (10 minutes) Known strategies for testing this kind of systems JUnit-integration tests Refactoring to unit-testable design (e.g. inversion of control) Catch-22: refactoring to testability with no unit test... No unit testing An alternative approach: Surrogate (5 minutes) Non-intrusive with respect to production code No refactoring required Mock singletons, factories, DB-connections, 3-rd party libraries and whatever you want Makes uses of AOP technology in the background Demo (7 minutes) References (1 minutes) Summary (5 minutes) Q&A (10 minutes) Required experience: Knowledge of unit testing in Java, and preferably of use of mock objects. Intended audience: Experienced developers, system architects and other technically compentent personnell.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Per Hustad",
+        "biography": "( Telenor AS ) Per has 14 years of experience in software development in fields reaching from space control systems to e-business and is currently working in Telenor AS on a large java enterprise system. During the last couple of years Per has been involved in open source development, and in addition to having developed Surrogate, he has also made important contributions to the AspectJ project."
+      },
+      {
+        "name": "Daniel Bakkelund",
+        "biography": "( Telenor ) Daniel has been working with software development for 7 years."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "JBoss 5 – lightweight middleware with EJB3",
+    "level": "intermediate-advanced",
+    "summary": "“The future of Enterprise Java” Covers the motivation behind the EJB3 specification and how it addresses the issues with EJB2.1. Gives an introduction to how enterprise Java will be simplified and empowered using the evolved specification. By combining the new JBoss microkernel with the specification we will show how true lightweight applicationservers are going to impact future enterprise development, and how middleware eventually will be found everywhere.",
+    "description": "Outline and duration The motivation behind the new EJB3 specification The people and companies driving the innovation Sample EJB3 code Inside and outside the container Introducing Jboss5 and the new Jboss microkernel Middleware everywhere Examples Bringing it all together: the future of enterprise development Examples Conclusions Questions and Answers Intended audience: Enterprise architects, ISVs and channel enablers who wish to see the direction enterprise Java is going.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Thomas Roka-Aardal",
+        "biography": "( Conduct A/S ) Thomas Roka-Aardal (28) er utdannet fra Ingeniørhøgskolen i Oslo og har en bred bakgrunn fra mange aspekter rundt systemutvikling. Han fokuserer på robust og standard-basert utvikling i team og har erfaring fra forretningskritisk teknisk prosjektstyring, konfigurasjonsstyring samt build- og deploy-prosesser. Han sitter for tiden i Pareto prosjektet i Telenor Mobil med fokus på refactoring av J2EE mellomvareløsninger. Thomas bidrar også som ansvarlig for JBoss Reloaded."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "FitNesse: Building the right code",
+    "level": "beginner-intermediate",
+    "summary": "How do you know that the software you are building is what the customer wants? Is there any way to involve the customer continuously throughout the project and verify that you are moving in the right direction? Enter the world of Automated Acceptance Testing and the Framework for Integrated Tests (FIT). FitNesse automated tests bridges the gap between customers, test staff and developers, facilitating collaboration as well as early and frequent feedback in a deterministic way. Tests are easy to create and maintain for business resources, can be integreted in your continuous integration cycle and are invaluable for regression testing. While unit testing and TDD helps you building the code right, automated acceptance tests ensures that you are building the right code.",
+    "description": "Outline (60 minutes including Q&A) Automated acceptance testing, FIT and FitNesse (5 min) Basic FitNesse Demo: Your first FitNesse test (5 min) Writing FitNesse tests: Tables and Fixtures (5 min) FitNesse demonstration and examples from an enterprise project (10 min) Integrating FitNesse in the development and test environment (5 min) Benefits and customer involvement in the process (10 min) Communication and collaboration between the customers, project management, developers and other stakeholders Automated regression testing Progress reporting; know when you're done Measuring code coverage to indicate test quality Lessons learned, tips and tricks (10 min) Q&A (10 minutes) Required experience: None Expected audience: All roles in any project will benefit from learning and applying automated acceptance tests, including developers and architects, test personnel, project managers and persons working with functionality and requirements. A basic understanding of testing in general, Test-Driven Development and functional testing is an advantage. Source-code for the presentation can be found here [437Kb] Other examples can be found here",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Trond Arve Wasskog",
+        "biography": "Java architect ( Bekk Consulting ) Trond Arve Wasskog is a Java architect working at Bekk Consulting. He has been involved in Java and J2EE application development for ten years, focusing on software development, testing and quality. Currently he is responsible for competency development in BEKK, managing the Technology competency groups."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Report from the trenches - Building Statoil's TOPS portfolio",
+    "level": "intermediate",
+    "summary": "The presentation gives an overview of challenges and opertunities provided by the Java platform, when building large scale enterprise systems for a demanding business. We will present the business requirements and how these requirments are met by an event driven architecture, and how the architecture is trasnsformed into working code. Practical examples of interesting areas and use of tools and techniques will be addressed.",
+    "description": "Statoil Wet Supply Chain (10 min) Overview of the business and the driving requirments TOPS - Trading and OPeration System The SJEF architecture & its tools (15) From data processing to process automation - The need for an event driven architecture Decision making, autonomy and collaboration List of key tools and Sharing experiences from one of the main areas (25) Client side challenges and solutions Designing a distributed system the inherent complexities of distribution Organizing the client code, role based user access, server communication use of the command pattern Swing and the MVC pattern i practice. Lazy loading, domain centric client code Software agents and usability Server side challenges and solutions Domain driven design in practice, working with deep object models Use of repositories and JDO. Mapping of rich object models to relational databases, considering use of object databases Integration and event (message) processing, practical use of JMS Integration of BRSM systems in a rich object model, does and donts, benefits and concerns Inversion of control and the Spring framework, experienced benefits and concerns Questions 10 min Required Experience: Some experience with J2EE development and rich clients is recommended. Expected Audience: Architects, designers and developers interested in an experience report from development of enterprise scale information systems.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Einar Magne Landre",
+        "biography": "Software archtitect ( Statoil ) Software archtitect and lead technology officer for the whole TOPS portfolio. More than 20 years of experience with development of large systems and practical use of object oriented"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "JOnAS Integrated Application Platform: A new generation of Java Middleware Platforms",
+    "level": "intermediate",
+    "summary": "This session presents the key concepts of Java Middleware Platforms and how and why open source based platforms will play a principal role in the middleware development and systems integration. Get insight into existing integration approaches, get answers to your questions about their benefits, differences and effective infrastructures/platforms to deploy them. The session will focus on the Service Oriented Architecture (SOA) concept as natural approach to define abstract services included in those platforms. Learn from the experience of the Bull R&D department and how they leveraged the Java open source development to implement a Java Integrated Platform on top of JOnAS J2EE Application Server. The session also introduces the Bull ESB Platform, the current work around and concludes with a demo focused on a real-world use case.",
+    "description": "Bull R&D (JOnAS Team) and ObjectWeb introduction What are Java Middleware Platforms? What’s on? What’s new with open source based Java Middleware Platforms? Java Middleware Platforms and systems integration Service Oriented Architecture (SOA) vs EAI approaches SOA and Web Services JOnAS Integrated Application Platform insight: JOnAS components and services introduction New vertical services, components and tools added on top of JOnAS A second step: Bull Enterprise Service Bus Demo: putting together the Bonita Workflow System, a JetSpeed based portal and BPEL engine for web services orchestration. Required experience Participants should have a good skill in Java programming and Java existing infrastructures. A first contact with interoperability issues with non-java programming languages, heterogeneous systems integration and workflow systems would be suitable. Expected audience Due to the dual vision of the session (Java development and systems integration solutions), this speech is oriented to both Java architects and Java project managers. Participants will get a general overview about the ObjectWeb open source consortium and one of its most active contributors: the Bull R&D department. Attendees will learn what a Java Middleware Platform is, its benefits, problems targeted and possible implementations. Attendees will also gain insights into Service Oriented Architecture approach used on those platforms and how this approach will be used to simplicity the java middleware development and heterogeneous systems integration issues.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Miguel Valdes Faura",
+        "biography": "Architect Specialist ( Bull ) Miguel Valdes Faura is an architect specialist in J2EE working for Bull. He obtained his degree in Computer Science from Rovira y Virgili University in Spain (Management Speciality) and his Master’s Degree in Information Technologies from the Universities of Nancy and Metz (France). He has worked in Spain in different European projects based on J2EE platform and Open Source application servers. He joined INRIA, the French Research Institute in Computer Sciences, on February 2001. Within a team of researchers dedicated to collaborative applications, the ECOO team, he started to work on the Bonita Workflow System. He soon got mad about workflows and the possible ways to implement smart functionalities easily based on J2EE features. Thanks to his enthusiasm, BONITA has been very successful, joining the ObjectWeb consortium, and gathering a large community of users. He is nowadays the principal architect of the JIAP project at Bull R&D France and he is working on components and services included in the next Bull Enterprise Service Bus platform. He is a regular speaker at international Java conferences: JavaOne, Internet Global Congress, Open Source World Conference, javaHispano Conference, ObjectWebCon…"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Effective Enterprise Java",
+    "level": "intermediate-advanced",
+    "summary": "15 of the 75 Items from the book of the same name, providing rules for building enterprise Java systems that will scale, will perform, and most of all, won't suck.",
+    "description": "( ) Introduction ( ) 10 Fallacies: ( ) Remember identity breeds contention ( ) Keep data and processors close together ( ) Build in monitoring support ( ) Build in administration support ( ) Make deployment as simple as possible ( ) Pass data in bulk ( ) Prefer rules engines for complex state evaluation/execution ( ) Prefer transactional processing for nonatomic failure ( ) Recognize the object-hierarchical impedence mismatch ( ) Never assume you own the data or the database Required experience: Attendees should be at least passingly familiar with the major elements of the J2EE stack, such as servlets, JSP, JDBC, and/or EJB. Expected audience: Anyone who wants to see ways in which to make enterprise Java applications not suck.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "",
+        "biography": ""
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Concrete services",
+    "level": "intermediate",
+    "summary": "Much has been made in recent months about service-orientation or SOA (service-oriented architecture), but not much has been said that's concrete and usable. In this talk, we'll talk practically about the 4 Tenets of Services, why they look the way they do, and what they mean at a practical level.",
+    "description": "Required experience: Audience should have some familiarity withdistributed systems programming; any of RMI, CORBA, EJB, .NET Remoting, DCOM, COM+/EnterpriseServices, or OSF RPC would be fine. Expected audience: Audience should be familiar with some of the terms of Service-Oriented programming, only so that we can get beyond the hype and get into the core of what SO is.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ted Neward",
+        "biography": "Ted Neward is an independent consultant specializing in high-scale enterprise systems, working with clients ranging in size from Fortune 500 corporations to small 10-person shops. He is an authority in Java and .NET technologies, particularly in the areas of Java/.NET integration (both in-process and via integration tools like Web services), back-end enterprise software systems, and virtual machine/execution engine plumbing. He is the author or co-author of several books, including Effective Enterprise Java, C# In a Nutshell, SSCLI Essentials, Server-Based Java Programming, and a contributor to several technology journals. Ted is also a Microsoft MVP for Architecture, BEA Technical Director, INETA speaker, DevelopMentor trainer, frequent conference speaker, and a member of various JSRs. He lives in the Pacific Northwest with his wife, two sons, two cats, and eight PCs. Reach him at ted [at] tedneward.com or visit blogs.tedneward.com."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "WebWork in Action: An introduction to WebWork.",
+    "level": "intermediate-advanced",
+    "summary": "In this presentation, we'll take an in-depth look at the WebWork MVC framework. Designed for both those familiar with WebWork as well as those unfamiliar, this presentation will showcase the unique features that make WebWork such a great platform to develop on. Starting off with a quick \"Wow\" example demonstrating the power and ease of use of WebWork, we'll then look at the various aspects of the example, detailing WebWork's unique features along the way. This presentation is very \"hands on\", so you can expect to see lots of code and discussion around that code. No charts and diagrams here!",
+    "description": "Introduction 3 minutes WebWork, web applications, who am I, etc Quick overview of OpenSymphony Wow example 7 minutes Show a simple WebWork action, form using UI tags, and \"long running process\" Show off demo flowchart using WebWork \"WebFlow\" tool Overview 8 minutes High level design Main features: o Broad technology support: JSP, JSTL, FM, Velocity etc o Advanced expression language o Extensible template library o Advanced type conversion o Interceptors provided unlimited extension points Core concepts 6 minutes Actions Interceptors Results Template library 9 minutes Go over example from \"Wow\" example Demonstrate advanced components, such as the Select tag Demonstrate HTML output and JSP input side by side Demonstrate how to customize templates Discuss themes and show how to create a new one Type conversion 5 minutes Why it is important in HTTP Advanced uses Uses of interceptors 7 minutes Double submit problem Long running processes Parameter dependency and object loading Wrap-up 5 minutes New features in WebWork 2.2 Plug AJAX presentation Conclusion Q & A 10 minutes",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Patrick Lightbody",
+        "biography": "Head of Jive Software's Professional Services ( Jive Software ) Heading up Jive Software's Professional Services organization, Patrick Lightbody has worked for various technology companies, ranging from well-established giants such as Cisco Systems to tiny Silicon Valley startups. Patrick is the author of Java Open Source Programming and WebWork in Action and spends his spare time contributing to various OpenSymphony projects, including WebWork and OSWorkflow. While he grew up in the heart of the Silicon Valley, Patrick now resides in Portland, OR enjoying the beautiful year round weather."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "From Maven 1 to Maven 2",
+    "level": "advanced",
+    "summary": "Maven 1 is now a mature build system. It has some limitations but all build actions can be accomplished with it. It boasts hundreds of plugins that provide the full range of build needs. Maven 2 is the new kid on the block and is the successor of Maven 1.",
+    "description": "This session will explain the motivations behind Maven 2, what are the Maven 1 limitations it is fixing and where it is taking us in term of builds and more generally development tools. We'll assess the current state of Maven 2 and we'll provide tips for migrating a Maven 1 project to Maven 2",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Vincent Massol",
+        "biography": "Co-founder and CTO of Pivolis ( Pivolis ) In addition to being an active member of the Maven development team, Vincent Massol is the creator of the Jakarta Cactus framework. After having spent four years as a technical architect on several major projects, Vincent is now the co-founder and CTO of Pivolis, a company specializing in applying agile methodologies to offshore software development. He is the author of \"JUnit in Action\" and \"Maven: A Developer's Notebook\". Vincent lives in the City of Light, Paris, France."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Modularity (or how to tame a large Java project by splitting it into pieces).",
+    "level": "advanced",
+    "summary": "As software projects grow they become increasingly unmanageable. It seems that large projects inevitably grow into huge spaghetti-like structures. One way of enforcing a clean separation of functional areas is to physically partition the code base into many separate sub-projects with clearly defined dependency relationships. There are some interesting and wide-ranging benefits that result from this approach, but new problems and issues also emerge. Many of the Java IDEs now offer features which support the development of large projects containing hundreds of separate modules. These features will be reviewed in IDEs such as IDEA, Eclipse and NetBeans. Finally, this talk will introduce and demonstrate a new build tool based upon Ant, which is designed to assist in building very large numbers of modules and sub-projects.",
+    "description": "There will be five sections to this talk. 1. Introduction (10 minutes) Introduce key concepts: - what is a software module? - how big is it? - what terms can we all agree upon? 2. Comparing modular software to monolithic software (10 minutes) Large-scale monolithic software projects have a tendancy towards becoming 'great piles of spaghetti'. The idea of modularity is to prevent this happening, based on the observation that smaller projects are a lot easier to maintain than larger projects. Key advantages of a modular approach to software development using Java :- a) Agility - it's faster to build and test a small module than a large project. b) Architectural visibility - modules make it easier to see your project's overall structure. c) Support for major refactorings - modules make it easier to try out new ideas, integrate good ones and eject bad ones. d) Re-use - it's easier to turn useful code into common code when it's in a module. e) Architectural integrity - the code won't compile if a dependency is not explicitly declared. All these claims will be clearly explained and justified in the presentation. 3. IDE support for modularity (15 minutes) This section will be a lightning tour of a sample of Java IDEs to compare their support for developing software as a series of modules and dependencies. This will show how a modular project appears in each of these IDEs, and demonstrate supporting features of each IDE. a) IntelliJ IDEA 4.5 b) Eclipse 3 c) NetBeans 4 4. Building and testing modular software projects - demonstration (15 minutes) This final section will demonstrate mBuild, an open-source build tool based on Ant and the FreeMarker template engine. mBuild is not available today, but will be available before JavaZone 2005. The role of mBuild is to use metadata (usually contained in IDE project files) to build modules in the correct order according to rules contained in an Ant template. It helps in the development of large build systems. 5. Questions & Answers - 10 minutes Level: This is an advanced topic designed for experienced Java developers, but requires no previous experience in the subject area, which is likely to be new to most. Participants should have experience of working on a reasonably-sized Java project and ideally some experience of using Ant. Expected audience: Software developers, technically-savvy project managers and architects.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Malcolm Sparks",
+        "biography": "( independent consultant ) Malcolm Sparks in an independent consultant, software developer and trainer. He has been developing software in Java since 1996, producing developer tools such as EJBHome and jcoverage. The role of modules in software development has been a personal focus for Malcolm since early 2001."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Virkemidler for å bygge fremtidsrettede Java Enterprise applikasjoner",
+    "level": "intermediate",
+    "summary": "Hvordan bygge komplekse moderne virksomhetskritiske systemer med fokus på total livssyklus Når 1. versjon av applikasjonen er implementert skal den være bygd for å håndtere endringer. Dette kan være endringer knyttet til f.eks: - Ny funksjonalitet - Ny teknologi - Ny teknologisk plattform, f.eks. applikasjonsservere/databaserplattform - Antall brukere av applikasjonen - Brukermønster til applikasjonen, flere og evt. nye kanaler - Nye systemer som skal integreres mot applikasjonen",
+    "description": "Stikkord: Hvilke virkemidler bør og må settes i prosess i forkant og underveis i selve for å sikre høy effektivitet både i utviklingen og videreutviklingen/ forvaltningen av systemet i hele systemets levetid. Hvordan sikre kvalitet før leveranse/implementering av systemer: - Ha fokus på J2EE applikasjonens ”Life Cycle” - Java Automation- automatisert J2EE utvikling - Prosesser som gir mulighet for å systematisere og automatisere test Hvordan bygge systemer for å håndtere endringer knyttet til videreutvikling gjennom: - Bruk av hensiktsmessige, riktig og strukturerte patterns - Testing i hele utviklingsprosessen med ulike virkemidler og på alle nivåer - Kvalitetsikring underveis i utviklingen. (4) Level: Intermediate (5) Forventet publikum: Arkitekter, utviklere, metode- og prosessansvarlige",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Lars Reed",
+        "biography": "( Mesan ) Lars Reed er sjefskonsulent i Mesan AS. I roller som teknisk prosjektleder og arkitekt, har han gjennom årene bistått bedrifter med spisskompetanse på standarder, kvalitetskontroll og krav til struktur. Gjennom langvarige konsulentoppdrag, har han måttet ta sin egen medisin hva livssyklus og vedlikehold av store systemer angår."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Java @ Google",
+    "level": "beginner-intermediate",
+    "summary": "This talk will introduce some of the Google infrastructure components and illustrate how Java can be used in an environment with extreme scale computing..",
+    "description": "Google are not willing to let us publish the slide deck. However, they have supplied two articles: The Google File System MapReduce: Simplified Data Processing on Large Clusters",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Knut Magne Risvik",
+        "biography": "( Google ) Knut Magne Risvik is a Technology Director at Google, holding a PhD from NTNU on Scalable Computing. Previously Risvik was part of Fast Search&Transfer from the inception, and recently he served as the Chief Architect for Yahoo."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Secure and safe: Applied Web Services Security between Java and .NET",
+    "level": "intermediate",
+    "summary": ": Web Services seem to get everywhere. But are they secure 'enough'? Transport- or message-based security? When do I need what? When is one better than the other? SSL and WS-Security can be used to apply Web Services security between the Java and .NET platforms today. This session will demonstrate an hands-on approach to a widely discussed problem space. See examples on how to use the different token types in WS-Security and learn how to deal with certificates and other advanced security mechanisms. Leverage message encryption, signing and authentication to enable safe and secure communication between the Java and .NET worlds based on open and hopefully interoperable standards.",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Christian Weyer",
+        "biography": "( thinktecture ) Christian Weyer is co-founder of thinktecture (http://www.thinktecture.com/), a company aiding software architects and developers in realizing projects with .NET and distributed applications technologies. He is a world-wide recognized expert in distributed applications, XML, Web Services, and service-orientation. As a Microsoft MVP Solution Architect and one of the few independent Microsoft Regional Directors, he has made a name for himself in the developer community. He worked on projects focusing on Web Services-based interoperability between Java and .NET as well as between Java and COM/DCOM. Visit his Weblog at http://weblogs.asp.net/cweyer/ to find out more about Web Services and service-oriented integration, interoperability and programming, not just on the .NET platform."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Pragmatic SOA",
+    "level": "intermediate",
+    "summary": "SOA Importance By 2006, more than 75% of midsize and large enterprises will have deployed SOA-enabled development tools and middleware (Gartner 2004) By 2006, more than 60% of enterprises will consider SOA a guiding principle in designing their new mission-critical business applications and business processes. (Gartner 2004) By 2006/7, focus will shift from basic infrastructure to business frameworks via Web services-based, Service-Oriented Architectures. (Meta Group 2004) Sun Proprietary/Confidential: Internal Use Only SOA Impact - From Forrester",
+    "description": "Agenda What the analysts are saying Why the need SOA philosophy SOA business SOA architecture Q&A /ul>",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "John Crupi",
+        "biography": "Distinguished Engineer and Chief Java Architect ( Sun Software Services ) JOHN CRUPI is a Distinguished Engineer and the Chief Java Architect in Sun Software Services. He has over 17 years of experience in distributed object computing and remains focused on creating reusable, scalable J2EE architectures and bringing patterns to the next level. He is co-author or Core J2EE Patterns 1st and 2nd edition."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Pluggable, Customisable Patterns: The Key To Smart Automation",
+    "level": "beginner-intermediate",
+    "summary": "It is easy enough to design code generators that can churn out application software at a tremendous rate. But we must be aware of the perpetual tradeoffs between speed of development, and other desirable factors such as quality, security, maintainability, runtime efficiency and reliability. We do not want to carry things to extremes and generate mass-produced, inefficient software that fails to meet user requirements. The key is to strike a balance between automated efficiency and human creativity; and this is where pluggable, customisable patterns enter the picture. This presentation / demonstration will focus on automating the creation of software itself and the part pluggable, customisable patterns play, always remembering Albert Einstein's saying: \"Everything should be as simple as possible, but no simpler.",
+    "description": "- The need for smart automation: combining speed and control (10 minutes) - Model Driven Architecture (10 minutes) - Design patterns (10 minutes) - Pluggable, customisable patterns (25 minutes)",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Wim Bast",
+        "biography": "Chief Architect ( Compuware ) Wim Bast is Chief Architect at Compuware's Application Development and Integration Centre in Amsterdam, the Netherlands. Bast is responsible for the core architecture of Compuware’s Java development and integration solution, Compuware OptimalJ. He has worked for the Company for more than seven years, primarily focusing on integrating standard technologies, such as MDA and Java, into Compuware's tools. As Compuware’s main technical representative at the Object Management Group, Bast is directly involved in the development of the Model Driven Architecture (MDA) and its related standards, such as Meta Object Facility (MOF). He initiated the submission of the MOF 2.0 Query, View and Transformation Request for Proposal to the OMG. Bast is Compuware’s MDA and pattern expert, specializing in programming and modeling languages, as well as meta-modeling. He is co-author of the book ‘MDA Explained: The Model Driven Architecture: Practice and Promise’. He is a respected speaker on the topics of Unified Modeling Language (UML) and Model Driven Architecture (MDA). Prior to joining Compuware, he worked as an information analyst and developed tools for meta-data exchange between development and design tools."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Implementing an ESB using Mule - A real world Example",
+    "level": "intermediate",
+    "summary": "The talks starts with a brief overview if Enterprise Service Bus architecture, the JBI (JSR-208) specification Mule. It will then introduce a ‘real-world’ loan application that demonstrates some of the typical design traits of a service-based architecture. The application will show how to integrate JMS, SOAP, JDBC and HTTP with the services that make up the application. The talk will finish showing how to test and deploy the solution.",
+    "description": "Outline Brief overview to ESB Introduction to Mule and JBI Introduction to the loan Application Overview of the problem Systems involved Application architecture Technical Challenges Implementation with Mule Transports Components Routing Exception handling Testing Deployment Further Reading / Q&A Required experience J2EE technologies such as JMS, EJB and Web Services, with a broad understand integration issues and service oriented principals. Expected audience Developers and architects who develop applications that interact with other applications at the middle tiers.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ross Mason",
+        "biography": "CTO ( SymphonySoft ) Ross Mason is CTO with SymphonySoft in London. He has 10 years experience working mostly in Financial and Insurance sectors developing trading systems, straight-through processing systems and workflow integration solutions. Ross is the founder of the Mule project, a successful open-source ESB and JBI implementation that is being used in a variety of industries by companies such as HP, Sony, Deutche Bank and Vignette. Ross is one of the founding members of SymphonySoft; a company that delivers professional services and support for projects using Mule. He is based between London and Malta where he lives with his girlfriend. In his spare time enjoys wakeboarding and getting to the mountains to for snowboarding and apres-ski."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Enterprise Architecture / SOA: Prosjekterfaringer og klare meninger",
+    "level": "beginner-intermediate",
+    "summary": "Prosjekterfaringer: - EA/SOA: Granularitet, governance, KPI'er, BPEL etc. - Common Information Model (Shared Object Model/Domenemodell) med tilhørende transformasjoner - EA/SOA sett fra både IT avdelingen og forretningssiden - Kanskje litt om JSR207, JSR208 og andre viktige spesifikasjoner",
+    "description": "",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Leif Arne Rones",
+        "biography": "( Accenture ) Leif Arne er senior teknisk arkitekt i Accenture med 15 års erfaring fra bl.a. EA, SOA, EAI, J2EE og teknisk arkitektur. Han er også leder for Accenture's nordiske teknologi-satsning med spesialområde innen EA."
+      },
+      {
+        "name": "Tonny Gundersen",
+        "biography": "Arkitekt ( Accenture ) Tonny er teknisk arkitekt i Accenture med 7 års erfaring og har jobbet som konsulent for store norske, nordiske og europeiske kunder innen bank/finans, telekommunikasjon og det offentlige. Fokusområder er Java/J2EE, SOA, Integrasjon, BEA og OpenSource. Holdt presentasjon på JavaZone 2004 om prosjekt erfaringer med BEA 8.1 Platform."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Pattern Connections",
+    "level": "advanced",
+    "summary": "Patterns are often considered and presented in isolation or as part of a loosely themed catalogue. However, much of their power comes from connecting them together to describe whole systems or frameworks and how to build them.",
+    "description": "This session considers the ways in which patterns may be combined, presenting some of the current thinking on concepts such as pattern compounds, pattern stories, pattern sequences and pattern languages. It presents concrete examples in Java and UML. The session encourages attendees to think beyond their conventional pattern vocabulary.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kevlin Henney",
+        "biography": "( Curbralan Ltd ) Kevlin Henney is an independent consultant and trainer based in the UK. The focus of his work is in programming languages, OO, CBD, UML, patterns and software architecture. He is a columnist for C/C++ Users Journal (online), Application Development Advisor (UK) and JavaSpektrum (Germany), and previously wrote columns in Java Report and C++ Report. He is also a popular speaker at conferences in the US and Europe."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "HADB technology in the Sun Java System Application Server",
+    "level": "beginner-intermediate",
+    "summary": "The Sun Java System Application Server Enterprise Edition provides a high-performance, scalable, and robust J2EE platform for delivering enterprise-class application services and Web services.One of the key features in the EE edition is the built-in session persistent data store which delivers failover protection of Application Server instances in a cluster.",
+    "description": "The Always-On technology HADB is built on is originally a Norwegian technology. This presentation will explain how transparent session failover is achieved using HADB. (rough draft) Introduction (5 min) Application Server Overview (5 min) Load balancing and failover (10 min) Session Persistence (15 min) HADB technology (15 min) Duration: 50 minutes plus Q&A Expected audience and level: The presentation is suitable for anyone who would like to know more about the availability aspects of application server. The presentation assumes knowledge of the J2EE architecture.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Manyi Lu",
+        "biography": "Product Manager ( Sun Microsystems ) Manyi Lu, manyi.lu at sun.com. Manyi Lu is working as product manager in the database technology group at Sun. She has long experience in developing the kernel of the High Availability Database (former Clustra)."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Software Agents for Dynamic Java Enterprise Applications",
+    "level": "intermediate-advanced",
+    "summary": "The presentation gives an overview of Software Agents, and how they support the development of dynamic Java Enterprise Applications. We will describe different types of agents and their properties and capabilities, with special focus on agents using the the Belief Desire Intention (BDI) model of Artificial Intelligence. We will give examples of business scenarios that can benefit from the use of intelligent software agents and present a demo of a system for process control and dynamic distribution of workflow tasks.",
+    "description": "- Software Agents - Using software agents in enterprise applications - Demo: A Workflow client with Agents - Questions Required Experience: Some experience with J2EE development and rich clients is recommended. Expected Audience: Developers and designers interessted in ways of building more dynamic enterprise applications.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jørn Ølmheim",
+        "biography": "( Statoil ASA ) Jørn Ølmheim is a software architect with the information technology unit of Statoil ASA. He has been working with enterprise application development and Java/J2EE for the last eight years, the last two years as senior developer and designer/architect. Current focus areas are process support through the use of software agents and other event oriented technologies and agile methods including domain-driven design."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "What's the ideal weight of your container?",
+    "level": "intermediate",
+    "summary": "Two main goals of the EJB3 specification are developer productivity and reducing complexity, making the simple things easy and the difficult things possible. At the same time, lightweight containers such as the Spring Framework in combination with Hibernate could be a viable alternative. Enterprise architects are expected to explain the differences, advantages and drawbacks of the available technologies. It is important to see through the smokescreen to be able to explain the differences between the various alternatives and appreciate the consequences of the selected architecture.",
+    "description": "In this session we discuss the emerging EJB3 standard in relation to lightweight containers. Central qualities such as support for business logic, persistence, transactions, testability and remote access are compared. The assessment is based on the EJB 3.0 Preview provided by JBoss 4.0, as well as experience from several large projects using Spring and Hibernate. Brief introduction to the topic - 5 min. Persistence: EJB3 Entity Beans vs. Spring ORM/Hibernate - 10 min. Business logic: EJB3 Session Beans vs. POJOs managed by Spring - 10 min. Some services/aspects - 20 min: Transaction management Distribution and remote access Redundancy, scalability and fail-over Testability Development tool support - annotations and metadata Conclusion - 5 min. Q&A - 10 min. Duration: 50 minutes + 10 minutes Q&A Track: Enterprise (J2EE development and architecture) Required experience: Some J2EE experience. Expected audience: J2EE Architects and Developers. Developers who wish to learn more about EJB3.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Eivind Waaler",
+        "biography": "Senior konsulent ( BEKK ) Eivind Waaler is a senior consultant and Java architect in BEKK. He has 6 years of experience with J2EE development. Eivind has had talks at the 2003 and 2004 JavaZone conferences about Hibernate and persistence layer code-generation."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "JMX and AOP (Aspect Oriented Programming) for Building Manageable Applications",
+    "level": "intermediate",
+    "summary": "Two emerging fields of interest to the Java developer are Java Management Extensions (JMX) and Aspect Oriented Programming (AOP). This talk gives a rapid introduction to each of these areas to begin with, so that the attendee will be familiar with the terminology on leaving. Then, starting with the motivation that the application developer should be concerned about their manageability, but not have to work hard to incorporate it into their code, the talk presents a new approach to building manageability as an aspect, that is woven into the code at runtime. Annotations are shown as devices for attaching a JMX Managed Bean (Mbean) to a business object, and the potential disadvantages of doing JMX in this way will be pointed out.",
+    "description": "Some pragmatic steps are show that the developer can take today without going to full aspect-oriented programming, so that the application design will be ready for AOP once it becomes more accepted by mainstream. Some examples of AOP will be pointed out from work done on manageability code. Finally a look to the future will be taken with the potential for JMX to be incorporated into Integrated Development Environments (IDE's).",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Justin Murray",
+        "biography": "Technical consultant ( HP ) Technical consultant with HP's software business unit Works with customers on implementing manageability for Java/J2EE/web services based applications."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Design Patterns for Building Application Manageability using JMX.",
+    "level": "intermediate",
+    "summary": "This talk explains how to use JMX (Java Management Extensions) patterns in practical applications for building better manageable applications. The 7 design patterns that are described here were derived from real world projects that are now working and being managed in production. JMX has now become much more popular since it is incoporated into the Java 5.0 (Tiger) SDK. There were 5 different sessions on JMX alone at the JavaOne 2005 conference recently. More programmers will be paying attention to the production deployment parts of their applications in order to make them long-lived in the data center. This is expecially true for server-side or J2EE applications. This talk will enable the developer to avoid some pitfalls in using JMX and to make the best use of it for their application design. A white paper documenting the design patterns will also be available. The design patterns shown here build on the EJB Design patterns from F. Marinescu and the original design patterns by Gamma, Johnson, Vlissides and Helm to give the developer a more powerful language for describing manageability of their applications. The importance of profiling the JMX parts of the application will also be discussed.",
+    "description": "Examples of some of the patterns to be discussed are : MBeanForAppConfig, MBeanHelper, MBeanLivesForever, MBeanAggregator.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Justin Murray",
+        "biography": "Technical consultant ( HP ) Technical consultant with HP's software business unit Works with customers on implementing manageability for Java/J2EE/web services based applications."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Rich Internet Applications - the past, current and the future",
+    "level": "intermediate",
+    "summary": "Popular web sites such as Google Maps and MSN My Spaces, along with the emergence of \"Smart Clients\", raise the bar for what users expect from web applications. This session explores what challenges web developers face and what the available choices are to address them. The options explored span from simple Ajax validations to serializing business objects between servlets, client side script and back. The session also looks into the future of Ajax and Swing based \"Smart Clients\".",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Anders Norås",
+        "biography": "Solutions Architect ( Objectware ) Anders Norås is a solutions architect working for Objectware (www.objectware.no) He has ten years of experience developing web applications using both Java and Microsoft technologies. His blog can be read at http://dotnetjunkies.com/weblog/anoras/"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "From Struts to JavaServer Faces - Tips and Strategies for Using Struts with JSF or Migrating from Struts to JSF",
+    "level": "intermediate",
+    "summary": "In the past few years, Struts has emerged as the de-facto standard for Java web application development. It was the first major open-source framework to provide a basic Model-2 infrastructure with a host of useful features, a vibrant user community, and a strong commitment to backwards compatibility. Over the years, several competing frameworks have emerged, and in 2004, The Java Community Process released JavaServer Faces (JSF), as a new standard web user interface framework. JSF specifies a web user interface component model, complete with server-side event handling, validation, internationalization, page navigation, and declarative mapping between user interface components and Java objects. It is designed to work with JSP and other display technologies, and allow rapid development of web applications for HTML and non-HTML clients, using traditional RAD IDE metaphors.",
+    "description": "This session begins with an explanation of what JavaServer Faces is, and how it relates to Struts and other web frameworks currently on the market. Next, it examines different strategies for using Struts and JSF together as well as migrating from Struts to JSF, discussing the pros and cons of each approach. The session ends with an overview of future directions for JSF as well as Struts, and the Struts Shale project.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kito D. Mann",
+        "biography": "Editor-in-chief of JSF Central ( JSF Central ) Kito D. Mann is editor-in-chief of JSF Central (www.jsfcentral.com) and the author of JavaServer Faces in Action (Manning). He is also a member of the JSF 1.2 and JSP 2.1 expert groups, and a consultant specializing in enterprise application architecture, development, mentoring, and JSF product strategy. Kito has consulted with several Fortune 500 clients, including Prudential Financial and J.P. Morgan Chase & Company, and was recently the chief architect of an educational application service provider. He holds a BA in Computer Science from Johns Hopkins University."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "An introduction to JavaServer Faces, the new Standard Java Web User Interface Framework.",
+    "level": "beginner",
+    "summary": "Java web development has come a long way since the initial introduction of the Servlet API. Today, there are dozens of different frameworks -- dominated by Jakarta Struts -- that make web development faster and easier. However, until recently, most of these frameworks didn't mask the underlying request/response nature of HTTP, or concentrate on stateful user interface components. And only Struts has widespread industry adoption and tool support.",
+    "description": "JavaServer Faces (JSF) is a standard web user interface framework, developed under the Java Community Process (JSR 127), and released in March, 2004. JSF specifies a web user interface component model, complete with server-side event handling, validation, internationalization, page navigation, and declarative mapping between user interface components and Java objects. It is designed to work with JSP and other display technologies, and allow rapid development of web applications for HTML and non-HTML clients, using traditional RAD IDE metaphors. This talk explains what JavaServer Faces is, and how it relates to Struts and other web frameworks currently on the market. It will cover the architecture and key JSF concepts, and also show a sample application inside of an IDE such as Sun Java Studio Creator.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kito D. Mann",
+        "biography": "Editor-in-chief of JSF Central ( JSF Central ) Kito D. Mann is editor-in-chief of JSF Central (www.jsfcentral.com) and the author of JavaServer Faces in Action (Manning). He is also a member of the JSF 1.2 and JSP 2.1 expert groups, and a consultant specializing in enterprise application architecture, development, mentoring, and JSF product strategy. Kito has consulted with several Fortune 500 clients, including Prudential Financial and J.P. Morgan Chase & Company, and was recently the chief architect of an educational application service provider. He holds a BA in Computer Science from Johns Hopkins University."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "What can Design Patterns do for you – Background, Principles and Practical Experience",
+    "level": "intermediate-advanced",
+    "summary": "Most developers have by now heard of Design Patterns, but what are they, what is their history and how are they used? This presentation will start with the historical origins - the term 'Pattern' was used already in 1677, in a way that is surprisingly close to present usage. The architect Christopher Alexander was the founder of modern usage of the term, with architectural design starting in the late 60's. The software world picked up the thread around 1993, and the movement gathered momentum with the book Design Patterns by Gamma et al in 1994. Since then, Design Patterns have appeared on many levels. Some have become standard usage, some (iterator) have even become features of programming languages. Many books have been writen on Design Patterns, but it seems that only a relatively low number remains in widespread use - and their use is perhaps less widespread than we might expect. Testimonials abound, but rigorous empirical work is quite scarce. I will present empirical data gathered during my thesis research, both from formal experiments, code analysis and project postmortems. These data show that some patterns are correlated with lower error rates than average, while other patterns show the opposite effect. Names will be named – concrete patterns have been tested and the results are clear and interesting.",
+    "description": "After a historical introduction, as outlined in the abstract, the presentation will focus on three topics: 1) What are patterns really about? Not in an academic sense of trying to nail down a waterproof, rigorous definition, but in a practical sense – what kind of information and help should you expect from a good pattern, and what do you have to supply yourself. Design Patterns are not a silver bullet, and they won’t transmute novices into architects, claims notwithstanding. 10 minutes 2) What do we know about the practical consequences of using design patterns, from goodquality research? During my thesis research I have gathered most of the available research evidence (not much) and done a lot of research myself. In this part of the presentation, I will show what we know, and how we know it – again, in a way understandable to practitioners, not academics. An experiment performed in Germany in 1997, and repeated in an improved version in Norway in 2003, tested five different, well-known patterns: Observer, Decorator, Abstract Factory, Composite and Visitor. Their presence or absence in several test programs led to widely differing effects during maintenance and extension tasks, ranging from seemingly intuitive acceptance (Observer), via positive effects after training (Decorator), indifference (Abstract Factory, Composite) to outright harm (Visitor). Analysis of the error and modification history of a large commercial product over three years gave somewhat different results, with higher than normal error rates correlated with the presence of Observer, and markedly lower error rates for Factory. These results probably reflect the difference between the small, controlled examples used in the experiment, and the effects of real-world complexity. 25 minutes 3) Given this knowledge, how do we interpret and use it? In summary, Design Patterns are fairly widely used, and some of them have become ubiquitous by virtue of being language or standard library features and concepts. Like any sharp-edged tool they must be used with knowledge, lest they do harm. To a certain extent, the presence or absence of certain patterns can be used as a diagnostic tool, to locate program areas that warrant close inspection and above-average attention to good design. 15 minutes Required experience: Intermediate to Advanced. Participants will benefit from basic knowledge of Design Patterns, and should have experience with design and architecture, not just coding to spec. Benefit to participants: Better awareness of what Design Patterns can and cannot do for you, based on a combination of principles and practical experience.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Marek Vokác",
+        "biography": "PhD ( Simula Research Laboratory ) The author recently completed a PhD in Empirical Software Engineering at the Simula Research Laboratory in Oslo - the subject being the practical usage of Software Design Patterns. This presentation is based on the three years of full-time research that went into the degree. The speaker is also a full-time developer and Chief Architect at SuperOffice ASA, and has 20+ years of experience."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Why I hate SOA: Beyond the hype in modern Java architecture",
+    "level": "intermediate",
+    "summary": "You can hardly turn a corner without someone hollering SOA at you these days. Despite a lot of vendor attention, there is a lot of misconceptions about SOA. This presentation will try to penetrate the hype and get to the bones of what SOA is. I will attempt to dispel the lame visions of SOA presented by the vendors and show how the popular description are premature at best, harmful at worst. After mavigating between two different hyped incarnations of SOA, I will describe how we ended up creating a real world realization of SOA.",
+    "description": "Towards a definition of SOA (5 min) Motivation SOA as the semantic web (15 min) The vision The promise The reality SOA as web services (15 min) The vision The promise The reality What are services in Java (15 min) Java interfaces and classes Wiring services together - dependency injection Providing supporting functionality (Security, auditing, work flow tracking, logging)",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Johannes Brodwall",
+        "biography": "utvikler/arkitekt ( BBS ) Johannes Brodwall har mange års fartstid som konsulent innen utviking på Java-plattformen, og jobber nå på BBS som utvikler/arkitekt med framtidens regningsbetalingssystemer. Han har hold foredrag på begge de tidligere JavaZone (J2ME, Java versus .NET). Han har studert eXtremeProgramming i lengre tid, og brukt mange av teknikkene i prosjekter de siste par årene. Johannes er også medlem av styret for interesseorganisasjonen extremeprogramming.no. Han bruker test-drevet utvikling i sitt daglige arbeid, og har også vist teknikken på foredrag før."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Trends in J2EE",
+    "level": "intermediate",
+    "summary": "The Enterprise Java landscape has changed dramatically in the last 18 months. We've seen the return of OOP in J2EE applications, increasing adoption of agile development methods, a shift towards framework-oriented development, much greater use of open source, and the gradual rise of AOP. Many old certainties have vanished in an exciting period of innovation which will change how we all work.",
+    "description": "Rod Johnson will discuss these and other important areas, concluding with a summary of technologies to watch in the future, and recommendations as to how Java developers can keep ahead of the curve.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Rod Johnsen",
+        "biography": "Father of Spring Framework ( Interface21 ) Rod is the father of Spring. The Spring Framework open source project began in February 2003, based on the Interface21 framework published with Rod's best-selling Expert One-on-One J2EE Design and Development. Rod is one of the world's leading authorities on Java and J2EE development. He is a best-selling author, experienced consultant, and open source developer, as well as a popular conference speaker. Rod's best-selling Expert One-on-One J2EE Design and Development (2002) was one of the most influential books ever published on J2EE. The sequel, J2EE without EJB (July 2004, with Juergen Hoeller), has proven almost equally significant, establishing a comprehensive vision for lightweight, post-EJB J2EE development. Rod has extensive experience as a consultant in a wide range of industries: principally, finance, media and insurance. He has specialized in server-side Java development since 1996. Prior to that, he worked mainly in C and C++. His experience as a consultant has led him to see problems from a client's perspective as well as a technology perspective, and has driven his influential criticism of bloated, inefficient, orthodox approaches to J2EE architecture, which have delivered very poor results for stakeholders. Rod is the founder of the Spring Framework, which began from code published with Expert One-on-One J2EE Design and Development. Along with Juergen Hoeller, he continues to lead the development of Spring. He regularly speaks at conferences in the US, Europe and Asia, including the ServerSide Symposium (2003, 2004 and 2005), JavaPolis (Europe's leading Java conference), and JAOO (2004). Engagements in 2005 include two presentations at JavaOne 2005 and a keynote at the JavaWorld 2005 conference (Tokyo, June). Rod serves in the JCP on the Expert Groups defining the Servlet 2.4 and JDO 2.0 specifications. Rod continues to be actively involved in client projects at Interface21, as well as Spring development, writing and evangelism."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Elektroniske billettsystemer på eget ansvar",
+    "level": "intermediate",
+    "summary": "Elektroniske billettsystemer er et satsningsområde for å øke antall kollektivreisende, oppnå mer kostnadseffektive salgsløsninger og økt kundetilfredshet. Slike systemer er under planlegging, konstruksjon eller i drift i mesteparten av landet. Foredraget presenterer erfaringer høstet i Oslo-samarbeidet, som er et samarbeid mellom operatørene NSB, Oslo Sporveier og Stor-Oslo lokaltrafikk.",
+    "description": "Partene i Oslo-samarbeidet søker å oppnå interoperabilitet mellom sine respektive billettsystemer. Med interoperabilitet menes det at de ferdige systemene opptrer som ett og samme koordinerte system for de kollektivreisende. I tillegg konstrueres det et felles system for å håndtere noen oppgaver som interoperabilitet krever. Utvikling av ny software og tildels ny hardware utføres av fem forskjellige leverandører i fire forskjellige land, på oppdrag fra tre operatører. Samordningssystemet samt standardene rundt selve de elektroniske billettene skal, sammen eller hver for seg, kunne ta inn over seg flere operatører i samarbeidet, eller løftes helt ut av denne sammenhengen og over til andre operatører som ønsker å benytte dette. Foredraget vil ha en del med noe bakgrunnsinformasjon om e-billettering. Dessuten vil foredraget berøre hvordan koordinering mellom de tre/åtte partene håndteres. Avslutningsvis presenteres den implementerte løsningen.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Lars Lundby",
+        "biography": "Systemkonsulent / teknisk arkitekt fra Unified Consulting ( Unified Consulting ) Lars Lundby er systemkonsulent / teknisk arkitekt fra Unified Consulting. Han er Cand.Scient fra Informatikk på Blindern, med flere års erfaring fra J2EE/Java-basert systemutvikling. Han leder et av delprosjektene som tar for seg integrasjon av e-billetteringen i NSBs salgssystemer."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "What new JSRs do the Java Wireless Toolkit folks have for us?",
+    "level": "beginner-intermediate",
+    "summary": "The next release of the Java Wireless Toolkit (formerly the J2ME Wireless Toolkit) brings to the developer community support for three exciting JSRs. The next release will support the APIs for SATSA for smart cards (JSR 177), Location APIS (JSR 179) and the brand new Content Handler API (CHAPI, JSR 211). But it's not just the APIs.... The release has been enhanced with additional tools to aid developers when building applications for these exciting APIs. One example is the route planner, which allows you to create a route for your location sensitive application. Another new tool is the CHAPI property editor, which makes it easy to add the necessary properties to your content handler application's descriptor. Featuring hands-on demonstrations, this presentation will tell developers everything they need to know about the new Java Wireless Toolkit release.",
+    "description": "1. Introduction to the Sun Java Wireless Toolkit 4 minutes overview, MIDP, development, projects, emulator 2. Using the Location API (JSR 179) 12 minutes location, gps, latitude, longitude, provider 3. Using the Security and Trust Services API (JSR 177) 14 minutes smart card, java card, apdu, jcrmi, cryptography, authentication, security 4. Using the Content Handler API (JSR 211) 14 minutes MIME type, invocation, handler, register 5. Summary and Questions 6 minutes",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Shlomo Swidler",
+        "biography": "Senior engineer with Sun's Wireless Toolkit team ( Sun Microsystems ) Shlomo Swidler is an senior engineer with Sun's Wireless Toolkit team. He has more than 10 years of experience in software development, the past three years at Sun. Shlomo developed the Wireless Toolkit's WMA features. He has an engineering degree from The Cooper Union in New York."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Developing for Java devices using the Connected Device Configuration",
+    "level": "beginner-intermediate",
+    "summary": "The next generation of Java devices will be based on the Connected Device Configuration (CDC) and the Mobile Systems Architecture (MSA). MSA includes a wide range of APIs, including an advanced graphics API for smartphones and PDAs. In the session we will provide an overview of the platform and APIs. New technology requires new tools; the session we will demonstrate a set of tools based on Sun's award-winning Java Wireless Toolkit. The tools for the CDC stack will facilitate adoption of the technology and development of applications for the new APIs.",
+    "description": "1. Introduction to CDC 8 minutes The Java platform, CLDC, CDC, the CDC stack, upcoming MSA-for-CDC standardized stack 2. JSR 209 - AGUI 13 minutes features, relationship to Swing, relationship to MIDP, benefits, demo 3. CDC developer toolkit 13 minutes benefits, features, architecture, skins, demo 4. Using an IDE to develop CDC applications 8 minutes contrast with CLDC IDE support, demo of IDE integration 5. Future CDC Roadmap 2 minutes 6. Summary and Questions 6 minutes",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Shlomo Swidler",
+        "biography": "Senior engineer with Sun's Wireless Toolkit team ( Sun Microsystems ) Shlomo Swidler is an senior engineer with Sun's Wireless Toolkit team. He has more than 10 years of experience in software development, the past three years at Sun. Shlomo developed the Wireless Toolkit's WMA features. He has an engineering degree from The Cooper Union in New York."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "The Java Community Process; how the Java technology binary software",
+    "level": "beginner",
+    "summary": "Why a Java technology standard? Why technology communities? This session will explore the circle of adoption and business opportunity from an IT Manager and IT developer perspective. How Java technology fits into these circles, and the significance of conformance and the \"Write Once, Run Anywhere\" promise. The role the Java Community Process (JCP) program plays by carefully focusing on binary compatibility and bringing together the community to agree on standards and the results of this effort--multiple implementations from many sources based on Java technology. Learn about the innovations currently under development through the JCP program and how you can be involved in the evolution of Java technology.",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Heather Vancura",
+        "biography": "Sr. Marketing Manager, JCP Program Heather is a member of the Java Community Process (JCP) program office at Sun Microsystems. In this role she sets the marketing and communications strategy for the JCP program. She is responsible for outbound communications to the community, the JCP identity http://jcp.org , and ongoing research, such as the JCP online survey and jcp.org usability studies. She also manages advertising campaigns, sponsorships and events for the JCP program, including the community gathering at the annual JavaOne conference. Prior to Sun, Heather worked with a variety of technology and science companies, including Microsoft, Cisco, Roche Bioscience, Apple, and the Santa Cruz Operation. She holds a B.S. degree in Business Administration from California State University, with a minor in Strategic Marketing Management."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Escaping the technology cycle",
+    "level": "intermediate",
+    "summary": "",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Rod Johnsen",
+        "biography": "Father of Spring Framework ( Interface21 ) Rod is the father of Spring. The Spring Framework open source project began in February 2003, based on the Interface21 framework published with Rod's best-selling Expert One-on-One J2EE Design and Development. Rod is one of the world's leading authorities on Java and J2EE development. He is a best-selling author, experienced consultant, and open source developer, as well as a popular conference speaker. Rod's best-selling Expert One-on-One J2EE Design and Development (2002) was one of the most influential books ever published on J2EE. The sequel, J2EE without EJB (July 2004, with Juergen Hoeller), has proven almost equally significant, establishing a comprehensive vision for lightweight, post-EJB J2EE development. Rod has extensive experience as a consultant in a wide range of industries: principally, finance, media and insurance. He has specialized in server-side Java development since 1996. Prior to that, he worked mainly in C and C++. His experience as a consultant has led him to see problems from a client's perspective as well as a technology perspective, and has driven his influential criticism of bloated, inefficient, orthodox approaches to J2EE architecture, which have delivered very poor results for stakeholders. Rod is the founder of the Spring Framework, which began from code published with Expert One-on-One J2EE Design and Development. Along with Juergen Hoeller, he continues to lead the development of Spring. He regularly speaks at conferences in the US, Europe and Asia, including the ServerSide Symposium (2003, 2004 and 2005), JavaPolis (Europe's leading Java conference), and JAOO (2004). Engagements in 2005 include two presentations at JavaOne 2005 and a keynote at the JavaWorld 2005 conference (Tokyo, June). Rod serves in the JCP on the Expert Groups defining the Servlet 2.4 and JDO 2.0 specifications. Rod continues to be actively involved in client projects at Interface21, as well as Spring development, writing and evangelism."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "What is missing from the conventional agile and eXtreme methods?",
+    "level": "intermediate",
+    "summary": "The agile methods have virtually no Quantified focus on the quality and performance levels of the software. This means you cannot control the main benefits for users and stakeholders. This means that you cannot really control the costs, necessary in order to meet the quality needs of your users. It means the methods are not suitable for industrial products where you cannot simply get the functionality, but must compete to deliver all sorts of qualities and performance attributes.",
+    "description": "",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Tom Gilb",
+        "biography": "( Gilb ) Tom Gilb is a freelance consultant, teacher and author serving clients in Europe, India, Korea, Japan and the US. He has written \"Principles of Software Engineering Management\" (1988) and is Principal author of \"Software Inspection\" (1993). He specializes in software quality design and management. He wrote \"Software Metrics\" (1976) which coined the term, and officially (via Radice, IBM) laid the basis for much of CMM Level Four. He lives in Norway, when he is not travelling. He has a residence in London too. His most recent papers, book manuscripts and slides are available on www.Gilb.com. His most recent book is: \"Competitive Engineering: A Handbook for Systems & Software Engineering Management using Planguage.\" (Published July 8 2005) is based on well defined terms, processes and specification standards. It will help at all CMM levels and beyond. His well-known large clients include Symbian, BAA (British Airports Authority), Citigroup, Sony, Canon, Intel, Nokia, Ericsson, Synopsys, Philips, Microsoft, IBM, HP, Boeing, US DoD, UK MoD, Nortel, Motorola, Alcatel, FIRM as, Vianova, Western Geco (Schlumberger), Enlight as, GE (USA and Norway) and many others. He holds regular public courses in Norway with Programutvikling as (http://www.programutvikling.no/ ), and in London (http://www.testing-solutions.com/gilb/)."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Three Practical Steps Toward Domain-Driven Design",
+    "level": "intermediate",
+    "summary": "Abstract modeling principles and patterns takes many concrete forms. Developers often ask how to bring them together in a more step-by-step fashion. Although there can never be a cook-book for modeling and design, this talk walks through the application of three rules, using an actual, recent case as an example (simplified, of course).",
+    "description": "The case, a redesign of a currency exchange application, brought order to a complex application and prepared it for continued growth. The simple (though not easy) rules used Bounded Contexts to guide detailed design decisions, and Value Objects to weave together a collection of loosely coupled subsystems and provide a Ubiquitous Language. The talk will explain both the patterns and the rules based on them, through the example.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Eric Evans",
+        "biography": "President and consultant ( Domain Language ) Eric Evans specializes in domain modeling and design in large business systems and is the author of Domain-Driven Design, (Addison-Wesley 2003). Since the early 1990s, he has worked on projects developing object-oriented software in both business and technical domains. In the last four years, he has coached and trained teams in Extreme Programming and on the integration of agile development processes into diverse projects. Having repeatedly faced the challenges of creating complex business logic in elaborate technical architectures such as J2EE, and seeing how technology and other factors can overwhelm a project, Eric has concentrated on ways to focus software design effort on core business value, and on ways to design the core of a system so that it can keep pace with business needs and opportunities"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "From idea to market in eight weeks: An agile production frame for mobile applications and services",
+    "level": "intermediate-advanced",
+    "summary": "Mobile software development is highly volatile, risky and requires a lot of talent. Agile methods are claimed to offer support for this type of volatile development environment. Indeed, Extreme Programming and other agile methods have received a lot of attention in recent years. These methods do not contain any specific information related to complexities faced in mobile development domain concerning testing, user-centered issues or terminal variance. Mobile-D is an agile approach designed to meet the challenging demands of mobile development environment and standard quality requirements. The talk will offer an insight look into the world of agile methods, principles and solutions. The Mobile-D approach will be introduced and supportive empirical data on rework costs, defect rates and project management based on eight mobile projects will be disclosed.",
+    "description": "1. Agile philosophy and rationale (10min) 2. Existing agile development solutions (10min) 3. Mobile-D for mobile software (15min) 4. Empirical data from 8 case projects (10min) 5. Future & conclusions (5min) = 50min.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Pekka Abrahamsson",
+        "biography": "( VTT Technical Research Centre ) Prof. Pekka Abrahamsson is a senior research scientist at VTT Technical Research Centre of Finland. Currently, he is on leave from the University of Tampere where he is a full professor in the field of information systems and software engineering. His current responsibilities include managing an AGILE-ITEA project (http://www.agile-itea.org), which involves 22 organizations from 9 European countries. The project aims at developing agile innovations in the domain of complex embedded systems. His research interests are centred on mobile application development, business agility, agile software production and embedded systems. He leads the team who has designed an agile approach for mobile application development - the Mobile-D™. He has coached several agile software development projects in industry and authored 50+ scientific publications focusing on software process and quality improvement, agile software development and mobile software. His professional experience involves 5 years in industry as a software engineer and a quality manager."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "The magic step in expert estimation of software cost. Why does 1000 feel more right than 1500",
+    "level": "intermediate",
+    "summary": "Viktige beslutninger tas ofte på bakgrunn av magefølelse. Slik er det også innen systemutvikling, der de fleste prosjektplaner er basert på eksperters magefølelse av arbeidsomfanget.",
+    "description": "Våre forskningsresultater viser at: 1) Ekspertestimater er bedre enn sitt rykte og trolig minst like bra som estimeringsmodeller. 2) Ekspertene vet ikke hvordan overgangen fra \"å forstå hva som skal gjøres\" til \"å estimere hvor mye arbeid som kreves\" (the magic step) skjer. 3) Ekspertestimater er lette å påvirke (f eks gjennom å legge til irrelevant \"ankerinformasjon\") Presentasjonen tar for seg disse og andre resultater fra vår forskning på området, samt gir råd om hvordan man med enkle midler kan bli bedre til å estimere. Presentasjonen vil være interaktiv, med innlagt øvelser og konkurranser.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Magne Jørgensen",
+        "biography": "( Simula Research Laboratory ) Magne Jørgensen received the Diplom Ingeneur degree in Wirtschaftswissenschaften from the University of Karlsruhe, Germany, in 1988 and the Dr. Scient. degree in Informatics from the University of Oslo, Norway in 1994. He has 10 years’ industry experience as a software developer, project leader and manager. He is now Professor in Software Engineering at the University of Oslo and a member of the software engineering research group of Simula Research Laboratory in Oslo, Norway. He has published many articles in international journals on software cost estimation. He has supported work on the improvement of software project estimation and has been responsible for estimation training in several software companies."
+      },
+      {
+        "name": "Stein Grimstad",
+        "biography": "( Simula Research Laboratory ) Stein Grimstad received the MSc degree in Informatics from the University of Oslo, Norway in 1998. He has 7 years’ industry experience as software developer and solution architect. He is now a PhD-student in Software Engineering at the University of Oslo, and is a member of the software engineering research group of Simula Research Laboratory in Oslo, Norway. He also works part-time as an advisor at Objectnet. His research interests are software engineering and, in particular, software cost estimation."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Cosmisk Eksorsime",
+    "level": "intermediate",
+    "summary": "En visuell reise gjennom historien til COS, Telenor Mobils mellomvaresystem, gjennom 8 år og en gjennomgang av hvordan transisjonen til lettvektsmetodikker faktisk har gått.",
+    "description": "COS er et system som til enhver tid har hatt over 30 utviklere. Hva fungerer? Hva fungerer ikke? Hvilke begrensninger har man? Hva er effekten av teknikker på kort, mellomlang og lang sikt? Hvordan introdusere teknikker? Hvordan bygge kultur? Hvordan få aksept i organisasjonen for radikale endringer? Deltagerne vil gå gjennom en visuell historisk reise med bilder, samt tall og grafer fra verktøyet XRadar. COS-miljøet i Telenor Mobil jobber med et av Norges største Java-systemer. De siste årene har miljøet blitt stadig smidigere i sin prosjektgjennomføring - med bruk av lettvektsmetoden Scrum og innføring av smidige teknikker - mange kjent fra ekstrem programmering (XP). Underveis har man endret rutiner, fjernet prosessteg, innført og utviklet nye verktøy, deltatt i forskning på teknikker, jobbet med rekruttering, miljøbygging - og samtidig målt produktivitet, intern og ekstern kvalitet i løsningen.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Kristoffer Kvam",
+        "biography": "Kristoffer Kvam jobber i Telenor Norge som funkjonell arkitekt og teamleder i CRM Forretningslogikk. Selv om tittelen kankje ikke antyder det, er Kristoffer fast fokusert på å holde fingrene skitne - minst 50% av tiden brukes til utvikling. Fokuset har vært variert innen applikasjonsplanlegging og -utvikling, men som konsulent og senere som fastansatt i Telenor har hovedfokus hele tiden vært på mellomvareløsninger på Javaplattform. Kristoffer er utvikleren og arkitekten bak XRadar."
+      },
+      {
+        "name": "Kjetil Jørgensen-Dahl",
+        "biography": "Seniorinnvikler ( Objectnet as ) Styremedlem i javaBin fra 2004, var portalgruppeleder og redaktør for java.no det første året. Har jobbet på Java/J2EE-prosjekter siden 1999, først i Accenture og så i Objectnet. Spesiell interesse for metode og verktøy med preferanse for \"smidige\" metoder og verktøy som hjelper en å fokusere på det man faktisk skal gjøre, uten å ta fra en kontroll og fleksibilitet. Setter stor pris på fellesskapet både faglig og sosialt i javaBin!"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "New integration possibilities with WSRP",
+    "level": "intermediate",
+    "summary": "WSRP (Web Services for Remote Portlets) is a relatively new standard which allows different portal products to be easily integrated. By allowing portlets produced from a portal be consumed by other portals we can now create truly distributed web systems. By using portals that leverage WSRP it becomes possible to enable outsourcing of web components, hence allowing individual applications to be deployed, managed, and scaled independently of the main portal. This allows for better control and higher uptime of the total system, since one can then avoid monolithic, and hence fragile, portal architectures. It also allows for new business opportunities as it enables standardization of modular ASP solutions.",
+    "description": "This presentation will briefly outline the technical aspects of WSRP, demonstrate how it can be used to create better portal architectures, and discuss how proper usage of it can increase the business value of a portal implementation.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Rickard Öberg",
+        "biography": "Java, EJB og AOP ekspert Rickard Øberg er en internasjonalt anerkjent Java-ekspert som har spesialisert seg på avanserte mellomvarearkitekturer og en av de ledende autoriteter på EJB og J2EE. Han har skrevet boken \"Mastering RMI\", en avansert bok på utvikling av RMI-løsninger i Java og EJB. Rickard er en av de som har vært med å utvikle EJB spesifikasjonen fra SUN til det den er i dag. Han er også en av utviklerne på \"core teamet\" bak jBoss Application Server, applikasjonsserverenes svar på Linux. I tillegg jobber han på diverse OpenSource prosjekter, og har vunnet ikke mindre enn åtte konkuranser på Java applikasjons utvikling og J2EE servere. Rickard har vært foredragsholder på mange av de store Java konferansene og drar alltid mengder av tilhørere gjennom sin møte å fremføre stoffet på og hans ytterst tunge fagkunnskap. Rickard har også tidligere gjestet JavaBin flere ganger tidligere med foredrag om JMX, Porlets og AOP. Med sitt siste foredrag i AOP klarte han å vekke til live en het debatt som pågikk i flere uker etterpå. Han vil i år besøke JavaZone for å snakke om AOP for avanserte."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Stop writing tests, start specifying behaviour!",
+    "level": "beginner-intermediate",
+    "summary": "Behaviour-Driven Development (BDD) recognises what experienced test-driven developers know -- Test-Driven Development is not really about testing. By using a vocabulary for specifying behaviour rather right. You write a specification of how the program should behave in a way that is concise, unambiguous and executable. You do this before you write the implementation, and you do it in small, repetitive steps. Changing the way you talk about a thing changes the way you think about it.",
+    "description": "Invented by Dan North of ThoughtWorks, BDD has evolved from Test-Driven Development (Beck), Responsibility-Driven Design (Wirfs-Brock) and Domain-Driven Design (Evans). BDD can be used for specifying behaviour both at the application level as well as at the object level. The presentation will demonstrate how to do Behaviour-Driven Development at the application level using Ward Cunningham's Framework for Integrated Test (FIT), showing you: how specification by example is a powerful way to communicate behaviour how thinking of the FIT tables as being a specification of behaviour rather then tests changes the way you write the tables how declarative FIT tables helps you find the right abstractions to solve the problem how the terms we use in the FIT tables identify objects in the domain model how refactoring the tables to remove duplication can helpidentify new objects and abstractions in the domain model",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Nils Christian Haugen",
+        "biography": "( ThoughtWorks ) Nils Christian is an agile programmer with seven years of experience in developing large, object-oriented, distributed applications for companies in various industries. He has previously presented on topics in Java and Agile software development at JavaZone, Agile, DND, javaBin and the University of Oslo. Nils Christian works for ThoughtWorks."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Evidence-Based Software Engineering – A Paradigm for the Future?",
+    "level": "beginner-intermediate",
+    "summary": "Software practitioners and managers seeking to improve the quality of their software development processes often adopt new technologies without sufficient evidence that they will be effective, while other technologies are ignored despite the evidence that they most probably will be useful. As a consequence, software is often built with techniques for which we have insufficient evidence to confirm their suitability, qualities, costs, and inherent risks. This leads to a variety of problems ranging from financial losses to personal injuries. Evidence-based Software Engineering (EBSE) addresses this issue by using reliable evidence from empirical studies, practical experience, and human judgement to support decision making in the development and maintenance of software.",
+    "description": "The talk will basically consist of two parts. Part one will give a general introduction to and motivation for EBSE with reference to similar work within the medical domain. In doing this, examples will also be taken from newly published and ongoing research on software design methods and pair programming with Java as the implementation language. The second part of the talk will focus how practitioners can use the evidence-based paradigm as part of their daily work to improve their software process. The talk will be at an introductory to intermediate level and will build on the following references: Dybå, T., Kitchenham, B.A., and Jørgensen, M. (2005) Evidence-based Software Engineering for Practitioners, IEEE Software, Vol. 22, No. 1, January/February, pp. 58-65. Kitchenham, B.A., Dybå, T., and Jørgensen, M. (2004) Evidence-based Software Engineering, Proceedings of the 26th International Conference on Software Engineering (ICSE 2004), Edinburgh, Scotland, 23-28 May, pp. 273-281. Erik Arisholm and Dag Sjøberg, Evaluating the Effect of a Delegated versus Centralized Control Style on the Maintainability of Object-Oriented Software, IEEE Transactions on Software Engineering, vol. 30, no. 8, August 2004, pp. 521-534. In addition, results from ongoing research on a pair programming version of the last reference will also be presented in the first part of the talk.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Tore Dybå",
+        "biography": "Chief Scientist ( SINTEF ) Tore Dybå is chief scientist at SINTEF (the Foundation for Scientific and Industrial Research at the Norwegian Institute of Technology) and a visiting scientist at the SIMULA Research Laboratory. He received his M.Sc. in Electrical Engineering and Computer Science from the Norwegian Institute of Technology (NTH) in 1986 and his Ph.D. in Computer and Information Science from the Norwegian University of Science and Technology (NTNU) in 2001. Dr. Dybå worked as a consultant both in Norway and Saudi Arabia before he joined SINTEF in 1994. His research interests include empirical and evidence-based software engineering, software process improvement, knowledge management, and organiza­tional learning. Dr. Dybå is the author and coauthor of several publications appearing in international journals, books, and conference proceedings in the fields of software engineering and knowledge management. He is the principal author of the book Process Improvement in Practice: A Handbook for IT Companies, published as part of the Kluwer International Series in Software Engineering. He is a member of the International Software Engineering Research Network (ISERN) and the IEEE Computer Society."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "“From model to man and back”",
+    "level": "intermediate",
+    "summary": "Presentation of a project where: The only tangible project requirement is best expressed as: Offer 60 ELMER compliant Internet services to the citizens of Oslo by the end of the year!” The applied solution is based on Agility, UML models and automation Specifically: Applying agile and MDA oriented mindsets. Developing a framework for designing ELMER compliant web forms. Using UML to define metamodel and models for the content of a web application. Letting XSDs and XMLBeans be automatically generated from the UML content model. Populating XMLBeans directly from end user input in the web application. Automating client- and server-side user input validation from a common rule set. Generating customized PDF documents and XML documents automatically from the populated XMLBeans. The solution is nominated for the Rosing Award 2005 in the category for user-friendly systems.",
+    "description": "Introduction and project setting (approx. 4 min.) Explanation of the requirement(s), what is ELMER? The infrastructure of Oslo Kommune’s IT systems The available budget, time, resources and accommodations Project decisions (approx. 8 min.) Choice of technology Choice of methodology Choice of supporting tools Application architecture and design (approx. 15 min.) The tiers and components UML models as glue Patterns and best practices Project artifacts (approx. 8 min.) UML models and database schema Code and markup Documents? Project organization (approx. 3 min.) The war room The people The process Lessons learned (approx. 7 min.) Modeling content with UML Agility Usability tests revelations Online demo of solution (approx. 5 min) Required experience SW development experience and/or interest Expected audience Anyone who has attended or will attend SW development projects",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ove H. Scheel",
+        "biography": "SW development consultant ( Bouvet ) Ove H. Scheel is a SW development consultant currently employed in Bouvet AS. He was the lead designer and implementer of the framework for ELMER compliant Internet services at Oslo Kommune. He is an experienced developer who has been working with numerous methodologies and technologies over more than two decades. During the last years his main professional focus has been modeling, agile methods and Java related technology."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Test-Driven Development: Bare Bones and Basics",
+    "level": "intermediate",
+    "summary": "Test-Driven Development is a buzzword that it appears no modern developer can be without. However, it is a proper understanding of the practice rather than the buzzword conformance that makes the greater difference in development. As a term TDD is often misused: it is sometimes used to mean that somewhere on a project someone is using JUnit; others use it as a synonym for \"unit testing\"; and others use it interchangeably with the term \"Extreme Programming\". In Java, JUnit is certainly one of the most popular tools employed in support of TDD. Unit testing is certainly a part of TDD, but there is more to TDD than just unit testing. And, although TDD forms a part of the code-centric practices of XP, TDD and XP are not one and the same.",
+    "description": "This session introduces a set of core practices that can be said to characterise TDD at the unit level, embracing both the conventional view of unit testing plus its emphasis on active design. The session also demonstrates the bare minimum involved in evolving a testing framework from nothing, departing from the common reliance on JUnit to illustrate a lightweight and less intrusive approach that is more idiomatic in style to Java.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kevlin Henney",
+        "biography": "( Curbralan Ltd ) Kevlin Henney is an independent consultant and trainer based in the UK. The focus of his work is in programming languages, OO, CBD, UML, patterns and software architecture. He is a columnist for C/C++ Users Journal (online), Application Development Advisor (UK) and JavaSpektrum (Germany), and previously wrote columns in Java Report and C++ Report. He is also a popular speaker at conferences in the US and Europe."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "The FEIDE Authentication System",
+    "level": "beginner-intermediate",
+    "summary": "Authentication, authorization and access control (AAA) is an important topic in the area of middleware. This talk will outline both technical and non-technical issues related to the design, implementation and deployment of a real-world authentication/authorization system used in educational institutions today. The goal is to provide the audience with an understanding of the potential challenges involved in creating such a system.",
+    "description": "Introduction (5 minutes) What is UNINETT? What is the FEIDE organization? Basic Requirements (10 minutes) The original FEIDE idea; federated identity management. Consequences and requirements. Service owners' perspective. Organizations' perspective. Privacy and Security (10 minutes) Privacy in the context of Norwegian law. The FEIDE approach vs. Shibboleth. Ownership of user data. Requirements from the Norwegian Data Inspectorate. Design Overview (5 minutes) The authentication triangle. Attempts at SSO. Technical security issues. Implementation Overview (5minutes) Brief overview of implementation details. External interfaces (10 minutes) Service interfaces; cross-platform support through SOAP. SOAP and potential WS-I issues. LDAP and the problem with non-HTTP servlets. Brief note on organization interface. Deployment (5 minutes) Challenges – stability and survivability. LVS case study. Anycast/BGP case study. Surveillance options. Summary and Questions (10 minutes) Duration: 60 minutes. Required Experience: Some experience with issues related to authentication/authorization design and programming. Also, a working knowledge of the Java programming language is required, preferably in the area of web (servlet) programming. Some knowledge of SOAP is beneficial, but not strictly required. Expected Audience: Java developers working with or interested in the subject of authentication, authorization and access control.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Cato Olsen",
+        "biography": "Technical Coordinator ( UNINETT ) The speaker is employed by UNINETT, the Norwegian research network. He works on the FEIDE project as the technical coordinator for a national authentication service and has been involved in the design and development of this service since the project's inception."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Automatisert testing av webapplikasjoner",
+    "level": "intermediate",
+    "summary": "Enhetstesting er nå etablert som en naturlig del av de fleste prosjekter. For webapplikasjoner er det i tillegg nødvendig å teste selve brukergrensesnittet, vanligvis gjennomført manuelt med de ulempene dette medfører med hensyn til tidsforbruk og kostnad. Automatiserte webtester øker kvaliteten i prosjektene ved at testene kjøres kontinuerlig som en del av utvilkingsprosessen, og muliggjør dessuten regresjonstesting. Canoo WebTest lar deg gjøre nettopp dette og enda mer...",
+    "description": "Outline : Introduksjon : 10 minutter - Hvorfor automatiserte webtester? - Kvalitet - Kost/nytte - Dokumentasjon - Hvorfor Canoo WebTest? - Sammenligning med andre verktøy Canoo WebTest : 15 minutter - Kort presentasjon av Canoo WebTest - Open Source Java prosjekt - Plattform uavhengig - Spille inn tester med Click-O-Mat - Feilretting og regresjonstesting - Skal jeg virkelig bruke det? - Automatisk HTML validering - Utvidelser til Canoo WebTest Demonstrasjon : 10 minutter - Demonstrasjon - Automatiserte Webtester med ant Praktiske erfaringer : 15 minutter - Bruk av Canoo i forbindelse med ytelsestesting - Hvordan unngå skjøre tester - \"pragmatisk\" GUI-testing - Overvåking av svarstider Spørsmål og Svar : 10 minutter",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Per Mengshoel",
+        "biography": "Seniorkonsulent ( BEKK Consulting ) Per Mengshoel jobber som seniorkonsulent i BEKK Consulting og har jobbet med Java og J2EE utvikling siden 1998. Han har erfaring som systemutvikler, arkitekt og mentor fra mange forskjellige prosjekter og leder for tiden faggruppen Systemutvikling i BEKK."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Erfaringer fra J2EE utvikling.",
+    "level": "beginner-intermediate",
+    "summary": "Når du skal utvikle store systemer som skal håndtere høy trafikk, må du være forsiktig med å følge J2EE \"etter boka\". Kanskje det til og med kan bli riktig galt. En del J2EE-mekanismer er rene feller. Hva gjør du når CMP cachen har \"overraskende\" lav treffrate, eller når du måler at altfor mye av tiden går med til transaksjonshåntering i applikasjonsserveren. Distribuerte transaksjoner med XA har flere sideeffekter som man ikke tenker på før man opplever dem som overraskende \"killere\" på ytelse og robusthet. XA på tvers av persistente køer, integrasjon mot databaser på flere plattformer og kall mot CICS på stormaskin, åpner for interessante problemer i utviklings- og testmiljøet. Hvilke hensyn må du ta når du clustrer applikasjonen over flere noder? Hvilke cache teknikker fungerer best? Hvordan skalerer du et stort J2EE system? Hvis du har problem med ditt profileringsverktøy, har vi et tips til en nødløsning som ikke påvirker ytelsen i systemet. IIOP burde sikre at to produkter kunne snakke sammen, men så enkelt er det ikke. For å fikse en av dagens svakheter, må du faktisk endre Sun's runtime. Det å \"flytte\" en applikasjon fra stormaskin til J2EE/Unix må da gi billigere drift, eller...",
+    "description": "I dette foredraget vil du få presentert flere tips om hvordan få store J2EE systemer til å spille godt. Dette er basert på erfaringer fra flere store J2EE-prosjekter med opptil 80 programmerere og 150 prosjektdeltagere. Noen tips vil være grunnleggende, ting du må vurdere i arkitekturdesignen, mens andre er muligheter til å gjøre forbedringer senere i prosessen, for eksempel under volumtester.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Henrik Lund-Hanssen",
+        "biography": "( Accenture ) Henrik Lund-Hanssen, som leder Accentures nordiske gruppe av arkitekter innen J2EE og .NET. Han har 18 års erfaring med objektorientert utvikling og virksomhetskritiske systemer, og har ofte hatt rolle som arkitekt i slike prosjekter. Henrik gjør også kvalitetsgjennomganger og støtter arkitektene på prosjekter."
+      },
+      {
+        "name": "Trond Isaksen",
+        "biography": "( Accenture ) Trond Isaksen, en av Accentures nordiske integrasjonsarkitekter. Han har 7 års erfaring med utvikling av integrasjonsløsninger og større J2EE-systemer. Trond jobber vanligvis som arkitekt i prosjekter, men han brukes også som en \"Red Adair\" - en som kommer inn og hurtig løser de virkelig vanskelige problemene."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Derby - En komplett database i Java",
+    "level": "beginner-intermediate",
+    "summary": "",
+    "description": "Derby introduksjon - hva Derby er: open source apache prosjekt, 100% Java, small footprint etc - historikk fra Cloudscape via IBM & Informix, til Apache Derby - har aktiv støtte fra IBM og Sun (begge har dediker personell på Derby) Derby features - Standarder (JDBC, SQL) - Platformer (J2EM, J2SE) - Java stored procedures - Embedded vs. client-server - sikkerhet (krypterte data, autentisering etc). Derby ytelse - litt om Derby ytelse Derby arkitektur: - Litt om hvordan Derby er bygd opp - Kompilering (SQL kompilert til byte kode og java klasseobjekter) Derby framtid: - Hva vi i Sun DBTG i Trondheim ser for oss kommer til å skje med Derby - Ut av incubator status (og hva det innebærer) - Standard DB for Apache Geronimo - Økt funksjonalitet og robusthet",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Bernt M. Johnsen",
+        "biography": "( Sun Microsystems ) Bernt M. Johnsen jobber som senioringeniør for Sun Microsystems i Trondheim hvor han er teknologisk ansvarlig for arbeidet med Derby. Ble ansatt i Clustra i 2000 som ble kjøpt opp av Sun i 2002 hvor han har vært arkitekt for distribuert SQL-eksekvering, ledet implementasjon av JDBC driver og arkitekt for distribuert administrasjon av HADB (tidl. Clustra). Han har tidligere arbeidet med ekspertsystemer, kompilatorer, internett-protokoller og var arkitekt for noen av de første nettbankene i Norge."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Visual Struts: Modeling Struts-Based Applications using UML and Advanced Tool Support",
+    "level": "intermediate",
+    "summary": "The Jakarta Struts framework is the de facto standard for web applications development in Java. Unfortunately, one of the primary difficulties with Struts-based development is that a lot of relationships are defined in a declarative manner, which leads to errors not being found at compilation-time. Furthermore, the system is developed in three different types of files: Java class files, Java ServerPages (JSPs), and XML configuration files. It is difficult to comprehend how these relationships interact, both, statically and dynamically (especially for a person not involved with the original development of a system).",
+    "description": "Modeling can greatly help in the understand of these relationships: (1) From a static point of view, page flow diagrams show how JSPs, user-defined classes, and Struts constructs (e.g. action mappings) relate (e.g. shows which JSP uses which action mapping); and (2) From a dynamic point of view, sequence diagrams show when/how specific action objects are invoked and when/how objects are placed in a scope. The technique discussed in this session has been discussed with over twenty professional Struts developers and actively used by ten on a real-word project. The talk will also cover the advantages and disadvantages of proprietary (non-UML based) Struts tools, mainly M7’s NitroX for Eclipse.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "James Dzidek",
+        "biography": "( Simula Research Laboratory ) PhD candidate at the Simula Research Laboratory (Software Engineering Department) with a masters in software quality engineering and a bachelors in systems & computer engineering. Research interests include studying the costs and benefits of UML usage on real-world systems."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "How model-to-model transformation using Query View Transformation (QVT) and Object Constraint Language (OCL2) works",
+    "level": "intermediate",
+    "summary": "While many think of MDA as just a way of separating Platform Independent Models (PIMs) and Platform Specific Models (PSMs), and then generating code from PIMs, the real advantage lies in model-to-model transformation, code generation being one kind of transformation. Working only in the PIM and generating code from it is not very practical and lacks flexibility. A different solution is needed. In this session you will see how model-to-model transformation using Query View Transformation (QVT) and Object Constraint Language (OCL2) works. What are the benefits with this approach? How can you achieve true inter- and intra-model traceability between PIMs and PSMs to get around the limitations of model-synchronization?",
+    "description": "Required experience: TBA Expected audience: Developers and IT professionals interested in MDA",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Markus Hebach",
+        "biography": "Product Line Manager for Together Products and modeling technologies for EMEA ( Borland ) Markus Hebach is the Product Line Manager for Together Products and modeling technologies for EMEA at Borland. He joined Borland 2002 with the TogetherSoft acquisition, and has a history of 12 years working with, or close to Borland in different areas. Markus studied computer engineering in Frankfurt (Germany), worked as a programmer with Pascal and 4GL-Languages, was an independent trainer for Delphi and co-founded a publishing company for Developer-Magazines. His position at Borland before taking his current role was senior technical consultant for UML and Together products with a total of 16 years experience in the software business. Markus is an accomplished speaker and has presented at many conferences, seminars and training courses throughout Scandinavia and Europe."
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "The Immortal Mainframe in the Java world",
+    "level": "intermediate",
+    "summary": "Practical use of the J2EE Connector Architecture to access mainframe applications. Integration of mainframe applications in J2EE application systems. Technical challenges encountered building a J2EE Connector from an existing Java terminal emulator: synchronization and timing issues. Building a component generator to automate mainframe transactions and encapsulating them as Enterprise Javabeans. Using the components in a business logic architecture.",
+    "description": "1.Brief presentation of Gallagher & Robertson AS 2.Brief overview of the J2EE Connector Architecture 3.Overview of the Glink for Java terminal emulator 4.Adapting the emulator: creating it as a J2EE Connector 5.Caveats and challenges related to mainframe communications 6.Generating EJBs and Javabeans modeling mainframe applications 7.Integrating the applications in the J2EE container 8.Demo – creating a real application 9.The next step: J2EE Connector Architecture 1.5 and inbound communication 10.Q&A Duration: 50-60 minutes Required experience: General J2EE knowledge Java programming",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Tron Hvaring",
+        "biography": "Software developer ( Gallagher & Robertson AS ) Sivilingeniør (M.Sc.) NTH Software developer with Gallagher & Robertson AS 7 years Java experience developing communications products Main architect and developer for G&R’s J2EE products"
+      }
+    ],
+    "year": 2005
+  },
+  {
+    "title": "Kontrollert verdiskaping gjennom iterativ systemutvikling",
+    "level": "intermediate",
+    "summary": "I en verden som endres raskt har tradisjonell systemutvikling vist seg å komme til kort – systemet er kort og godt utdatert før det kommer i produksjon. Prosessen tar ikke tilstrekkelig hensyn til læringseffekten i prosjektet og tar for lite hensyn til endrede behov grunnet manglende involvering og tilbakemelding. Iterativ systemutvikling tar hensyn til denne læringseffekten og sikrer at løsningen som leveres er mer i tråd med de krav som gir verdi på leveransetidspunktet. Prosessen sikrer således raskere ”time-to-market” og økt fokus på forretningsmessig verdi. Foredraget fokuserer på hvilke styringsparametre som benyttes i iterativ systemutvikling, og hvordan disse konkret sikrer en verdidrevet prosjektgjennomføring.",
+    "description": "Outline Kort om iterativ og inkrementell systemutvikling (5 min) Hvorfor iterativ og inkrementell systmeutvikling bidrar til bedre kvalitet (10 min) Hvilke styringsparametre som sikrer verdidrevet systemutvikling (10 min) Hvordan disse parametre brukes til løpende og målrettet planlegging og kontroll av verdiskapingen i prosjektet (15 min) Konkrete erfaringer - do’s and dont’s (10 min) Spørsmål og svar (10 min) Required experience Erfaring fra ledelse av eller deltakelse i systemutviklingsprosjekter Expected audience Ledere med ansvar for utviklingsprosjekter, program- og prosjektledere og erfarne systemutviklere",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Reidar Sande",
+        "biography": "Prosjektdirektør ( BEKK Consulting ) Reidar Sande er Prosjektdirektør i BEKK Consulting med ansvar for selskapets prosjektledergruppe. Han har 12-års erfaring med prosjektledelse knyttet til utvikling av komplekse løsninger, de siste fem årene med fokus på J2EE. Han har det overordnede ansvaret for selskapets fokusering på smidige metoder."
+      }
+    ],
+    "year": 2005
+  }
+]

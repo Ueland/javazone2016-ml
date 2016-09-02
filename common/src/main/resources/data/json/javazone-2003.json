@@ -1,0 +1,433 @@
+[
+  {
+    "title": "Configuration and change management ",
+    "level": "intermediate",
+    "summary": "The talk will introduce the concepts and benefits of process-driven configuration and change management tools. (The presentation will be given in Norwegian.)",
+    "description": "The talk will be targeted at developers, team leaders and software development project managers. It will introduce the concepts and benefits of process-driven configuration and change management tools in general and within the context of the Software Engineering Institute’s capability maturity model and process-oriented management concepts (such as ITIL). The talk will then continue in a technical vein and address (among others): Handling the lifecycle of an application from development to production and into maintenance Simplified branching to prevent the regression of bugs in the context of AllFusion Harvest parallel and regression development - how to handle new development simultaneously with bug fixes on a previous release Automating the build - multiple versions of JRE/JDK Backing up deployment of EJBs/EARs onto a J2EE application server Handling common code in a Java environment",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Espen Green",
+        "biography": "Espen Green jobber som konsulent og teknisk salgsstøtte på Computer Associates sine Information Management produkter. Han ble med på lasset da CA kjøpte PLATINUM technology i 1999, der han hadde jobbet siden 1996. Espen var ferdig utdannet ingeniør i 1991, og har siden den gang jobbet med data."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "JSR94 Rule engines - changing the programming paradigme ",
+    "level": "beginner",
+    "summary": "Rule engines in java programming, why and how.",
+    "description": "There is a trend in building smarter and smarter software, where the aim of the software is to represent knowledge of some specific application area. Knowledge can be defined as \"productive use of information\", and can be represented on the form \"IF (list of condtitons) THEN do list of actions\". The reasons why knowledge is important includes supporting users to perform better choices, such as the book recomendations at Amazon, automate business processes and to build more flexible and adaptive software. The most common tools used to support knowledge representation is the rule engine. The key problem to resolve within a rule engine is execution time. This has been addressed and resolved by the RETE algorithm, where there exist powerfull implementations such as JRULES from ILOG and JESS, products that implements the interfaces defined in JSR-94, the Java standard for rule engine interfaces. During this lecture the issues adressed above will be presented and examples at code level will be presented.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Einar Magne Landre",
+        "biography": "Foredragsholder innen: Rule Engines Einar Landre, born in 1960 has more than 15 years of experience in development of distributed systems. He is educated from University of Oslo and the University of Strathclyde in Scotland. His career can be divided into three major parts, first 7 seven years as developer at Norsk Data, working primarily with communication protocols and high performance computing systems for image processing. Then 7 years as consultant and later team manager for the network group at Skrivervik Data. The last three years he has been working for Bouvet, where he currently acts as lead architect in a international Java based development project within retail."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Erfaringer med Sun's sertifiseringer ",
+    "level": "intermediate",
+    "summary": "Mange av Accentures ansatte har den siste tiden arbeidet med å sertifisere seg som Java Programmer og Enterprise Architect. Denne presentasjonen vil summere opp erfaringer fra dette arbeidet og vurdere nytteverdien av disse sertifiseringene.",
+    "description": "Mange av Accentures ansatte har den siste tiden arbeidet med å sertifisere seg som Java Programmer og Enterprise Architect. Denne presentasjonen vil summere opp erfaringer fra dette arbeidet og vurdere nytteverdien av disse sertifiseringene: Hvilke forberedelser har kandidatene gjort Hvilke verktøy har kandidatene brukt, og hva er erfaringene med disse Hvordan har prosessen med sertifiseringene vært Hvilken nytte har man fått av prosessen utover selve sertifiseringen Hvor mye forteller sertifiseringen om kompetansen til kandidatene",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Håvard Bjåstad",
+        "biography": "Foredragsholder innen: Sertifisering Hjemmeside: http://www.accenture.no Håvard Bjåstad har vært ansatt i Accenture siden 1994. Han har primært arbeidet som teknisk arkitekt innenfor bank og finans med hovedfokus på integrasjonsprosjekter med Java og J2EE. Han har arbeidet ved Accentures teknologisenter i Palo Alto og leder Accentures Java Center of Excellence."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Roadmap to Java Programmer Certification ",
+    "level": "beginner",
+    "summary": "So you think you know Java? This talk will help you answer that question. Statistics show that real-life experience in Java programming alone is not sufficient for passing the certification exam. The exam requires in depth knowledge of features and usage of the Java programming language. The talk provides a roadmap for achieving the right level of proficiency demanded by the certification exam.",
+    "description": "So you think you know Java? This talk will help you answer that question. Statistics show that real-life experience in Java programming alone is not sufficient for passing the certification exam. The exam requires in depth knowledge of features and usage of the Java programming language. The talk provides a roadmap for achieving the right level of proficiency demanded by the certification exam. First we answer some questions about Java certification: What is certification. Why get certified. Who should get certified. How to get certified. How to plan, study and prepare for certification. Where to get certification resources. The main part of the talk will concentrate on giving examples which provide insights into some of the topics that appear on the exam: Shift operators equals(), hashCode() and compareTo() methods Intern strings Upcasting and downcasting Exception scenarios with try-catch-finally Overriding and overloading Nested classes Thread communication Audience participation will be solicited.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Khalid A. Mughal",
+        "biography": "Foredragsholder innen: Sertifisering Khalid A. Mughal is an associate professor at the Department of Informatics, University of Bergen, Norway.  During his extensive career, he has designed and implemented many courses on Java, object-oriented system development, and compiler techniques.  He has also given seminars for the IT industry. He is the principal author of the introductory textbook Java Som Første Programmeringsspråk (Java as a First Programming Language) published by Cappelen Akademisk Forlag, 2002. He also is the principal author of A Programmer's Guide to Java\" Certification - A Comprehensive Primer (Second Edition) - published by Addison-Wesley, 2003."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Introduction to AOP ",
+    "level": "beginner",
+    "summary": "Sesjonen vil gi en innføring i filosofi og tankesett rundt Aspektorientert Programmering, en diskusjon rundt implementeringsstrategier for AOP i Java, samt endel eksempler på hvordan komme igang med AOP og eksempler på fornuftig bruk av AOP.",
+    "description": "Agenda: What is AOP? How does it work? Examples What's in it for me? Further reading",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Rickard Öberg",
+        "biography": "Hjemmeside: http://www.dreambean.com Rickard Öberg er en internasjonalt anerkjent Java-ekspert som har spesialisert seg på avanserte mellomvarearkitekturer og en av de ledende autoriteter på EJB og J2EE. Han har skrevet boken \"Mastering RMI\", en avansert bok på utvikling av RMI-løsninger i Java og EJB. Rickard er en av de som har vært med å utvikle EJB spesifikasjonen fra SUN til det den er i dag. Han er også en av utviklerne på \"core teamet\" bak jBoss Application Server, applikasjonsserverenes svar på Linux. I tillegg jobber han på diverse OpenSource prosjekter, og har vunnet ikke mindre enn åtte konkuranser på Java applikasjons utvikling og J2EE servere. Rickard har vært foredragsholder på mange av de store Java konferansene og drar alltid mengder av tilhørere gjennom sin måte å fremføre stoffet på og hans ytterst tunge fagkunnskap. Rickard har også tidligere gjestet JavaBin flere ganger tidligere med foredrag om JMX, Porlets og AOP. Med sitt siste foredrag i AOP klarte han å vekke til live en het debatt som pågikk i flere uker etterpå. Han vil i år besøke JavaZone for å snakke om AOP for avanserte."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "The Model-View-Controller (MVC), Its Past and Present ",
+    "level": "beginner",
+    "summary": "A discussion of the MVC pattern",
+    "description": "MVC was conceived in 1978 as the design solution to a particular problem. The top level goal was to support the user's mental model of the relevant information space and to enable the user to inspect and edit this information. The first part of the talk describes the original problem and discusses the chosen solution. The second part elaborates the original ideas and extends the scope to include current day challenges to the original goal. We examine some ideas related to MVC that are found in the literature and select those that appear to be particularly relevant to the top level goal. The third and final part summarizes it all in a condensed and coherent MVC pattern language.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Trygve Reenskaug",
+        "biography": "Hjemmeside: http://heim.ifi.uio.no/~trygver Trygve Reenskaug is professor emeritus of informatics at the University of Oslo and senior technical advisor to Mogul Norway. He has 40 years experience in software engineering research and the development of industrial strength software products. He has extensive teaching and speaking experience including keynotes, talks and tutorials. His firsts include the Autokon system for computer aided design of ships with end user programming language, structured programming, and a data base oriented architecture from 1960; object oriented applications and collaboration (role) modeling in 1973; Model-View-Controller, the world's first reusable object oriented framework, in 1979; OOram role modeling method and tool in 1983; and the premier book on role modeling in 1995. He was a member of the UML Core Team, was a major contributor to UML 1.4, and is currently involved with the collaboration part of the emerging UML 2.0. He is also interested in creating methods and tools for the development of distributed information systems."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Programmer's Dozen ",
+    "level": "beginner-intermediate",
+    "summary": "- Thirteen Recommendations for Refactoring, Repairing and Regaining Control of Your Code This session outlines a concrete thirteen-point list of practices (zero through twelve) that can be applied out-of-the-box to reduce code size and complexity, acting as both guidelines for new code and indicators for refactoring.",
+    "description": "There is no shortage of technical wisdom on how to develop clear and robust code, so why the confused expression on many a programmer's face when staring at all those source files, trying to make sense of the encrypted code? There are companies whose development culture does not encourage pursuit of knowledge of practice: a penny-wise pound-foolish approach. However, there are many companies and developers that want to push themselves to the state of the art, but seem swamped and bemused by how much state there really is to that art. This session outlines a concrete thirteen-point list of practices (zero through twelve) that can be applied out-of-the-box to reduce code size and complexity, acting as both guidelines for new code and indicators for refactoring. The short list has no ambition to be all that you needed to know about design but were afraid to ask, but it does offer an easily memorable and easily practised set of guidelines that offer the greatest immediate return on investment - the most bang for your buck, oomph for your euro or kerrang for your kroner.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kevlin Henney",
+        "biography": "Hjemmeside: http://www.two-sdg.demon.co.uk/curbralan/kevlin.html Kevlin Henney is an independent consultant and trainer based in the UK. The focus of his work is in programming languages, OO, CBD, UML, patterns and software architecture. He is a columnist for C/C++ Users Journal (online), Application Development Advisor (UK) and JavaSpektrum (Germany), and previously wrote columns in Java Report and C++ Report. He is also a popular speaker at conferences in the US and Europe."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Five Myths of Software Development ",
+    "level": "beginner",
+    "summary": "Will Rogers, the noted American philosopher, said, \"It isn't what we don't know that gives us trouble, it's what we know that ain't so.\" What is it we know about software development that ain't so?",
+    "description": "Will Rogers, the noted American philosopher, said, \"It isn't what we don't know that gives us trouble, it's what we know that ain't so.\" What is it we know about software development that ain't so? Specialization of labor Quality department Programming Done Defects How would we act if we knew better?",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Kent Beck",
+        "biography": "Foredragsholder innen: Software development Hjemmeside: http://www.threeriversinstitute.org/ Kent Beck Kent Beck is the founder and director of TRI. He has pioneered patterns for software development, the xUnit family of testing frameworks, the HotDraw drawing editor framework, CRC cards, refactoring, and most recently Extreme Programming. He is the author of Extreme Programming Explained, Planning Extreme Programming, and The Smalltalk Best Practice Patterns. He lives on 20 acres in rural southern Oregon with his wife, five children (one sadly now gone to college), four dogs, two sheep, and a variable number of domestic fowl."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Forthcoming Java Programming Language Improvements ",
+    "level": "beginner-intermediate",
+    "summary": "This talk describes the proposed changes in release 1.5 of the Java(tm) 2 Platform, Standard Edition, and show how they work together to improve the language.",
+    "description": "A number of significant language enhancements are slated for release 1.5 of the Java(tm) 2 Platform, Standard Edition (J2SE 1.5, code-named \"Tiger\").  The purpose of these enhancements is to make the Java programming language more expressive, developer-friendly, and safer, while minimizing incompatibility with preexisting programs.  These changes, covered by Java Community Process JSRs 14, 175 and 201, include generics, typesafe enums, autoboxing, an enhanced for-loop, a static import facility, and a metadata facility.  In this talk, we describe the proposed changes and show how they work together to improve the language.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Joshua Bloch",
+        "biography": "Joshua Bloch is a Senior Staff Engineer at Sun Microsystems, where he is an architect in the Core Java Platform Group. He wrote the Jolt-award winning book \"Effective Java\" (Addison-Wesley, 2001). He led the design and implementation of the award-winning Java Collections Framework, java.math, java.util.prefs, and assertions, and contributed to other parts of the Java platform. He currently leads one JCP expert group, JSR-175 (metadata), and co-leads another, JSR-201 (assorted language enhancements). Previously, he was a Senior Systems Designer at Transarc Corporation, where he designed and implemented many parts of the Encina distributed transaction processing system. He holds a Ph.D. from Carnegie-Mellon University and a B.S. from Columbia."
+      },
+      {
+        "name": "Neal Gafter",
+        "biography": "Neal Gafter is a Senior Staff Software Engineer at Sun Microsystems, where he is currently developing and supporting the Java compiler and language tools (javac, javadoc, javah, and javap). He has been working in compilers since 1981. He completed his Ph.D. from the University of Rochester in 1990. His main interests are compiler technology to support integrated programming environments, programming language design, and automated instruction selection."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "More Programming Puzzlers ",
+    "level": "intermediate",
+    "summary": "Joshua Bloch and Neal Gafter (also known as \"Click and Hack, the Type-It Brothers\") present ten more programming puzzles for your entertainment and enlightenment.",
+    "description": "Joshua Bloch and Neal Gafter (also known as \"Click and Hack, the Type-It Brothers\") present ten more programming puzzles for your entertainment and enlightenment. The game show format keeps you on your toes while the puzzles teach you about the subtleties of the Java(tm) programming language and its core libraries. Anyone with a working knowledge of the language will be able to understand the puzzles, but even the most seasoned veterans will be challenged by them.  The lessons you take from this session are directly applicable to your programs and designs. And some of the jokes may even be funny. This is an entirely different set of puzzles from last year's JavaOne talk (\"Programming Puzzlers\"). If you hated \"Programming Puzzlers,\" you'll detest \"More Programming Puzzlers\"! Overripe fruit will be provided to the first 50 attendees, so come early!",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Joshua Bloch",
+        "biography": "Joshua Bloch is a Senior Staff Engineer at Sun Microsystems, where he is an architect in the Core Java Platform Group. He wrote the Jolt-award winning book \"Effective Java\" (Addison-Wesley, 2001). He led the design and implementation of the award-winning Java Collections Framework, java.math, java.util.prefs, and assertions, and contributed to other parts of the Java platform. He currently leads one JCP expert group, JSR-175 (metadata), and co-leads another, JSR-201 (assorted language enhancements). Previously, he was a Senior Systems Designer at Transarc Corporation, where he designed and implemented many parts of the Encina distributed transaction processing system. He holds a Ph.D. from Carnegie-Mellon University and a B.S. from Columbia."
+      },
+      {
+        "name": "Neal Gafter",
+        "biography": "Neal Gafter is a Senior Staff Software Engineer at Sun Microsystems, where he is currently developing and supporting the Java compiler and language tools (javac, javadoc, javah, and javap). He has been working in compilers since 1981. He completed his Ph.D. from the University of Rochester in 1990. His main interests are compiler technology to support integrated programming environments, programming language design, and automated instruction selection."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "AOP advanced topics ",
+    "level": "advanced",
+    "summary": "This talk will focus on the more advanced topics of AOP, specifically weaving, persistence and loading policies, advanced trics and some AOP issues.",
+    "description": "Agenda What is AOP? Weaving Static versus dynamic Weaving and persistence Loding policies Advanced tricks Problems with AOP",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Rickard Öberg",
+        "biography": "Hjemmeside: http://www.dreambean.com Rickard Öberg er en internasjonalt anerkjent Java-ekspert som har spesialisert seg på avanserte mellomvarearkitekturer og en av de ledende autoriteter på EJB og J2EE. Han har skrevet boken \"Mastering RMI\", en avansert bok på utvikling av RMI-løsninger i Java og EJB. Rickard er en av de som har vært med å utvikle EJB spesifikasjonen fra SUN til det den er i dag. Han er også en av utviklerne på \"core teamet\" bak jBoss Application Server, applikasjonsserverenes svar på Linux. I tillegg jobber han på diverse OpenSource prosjekter, og har vunnet ikke mindre enn åtte konkuranser på Java applikasjons utvikling og J2EE servere. Rickard har vært foredragsholder på mange av de store Java konferansene og drar alltid mengder av tilhørere gjennom sin måte å fremføre stoffet på og hans ytterst tunge fagkunnskap. Rickard har også tidligere gjestet JavaBin flere ganger tidligere med foredrag om JMX, Porlets og AOP. Med sitt siste foredrag i AOP klarte han å vekke til live en het debatt som pågikk i flere uker etterpå. Han vil i år besøke JavaZone for å snakke om AOP for avanserte."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Tool Mimicry in the OO World ",
+    "level": "intermediate",
+    "summary": "Tool Mimicry in the OO World",
+    "description": "Tool Mimicry in the OO World",
+    "language": "en",
+    "speakers": [],
+    "year": 2003
+  },
+  {
+    "title": "Building Quality into Development ",
+    "level": "intermediate",
+    "summary": "This session will cover some of the techniques and tools that can allow the developer to improve quality, maintainability and productivity, including profiling, unit testing, visualisation and code analysis.",
+    "description": "On average, 30% of total project cost is spent on rework. Attempts at reducing project cost focus on improving developer productivity and all too often forget the critical issues of improving quality and maintainability. This session will cover some of the techniques and tools that can allow the developer to improve quality, maintainability and productivity. Subjects covered include: Profiling: Look inside the JVM & J2EE black boxes and regain control Unit Testing: Integrate Unit Testing earlier into the development cycle Visualisation: Multiple ways to visualise runtime and static behaviour Code Analysis: Static analysis of code to enforce coding standards and collect metrics",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jon Harrison",
+        "biography": "Foredragsholder innen: Building Quality into Development Jon Harrison is the European Product Line Manager for the JBuilder line of products at Borland. In his current role, Jon is a key resource for the sales teams and takes the lead for pricing policy, sales training and support for Java business in EMEA (Europe, Middle-East & Africa). Jon has more than 10 years' experience in pre-sales technical support and consultancy in the IT industry with two major software development tool vendors. In more recent years, Jon has focused on the emerging areas of distributed object computing including CORBA, EJB, and J2EE. Jon is an entertaining and popular speaker with a proven track record in presenting technical subjects in an interesting and easy to understand way."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Modelldrevet utvikling av J2EE-løsninger ",
+    "level": "beginner-intermediate",
+    "summary": "Modelldrevet utvikling med open source-verktøy.",
+    "description": "Denne presentasjonen viser en modelldrevet tilnærming for effektiv og enkel utvikling av J2EE-applikasjoner. UML brukes for å beskrive komponenter og grensesnitt. Ulike kodegenereringsverktøy brukes for å generere session- og entity-komponenter fra modellene. Et eksempel blir brukt for å vise hvordan J2EE-løsninger kan automatiseres basert på modelleringsverktøy og kodegenerering. Eksempelet viser bruk av UML for modellering, et open source verktøy (UMT - UML Model Transformation Tool) for generering fra UML-modell til Java/XDoclet og ant build scripts, og hvordan dette blir tatt videre til J2EE/JBoss ved bruk av XDoclet. Hovedfokus vil ligge på bruk av UML og kodegenerering i modelldevet utvikling. Andre tilnærminger til automatisering/kodegenerering av systemutviklingen vil også bli belyst.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Jon Oldevik",
+        "biography": "Foredragsholder innen: MDA Jon Oldevik er forsker ved SiNTEF Tele og data, avdeling for Distribuerte Informasjonssystemer i Oslo. Han har lang erfaring med programvarearkitektur, systemutviklingsmetoder, produktfamilier, modellering, kodegenerering og implementasjon av distribuerte og komponentbaserte systemer. Utvikling og bruk av verktøy for modelldrevet utvikling har vært et spesielt fokusområde."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Middlegen - Open Source kodegenereringsverktøy ",
+    "level": "beginner-intermediate",
+    "summary": "Middlegen er et kodegenereringsverktøy basert på JDBC, Velocity, Ant og XDoclet. Det er et Open Source prosjekt startet i Norge.",
+    "description": "Middlegen er et kodegenereringsverktøy basert på JDBC, Velocity, Ant og XDoclet. Det er et Open Source prosjekt startet i Norge. Verktøyet bygger en modell ut fra database ved hjelp av JDBC meta-data. Diverse plugins benytter modellen sammen med Velocity templates til generering av kode. Det eksisterer foreløpig plugins for EJB CMP 2.0 (+ Struts), Hibernate og JDO. XDoclet benyttes til å ferdigstille koden med interfaces, deployment descriptors etc. Alt kjøres og pakkes med Ant script, slik at prosessen blir mest mulig automatisk. Sesjonen vil fokusere på generering av komplett database applikasjon, med Entity Beans (CMP 2.0), XDoclet value-objects, Session Bean Facade til JBoss applikasjonsserver. Muligens med live demonstrasjon. Den ferdige applikasjonen kan aksesseres av forskjellige klienter, som for eksempel Webapp/Struts eller J2SE Swing klient. Sesjonen kommer også til å ta for seg hvilke andre plugins som eksisterer, og hvordan man enkelt kan skrive egne custom plugins. Man vil også si noe om hvordan neste versjon av Middlegen kommer til å bli og trekke paralleller mot andre kodegenereringsverktøy. Prosjektside",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Eivind Waaler",
+        "biography": "Foredragsholder innen: MiddleGen, XDoclet Hjemmeside: http://boss.bekk.no/boss/middlegen/ Eivind Waaler Eivind Waaler jobber som senior konsulent i BEKK. Han har mange års erfaring med utvikling og arkitektur av J2EE løsninger. Eivind er tilhenger av Open Source software, og har det siste året vært aktiv utvikler på Middlegen prosjektet. Han har stor kompetanse på Open Source produkter og benytter disse i stor grad på sine prosjekter og løsninger. Eivind har tidligere holdt foredrag om XDoclet og Middlegen på JavaBin."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Bruk av Hibernate i J2EE-utvikling ",
+    "level": "intermediate",
+    "summary": "Dette foredraget vil se nærmere på Hibernate og hvordan det kan brukes sammen med J2EE.",
+    "description": "Dette foredraget vil se nærmere på Hibernate og hvordan det kan brukes sammen med J2EE. Foredraget vil bygge på erfaringer fra et prosjekt hvor Hibernate blir brukt og det vil dekke bl.a. følgende ting: Hvordan virker rammeverket? Verktøystøtte Transaksjonshåndtering Hvordan hentes data fra databasen? Cache-mekanismer Queryspråket til Hibernate Design-strategier: Top-down vs bottom-up Hibernate i en J2EE-setting Andre alternativer til Hibernate Andre erfaringer, gode og dårlige Hvis det blir tid vil det også bli kodeeksempler for å vise hvordan en del av disse tingene virker i praksis.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Bjørn Vidar Bøe",
+        "biography": "Foredragsholder innen: Hibernate, OR-rammeverk Hjemmeside: http://www.objectware.no Bjørn Vidar Bøe har en MSc Software Engineering og en BSc Informatics. Han jobber som konsulent hos Objectware og driver hovedsakelig med utvikling på Java-plattform."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "MDA-based Development In Practice: Uniting Model and Code So That They Can't Drift Apart ",
+    "level": "intermediate-advanced",
+    "summary": "How to build a first-cut application using an MDA-based tool and how to modify it where necessary, allowing you to focus on the creative aspects of coding rather than the tedious, repetitive tasks.",
+    "description": "The past has thought us that, in large projects with many developers, the model and the application drift apart and a point arrives when a reverse engineering exercise is tried. This often results in a model that is unintelligible, badly commented and laid out. So we now have a pretty model that doesn't reflect the code or a messy one that is true but unusable. Typically the analysts continue to work with their tidy model and the developers stick with the 'code view'. MDA-based tools unite model and code so that they can't drift apart. This presentation/demonstration will explain the MDA concepts, how OptimalJ maps to MDA and OptimalJ's implementation of MDA, which focuses on models and patterns. You will see how to build a first-cut application using an MDA-based tool and how to modify it where necessary, allowing you to focus on the creative aspects of coding rather than the tedious, repetitive tasks.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ruud Grotens",
+        "biography": "Foredragsholder innen: MDA Grotens joined Compuware in 1996. His key responsibility is to conduct market research and analysis to support the strategic and technical direction of Compuware's application development and integration products, including OptimalJ. Grotens is also responsible for ensuring knowledge transfer to Compuware's local technical and field sales teams. Prior to joining Product Management he held technical and sales support roles in Compuware's Dutch organization. Grotens also worked for Origin, a Dutch-based Systems Integrator, in a variety of positions but primarily in the telecommunications branch. He holds a degree in computer science."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Emerging Standards for Web Services Integration and Service Oriented Architectures (SOA) ",
+    "level": "intermediate",
+    "summary": "This session tries to unscramble the architecture and acronym soup and clearly explains the differences and details of the standards and how they fit together.",
+    "description": "With the broad adoption of Web services we find an explosion in standards activity that can confuse the most adept amongst us as we follow and decode the activities and products that support them. Core Web services built on a basic stack of SOAP, WSDL, UDDI and XML to provide Messaging, Discovery and Description services are generally accepted and understood within the community. But the architecture and standards layers don’t stop there. New and emerging standards build the necessary layers of architecture support for the Plug and Play Business embracing : Security ( with Liberty, XACML and SAML ), Reliable Messaging (with WS-RM), Transactions, Coordination and Choreography (with BPEL4WS, WSCI) with an end game of business process standardisation through ebXML and RosettaNet and compute resource on demand from Grid services through the GLOBUS alliance. This session tries to unscramble the architecture and acronym soup and clearly explains the differences and details of the standards and how they fit together into an SOA approach for software development and organisational collaboration and maps these standards into a forward vision for the Oracle technology stack.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "",
+        "biography": ""
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Architects from Hell ",
+    "level": "intermediate-advanced",
+    "summary": "A story of the issues developers will face on the road from Hell to Oslo An attempt to walk through some of the most common misconceptions in today's modern development architecture and discuss the issues at hand.",
+    "description": "An attempt to walk through some of the most common misconceptions in today's modern development architecture and discuss the issues at hand. (An interesting side aspect is that we today have many of the leading architects at our show, the ones who are (at least partly) responsible for this mess) Agenda: Mistaken presumptions (1) Limitations of the Java programming language (3) Missing inside knowledge (3) Pattern mistakes (2) Environment coupling mistakes (5) The issues covered in this talk can also be aggregated as follows: Hardware/infrastructure (1) Core Java (6) Enterprise Java/EJB (8) Metodology (2)",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Thor Henning Hetland",
+        "biography": "Foredragsholder innen: Software methodology, J2EE, EJB, Jini, J2ME Hjemmeside: http://totto.org Thor Henning Hetland Speaker on several conferences including JavaZone, OMG Information Days and various others. With over 20 years of professional programming experience spawning quite a few programming languages he has contributed in both international and domnestic projects n various roles, including Project leader, technology mentor, technology strategist and trainer."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "The New Core J2EE Patterns ",
+    "level": "intermediate",
+    "summary": "John Crupi will discuss the six new patterns in the Core J2EE Patterns catalog.",
+    "description": "John Crupi will discuss the six new patterns in the Core J2EE Patterns catalog. The Core J2EE Patterns [CJP]1st edition contains 15 patterns and was released in June 2001. The 2nd edition was just released in June 2003 has been completely updated to reflect J2EE 1.4 and contains 6 new patterns. John will briefly cover the history of the pattern catalog and provide details into the six new patterns. Finally, John will briefly discuss Micro Architectures which was introduced in the CPJ 2nd edition. A Micro Architecture is a prescriptive design solution which leverages patterns and is applied to a larger grained problem.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "John Crupi",
+        "biography": "John Crupi JOHN CRUPI is a Distinguished Engineer and the Chief Java Architect in Sun Software Services. He has over 17 years of experience in distributed object computing and remains focused on creating reusable, scalable J2EE architectures and bringing patterns to the next level. He is co-author or Core J2EE Patterns 1st and 2nd edition."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Model-centric architecture, how to combine speed with clean design and why you should share with the client ",
+    "level": "intermediate-advanced",
+    "summary": "how to make an enterprise architecture around the oo model.",
+    "description": "Object models are the best known tool to handle complexity and change. Yet main-stream enterprise arkitectures downplay the role of the oo model at best. The session will show very concretely how to make an architecture around the oo model which addresses the requirements of enterprise applications better than the main-stream non-oo enterprise architectures.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Jon S Bratseth",
+        "biography": ""
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Service Oriented Architecture for distributed applications ",
+    "level": "intermediate",
+    "summary": "When dealing with distributed enterprise applications, designing functionality in terms of services can promote flexibility, and result in easy to use APIs across application domains. Lower coupling and improved cross-application reusability can also be achieved when clearly separating services and data. Business logic in large-scale systems should be defined in terms of java interfaces and implemented in terms of distributed stateless services. By then encapsulating service invocation using java 1.3 Dynamic Proxies, we can both get a high degree of flexibility and have simple to use client APIs as a result.",
+    "description": "When designing enterprise applications, being able to create understandable API's is important. The same API's should also easily lend themself to distribution in form of J2EE SLSB's or Web Services, providing a centralized repository of services accessible from multiple platforms, channels and applications. When using services in a distributed environments, effort and focus tend to shifts from using business related functionality, to create Service locators, discuss home vs remote interfaces or web services, i.e. to discuss infrastructure. By defining some simple naming conventions for java classes and by the application of java 1.3 Dynamic Proxies; java idioms and simple framework from creating and using services in a distributed environment can be established. Everything related to infrastructure can be isolated in a few classes and hidden from the user, and code-generation can be kept to a minimum. The author has created a simple framework for accessing distributed services that: Uses a java interface for each service Uses a generic factory for getting an instance implementing the service Creates a chain of InvocationHandlers that can intercept method calls of the service Can dynamically add restricted time execution, and asynchroumos execution of the service",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Bjørn Bjerkeli",
+        "biography": "Foredragsholder innen: Service Oriented Architecture Bjørn Bjerkeli Bjørn Bjerkeli currently works as a Senior Consultant in Zenior AS, a Norwegian consulting company. Bjørn has been implementing large-scale distributed systems in J2EE and CORBA for insurance companies, banks and major European telceom providers since 1997. He has been working for companies like Nokia and Sybase among others. Although Bjørn often spends much of his time in design and mentoring, he enjoys it when he is engaged in serious coding and development."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Building a resillient system with Jini technology using RIO, the NordPool Real Time Feed ",
+    "level": "advanced",
+    "summary": "Bouvet was selected to build a new real time information feed for the nordic power exchange NordPool. Jini technology combined with the Creare RBNB was selected as the platform. The presentation will take a tour through the key demands, the chosen architecture down to code level.",
+    "description": "Bouvet was selected to build a new real time information feed for the nordic power exchange NordPool, where the feed system is used to feed information syndicates with market information in real time. The nature of the system is best illustrated by some key requirements: Maximum delay of mesages 1,5 second from a trade has taken place and the information is delivered to customers Handle 100 messages / second in peak sequences of 3 seconds Required availability during opening hours 99.15% pr. 15 minute To meet the functional and non functional requirements a resilient and redundant design was required, and during analysis it became more and more clear that use of Jini technology combined with the Creare RBNB data turbine constituded the most cost efficient platform that met the requirements. With respect to Jini the Rio software was used, as it provided a higher abstraction level for developers and provided the key mekanisms for building an adaptable system. The presentation will take a tour through the key demands, the chosen architecture down to code level.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Atle Krokeide",
+        "biography": "Atle Krokeide, born in 1966, is educated from the department of Computer Science at NTNU in Trondheim and has 12 years of experience with software development and project management. His experience includes 3 years with Cap Gemini working with real-time testing systems for the European Space Agency, 6 years with Ericsson working with Network Management systems in both fixed and mobile networks; as a developer, project manager and group manager. The last 3 years he has been working with Bouvet AS as system developer and project manager, most recently with the real-time feed project for the Nordic Power Exchange - Nord Pool."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Transaktioner i J2EE ",
+    "level": "advanced",
+    "summary": "J2EEs transaktionsmodell",
+    "description": "När man integrerar system med varandra är det viktigt att det sammansatta systemet ska fungera som ett system, framför allt ur klienternas perspektiv. Här spelar transaktioner en nyckelroll. Under denna föreläsning tittar vi dels på vilket stöd J2EE har för transaktionshantering, dels hur detta kan utnyttjas för att integrera system. Vi tittar på varför vi vill ha transaktioner i J2EE-system och går igenom J2EEs transaktionsmodell. Ur detta hittar vi \"best practises\" för var transaktioner startas och committas. För att bättre förstå detta gräver vi lite under ytan för att se hur JTA/JTS fungerar bakom kulisserna. För integration studerar vi några olika typer av systemintegration, J2EE-J2EE, integration av X/Open-kompatibla system samt några strategier (inklusive connectors) för bakomliggande system med egna transaktionsmodeller.",
+    "language": "sv",
+    "speakers": [
+      {
+        "name": "Dan Johnsson",
+        "biography": "Dan Johnsson; programmerare som inriktat sig på arkitektur och integrationslösningar. Dan har under de senaste fem åren legat i frontlinjen vad det gäller att införa användandet av Java i både Sverige och Norge. Han är en av få som av Sun certifieras att hålla deras kurs i J2EE-arkitektur varhelst världen över. Inom Java/J2EE har han speciellt intresserat sig för Enterprise JavaBeans och hur dessa kan användas för att integrera system med varandra, såväl nya som gamla. Dan arbetar nu som säkerhetsarkitekt på Omegapoint AB, ett konsultbolag som är ett av Sveriges ledande företag inom IT-säkerhet. Mest känd i Norge är han för sitt tidigare samarbete mellan Frobozz AB och Sun Norway A/S. Han föreläste även på JavaZone 2002. Fritiden ägnar Dan mestadels åt dans, framför allt Lindy Hop."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Plattformsikkerhet i J2EE og nye standarder for digital identitet ",
+    "level": "advanced",
+    "summary": "Hvordan Java-teknologier som JAAS og JACC kan brukes for å løse problemer knyttet til ende-til-ende autentisering og autorisasjon, og hvordan nye standarder for \"digital identitet\" (SAML, XACML, Liberty) kan kombineres med Java-teknologier for å lage løst koblede web-føderasjoner.",
+    "description": "En av utfordringene med å lage løsninger som integrerer informasjon og tjenester fra mange forskjellige fagsystemer er autentisering og avgrensning av sluttbrukerens rettigheter i de ulike systemene. Som oftest har de ulike systemene egne sikkerhetsløsninger og opererer med ulike brukerbegreper. Sikkerhetsløsningen må dermed også omfatte hvordan identitet konsolideres og transformeres når informasjon og tjenester fra ulike systemer integreres. Dette gjelder både ved tette integrasjoner som når løsninger integreres gjennom en J2EE applikasjonstjener, og ved løse integrasjoner, som når løsninger integreres gjennom web føderasjoner eller web services. Vi skal se på hvordan Java-teknologier som JAAS og JACC kan brukes for å løse problemer knyttet til ende-til-ende autentisering og autorisasjon, og hvilken rolle disse teknologiene spiller i Javas sikkerhetsmodell. Vi skal også se på nye standarder innenfor det feltet vi kaller \"digital identitet\", og hvordan disse standardene kan kombineres med Java-teknologier for å lage løst koblede web-føderasjoner. Aktuelle standarder er SAML, XACML og Liberty. Vi skal videre se på hvordan støtte for autentisering med digitale sertifikat, for eksempel BankID, kan implementeres inn i det utvidbare JAAS-rammeverket.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Gunnar Nordseth",
+        "biography": "Foredragsholder innen: Sikkerhet Hjemmeside: http://www.kantega.no Gunnar Nordseth er teknologisjef i Kantega AS (www.kantega.no). Han har utdannelse innenfor fysikk og matematikk fra NTNU (tidligere NTH). I Kantega har han ansvar for å lede satsningen på løsninger og tjenester for digital identitet, og har blant annet vært involvert i prosjektet for utvikling av SpareBank 1s pilotløsning for BankID. Hans interessefelt omfatter informasjonssikkerhet, objektmetodikk og utviklingsprosess."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Java versus .NET ",
+    "level": "intermediate",
+    "summary": "Foredraget tar for seg hvilke forskjeller og likheter det er i funksjonalitet plattformene tilbyr, såvel som det evinnelige spørsmålet: Hvilken plattform er best?",
+    "description": "I de siste 5 årene har Java vært den raskest voksende utviklingsplattformen i verden. Nå slår Microsoft tilbake. .NET er Microsofts visjon av en plattform for det nye årtusen. Begge miljøene har forkjempere som står på barrikadene og har sine sterke meninger. Dette foredraget tar for seg hvilke forskjeller og likheter det er i funksjonalitet plattformene tilbyr, såvel som det evinnelige spørsmålet: Hvilken plattform er best? Foredraget sammenliger hvilke løsninger plattformene tilbyr til utviklere av en n-lags enterprisemodell, mobile applikasjoner, og desktop-applikasjoner. Brodwall vil sammenligne sin erfaring på Java og .NET prosjekter når det gjelder integrasjon, sikkerhet og portabilitet, såvel som ikke-tekniske faktorer som opplæring, kostnad og filosofi.",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Johannes Brodwall",
+        "biography": "Foredragsholder innen: Java vs .NET Hjemmeside: http://www.systek.no/ Johannes Brodwall har jobbet i flere år som konsulent innen Java og J2EE. Før Java jobbet han med COM og Window 32. Det siste halv året har han vært teknisk prosjektleder og arkitekt for et nyutviklingsprosjekt i .NET. Johannes kjenner begge plattformene godt, og synes de har sine individuelle styrker og svakheter. Han jobber (nesten) like gjerne med begge to."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "J2ME Clients talking to J2EE Servers ",
+    "level": "intermediate",
+    "summary": "J2ME Clients talking to J2EE Servers",
+    "description": "Agenda Problems in end-to-end development J2ME Wireless Connection Wizard Demonstration",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ariel Levin",
+        "biography": "Foredragsholder innen: MIDP 2.0 and J2ME 2.0 Ariel Levin has worked in the area of OO since 1990 (Smalltalk) and has been working with Java (the Java 2 Platform, Standard Edition [J2SE]) since 1997. In 2000, Levin joined Sun Microsystems as one of the Java 2 Platform, Micro Edition (J2ME), Wireless Toolkit team members."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "J2ME i forretningskritiske systemer ",
+    "level": "intermediate",
+    "summary": "Et system utviklet for Statens Vegvesen hvor PDA'er benyttes for informasjonsutveksling.",
+    "description": "Java på små \"duppedingser\" er ensbetydende med spill og moro for folk flest. For bedrifter kan J2ME også bety \"nytteverdi\", \"besparinger\", \"fleksibilitet\" og \"suksess\". Presentasjonen omhandler et system utviklet for Statens Vegvesen hvor PDA'er benyttes for informasjonsutveksling. Temaer som vil bli gjennomgått er valg av plattform (PersonalJava vs PersonalProfile), distribuert oppdatering av persistent informasjon ved hjelp av XML og et open-source rammeverk for brukergrensesnitt (Thinlet).",
+    "language": "no",
+    "speakers": [
+      {
+        "name": "Helge Gundersen",
+        "biography": "Foredragsholder innen: J2ME Hjemmeside: http://www.objectnet.no Helge Gundersen jobber som konsulent i Objectnet hvor han engasjeres i utviklingen av forretningskritiske systemer basert på Java-teknologi. Helge er utdannet sivilingeniør med fordypning innen mobilkommunikasjon og åpne distribuerte systemer."
+      },
+      {
+        "name": "Henning Kvalheim",
+        "biography": "Henning Kvalheim jobber som konsulent i Objectnet. Objectnet er et uavhengig konsulentselskap som bistår kunder i valg og utvikling av fremtidsrettede løsninger. Objectnet representerer faglig tyngde og spiss­kompetanse innen objekt­orientert systemutvikling, både på prosess- og teknikksiden. Objectnet har lang prosjekterfaring og er en leverandør av objektorienterte, åpne, distribuerte systemer i en flerlagsarkitektur."
+      },
+      {
+        "name": "Rune Melhus",
+        "biography": "Hjemmeside: http://www.objectnet.no Rune Melhus er født i 1973 og er utdannet ved Ingeniørhøgskolen i Trondheim. Han har jobbet med objektorienterte systemer siden 1997 og arbeidserfaringen omfatter 4 år med utvikling i C++ hos SuperOffice samt to år med utvikling i Java hos Objectnet. Hos sistnevnte har han jobbet mest med nummerportering og distribuerte systemer."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Overview of the Mobile Information Device Profile (MIDP) 2.0 and the Java 2 Platform, Micro Edition (J2ME) Wireless Toolkit 2.0 ",
+    "level": "intermediate",
+    "summary": "Introduction to MIDP 2.0",
+    "description": "The Mobile Information Device Profile 2.0 includes many enhancements and new features. These cover gaming, audio, security, network protocols, user interface improvements and more. The latest version of the Java 2 Platform, Micro Edition (J2ME) Wireless Toolkit fully supports MIDP 2.0, as well as the Mobile Media and Wireless Messaging APIs. This session, for J2ME platform developers at all levels, gives a broad overview of these new features and their support in the J2ME Wireless Toolkit.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Ariel Levin",
+        "biography": "Foredragsholder innen: MIDP 2.0 and J2ME 2.0 Ariel Levin has worked in the area of OO since 1990 (Smalltalk) and has been working with Java (the Java 2 Platform, Standard Edition [J2SE]) since 1997. In 2000, Levin joined Sun Microsystems as one of the Java 2 Platform, Micro Edition (J2ME), Wireless Toolkit team members."
+      }
+    ],
+    "year": 2003
+  },
+  {
+    "title": "Real life MIDP game development and publishing ",
+    "level": "intermediate",
+    "summary": "Discussion of the problems a developer faces when it comes to differentiating specs on various terminals on the market today, with references to real life models. There will also be focus on the various extensions existing in both Asia and the Western countries, and how to utilize these without breaking platform independence.",
+    "description": "Discussion of the problems a developer faces when it comes to differentiating specs on various terminals on the market today, with references to real life models. The problems varies from the obvious like different screen sizes, language, CPU speed and input options to unofficial extensions you are \"forced\" to use and bugs in the Java implementation. There will also be focus on the various extensions existing in both Asia and the Western countries, and how to utilize these without breaking platform independence. This leads to the need for a complex versioning system, as many builds might result from each game, this will also be discussed. The presentation will also have a business angle, giving some views on the market today, locally, in Asia with some visions for the future.",
+    "language": "en",
+    "speakers": [
+      {
+        "name": "Tonny Espeset",
+        "biography": "Foredragsholder innen: MIDP game development Tonny Espeset er grunder av firmaet Plutonium Software AS, som har markert seg på verdensbasis med spisskompetanse på mobil-teknologi, og da særlig interaktiv Java basert underholdning. Han har vært aktiv i Java miljøet lenge, og er blant annet kjent som forfatteren av boken KickAss Java Programming, utgitt av et Amerikansk forlag og oversatt til en lang rekke språk. Han har også vunnet mange priser for sitt arbeid, blant annet Gulltaggen, Sime awards og JARS 1%. For tiden jobber han mest med brobygging mellom levedyktige forretningsmodeller og ny teknologi."
+      }
+    ],
+    "year": 2003
+  }
+]
