@@ -20,6 +20,7 @@
   <modules>
     <module>topicmodeling</module>
     <module>common</module>
+    <module>deeplearning</module>
   </modules>
 
   <packaging>pom</packaging>
