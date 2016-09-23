@@ -9,9 +9,9 @@ We have used [Mallet](http://mallet.cs.umass.edu/) for doing topic modeling with
 Good starting points for learning more about topic modeling are [Mallet Topic Modeling](http://mallet.cs.umass.edu/topics.php) and [The Programming Historian's lesson on Topic Modeling and Mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet). We have used the example code at [Topic Modeling for Java Developers](http://mallet.cs.umass.edu/topics-devel.php) as our starting point.
 
 ## Vector space models
-We have used [Deeplearning4j] (http://deeplearning4j.org) for generating our vector space models with the word2vec package. We used the CBOW algorithm and not Skip-gram because of our  small dataset. We also used [Stanford CoreNLP] (http://stanfordnlp.github.io/CoreNLP/) for doing preprocessing of the text documents. In particular the POS tagging and lemmatizing are useful preprocessing techniques that comes right out the box in the Stanford CoreNLP. Usefull links to learn more about ector space models:
-[Introduction to word2vec] (http://deeplearning4j.org/word2vec)
-[Stemming and lemmatizing] (https://en.wikipedia.org/wiki/Stemming)
+We have used [Deeplearning4j] (http://deeplearning4j.org) for generating our vector space models with the word2vec package. We used the CBOW algorithm and not Skip-gram because of our  small dataset. We also used [Stanford CoreNLP] (http://stanfordnlp.github.io/CoreNLP/) for doing preprocessing of the text documents. In particular the POS tagging and lemmatizing are useful preprocessing techniques that comes right out the box in the Stanford CoreNLP. Usefull links to learn more about vector space models:
+* [Introduction to word2vec] (http://deeplearning4j.org/word2vec)
+* [Stemming and lemmatizing] (https://en.wikipedia.org/wiki/Stemming)
 
 ## Character sequences with recurrent neural network (RNN)
 To genererate abstract based on the abstracts from previous years we use GravesLSTM from [Deeplearning4j](http://deeplearning4j.org/). We have two working versions, one using Spark and one custom made CharacterIterator (as in [this example](https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent/character) from Deeplearning4j). We seem to get best results with the Spark version, even with the same parameters.
