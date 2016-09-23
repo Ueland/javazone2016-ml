@@ -1,0 +1,6614 @@
+PERSON:Espen Green
+ORGANIZATION:Computer Associates
+ORGANIZATION:Information Management
+PERSON:Espen
+PERSON:Einar Landre
+ORGANIZATION:University of Oslo
+ORGANIZATION:University of Strathclyde
+LOCATION:Scotland
+ORGANIZATION:Norsk Data
+ORGANIZATION:Skrivervik Data
+PERSON:Bouvet
+MISC:Java
+PERSON:Sertifisering Khalid A. Mughal
+ORGANIZATION:Department of Informatics
+ORGANIZATION:University of Bergen
+LOCATION:Norway
+MISC:Java
+MISC:Java Som
+MISC:Java
+PERSON:Cappelen Akademisk Forlag
+MISC:Java
+PERSON:Trygve Reenskaug
+ORGANIZATION:University of Oslo
+LOCATION:Mogul Norway
+PERSON:Model-View-Controller
+ORGANIZATION:UML Core Team
+ORGANIZATION:UML
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:UML
+LOCATION:UK
+LOCATION:Germany
+MISC:Java Report
+LOCATION:US
+LOCATION:Europe
+PERSON:Kent Beck Kent Beck
+ORGANIZATION:CRC
+LOCATION:Oregon
+PERSON:Joshua Bloch
+ORGANIZATION:Sun Microsystems
+MISC:Core Java Platform Group
+MISC:Jolt-award
+MISC:`` Effective Java
+MISC:Java Collections Framework
+MISC:Java
+ORGANIZATION:JCP
+MISC:Senior Systems
+ORGANIZATION:Transarc Corporation
+PERSON:Encina
+ORGANIZATION:Carnegie-Mellon University
+LOCATION:Columbia
+PERSON:Neal Gafter
+ORGANIZATION:Sun Microsystems
+MISC:Java
+ORGANIZATION:University of Rochester
+PERSON:Joshua Bloch
+ORGANIZATION:Sun Microsystems
+MISC:Core Java Platform Group
+MISC:Jolt-award
+MISC:`` Effective Java
+MISC:Java Collections Framework
+MISC:Java
+ORGANIZATION:JCP
+MISC:Senior Systems
+ORGANIZATION:Transarc Corporation
+PERSON:Encina
+ORGANIZATION:Carnegie-Mellon University
+LOCATION:Columbia
+PERSON:Neal Gafter
+ORGANIZATION:Sun Microsystems
+MISC:Java
+ORGANIZATION:University of Rochester
+PERSON:Rickard Öberg
+MISC:Java-ekspert
+MISC:Java
+PERSON:Rickard
+MISC:Java
+PERSON:Rickard
+MISC:Java
+PERSON:Rickard
+ORGANIZATION:AOP
+ORGANIZATION:AOP
+ORGANIZATION:AOP
+PERSON:Jon Harrison
+ORGANIZATION:Borland
+PERSON:Jon
+MISC:Java
+ORGANIZATION:EMEA
+LOCATION:Europe
+LOCATION:Middle-East & Africa
+PERSON:Jon
+PERSON:Jon
+PERSON:Jon
+ORGANIZATION:MDA Grotens
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+PERSON:Grotens
+MISC:Dutch-based Systems Integrator
+ORGANIZATION:Jini
+PERSON:Thor Henning Hetland
+ORGANIZATION:OMG Information Days
+PERSON:John Crupi JOHN CRUPI
+MISC:Distinguished
+PERSON:Bjørn Bjerkeli Bjørn Bjerkeli
+PERSON:Bjørn
+MISC:European
+ORGANIZATION:Nokia
+ORGANIZATION:Sybase
+PERSON:Bjørn
+PERSON:Atle Krokeide
+ORGANIZATION:NTNU
+LOCATION:Trondheim
+PERSON:Cap Gemini
+ORGANIZATION:European Space Agency
+ORGANIZATION:Ericsson
+PERSON:Bouvet
+ORGANIZATION:Nordic Power Exchange - Nord Pool
+PERSON:Ariel Levin
+MISC:Java
+MISC:Java Platform
+PERSON:Levin
+ORGANIZATION:Sun Microsystems
+MISC:Java Platform
+PERSON:Ariel Levin
+MISC:Java
+MISC:Java Platform
+PERSON:Levin
+ORGANIZATION:Sun Microsystems
+MISC:Java Platform
+ORGANIZATION:Tonny Espeset
+MISC:Java
+MISC:Java
+MISC:KickAss Java Programming
+MISC:Amerikansk
+PERSON:Gulltaggen
+PERSON:Sime
+PERSON:Evangelis
+ORGANIZATION:Sun Microsystems
+PERSON:Raghavan Srinivas
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+MISC:Java
+MISC:Java
+PERSON:Raghavan
+ORGANIZATION:Digital Equipment Corporation
+ORGANIZATION:VMS
+MISC:Windows NT
+PERSON:Raghavan
+ORGANIZATION:Center of Advanced Computer Studies
+ORGANIZATION:University of Southwestern Louisiana
+ORGANIZATION:Curbralan Ltd
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:UML
+LOCATION:UK
+LOCATION:Germany
+MISC:Java Report
+LOCATION:US
+LOCATION:Europe
+ORGANIZATION:University of Bergen
+PERSON:Khalid A. Mughal
+ORGANIZATION:Department of Informatics
+ORGANIZATION:University of Bergen
+LOCATION:Norway
+MISC:Java
+MISC:Java
+MISC:Java-related
+MISC:Java Certification
+MISC:Java : Java
+PERSON:Cappelen Akademisk Forlag
+MISC:Java
+PERSON:Steve Muench
+ORGANIZATION:J2EE Developer Tools Division
+ORGANIZATION:Oracle Corporation
+PERSON:Steve
+ORGANIZATION:Oracle
+PERSON:O'Reilly
+ORGANIZATION:Oracle
+MISC:Java
+PERSON:Björn
+ORGANIZATION:Borland
+MISC:Nordic
+LOCATION:Stockholm
+MISC:Borland Java
+LOCATION:Scandinavia
+LOCATION:Europe
+ORGANIZATION:Borland
+PERSON:Björn
+MISC:Java
+PERSON:Gilb
+PERSON:Tom Gilb
+LOCATION:Europe
+LOCATION:India
+LOCATION:Korea
+LOCATION:Japan
+LOCATION:US
+ORGANIZATION:IBM
+ORGANIZATION:CMM Level Four
+LOCATION:Norway
+LOCATION:London
+ORGANIZATION:Handbook for Systems & Software Engineering Management
+ORGANIZATION:Symbian
+ORGANIZATION:BAA
+ORGANIZATION:British Airports Authority
+ORGANIZATION:Citigroup
+ORGANIZATION:Sony
+ORGANIZATION:Canon
+ORGANIZATION:Intel
+ORGANIZATION:Nokia
+ORGANIZATION:Ericsson
+ORGANIZATION:Synopsys
+ORGANIZATION:Philips
+ORGANIZATION:Microsoft
+ORGANIZATION:IBM
+ORGANIZATION:Boeing
+LOCATION:US
+LOCATION:UK
+ORGANIZATION:Nortel
+ORGANIZATION:Motorola
+ORGANIZATION:Alcatel
+PERSON:Trond Arve Wasskog
+MISC:Java
+MISC:Java
+ORGANIZATION:Bekk Consulting
+ORGANIZATION:Simula Research Laboratory
+ORGANIZATION:Simula Research Laboratory
+PERSON:Vidar Kongsli
+ORGANIZATION:Bekk Consulting AS
+ORGANIZATION:Accenture
+ORGANIZATION:NTNU
+MISC:Java
+ORGANIZATION:CTO
+ORGANIZATION:Accenture
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+ORGANIZATION:Application Development and Integration
+PERSON:Wim Bast
+ORGANIZATION:Compuware
+ORGANIZATION:Application Development and Integration Centre
+LOCATION:Amsterdam
+LOCATION:Netherlands
+PERSON:Bast
+ORGANIZATION:Compuware
+MISC:Java
+ORGANIZATION:Compuware
+ORGANIZATION:MDA
+MISC:Java
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+ORGANIZATION:Object Management Group
+PERSON:Bast
+ORGANIZATION:MDA
+ORGANIZATION:MOF
+PERSON:Bast
+ORGANIZATION:Compuware
+ORGANIZATION:MDA
+MISC:Driven Architecture
+ORGANIZATION:UML
+ORGANIZATION:MDA
+ORGANIZATION:Compuware
+PERSON:Wim
+ORGANIZATION:Middleware Company
+MISC:Whos
+MISC:Enterprise Java
+MISC:Java
+ORGANIZATION:Sun Software Services
+PERSON:JOHN CRUPI
+MISC:Distinguished
+PERSON:Steve Muench
+ORGANIZATION:J2EE Developer Tools Division
+ORGANIZATION:Oracle Corporation
+PERSON:Steve
+ORGANIZATION:Oracle
+PERSON:O'Reilly
+ORGANIZATION:Oracle
+MISC:Java
+PERSON:Richard Stallman
+MISC:Linux-based
+PERSON:Linus Torvalds
+PERSON:Richard Stallman
+PERSON:Stallman
+PERSON:Stallman
+ORGANIZATION:Harvard
+ORGANIZATION:MIT Artificial Intelligence Lab
+MISC:Emacs
+ORGANIZATION:MIT
+PERSON:Stallman
+ORGANIZATION:Association for Computing Machinery
+ORGANIZATION:Macarthur
+LOCATION:Sweden
+ORGANIZATION:Electronic Frontier Foundation
+PERSON:Linus Torvalds
+PERSON:Yuri Rubinski
+ORGANIZATION:University of Glasgow
+PERSON:Torvalds
+PERSON:Ken Sakamura
+ORGANIZATION:US National Academy of Engineering
+ORGANIZATION:American Academy of Arts and Sciences
+ORGANIZATION:Universided Nacional de Ingenieria
+LOCATION:Peru
+ORGANIZATION:Free University of Brussels
+PERSON:University of Pittsburgh Ole Andre Ranvik
+ORGANIZATION:Objectware AS
+MISC:Sun
+ORGANIZATION:IBM
+PERSON:Oliver Koeth
+ORGANIZATION:IBM
+LOCATION:Germany
+PERSON:Oliver
+ORGANIZATION:IBM
+ORGANIZATION:IBM
+ORGANIZATION:JSR
+LOCATION:Europa
+PERSON:Midt-Østen
+PERSON:Jim
+ORGANIZATION:EMEA
+ORGANIZATION:Domain Language
+PERSON:Eric Evans
+MISC:Domain-Driven Design
+PERSON:Eric
+ORGANIZATION:Sun Microsystems
+PERSON:Kirill Kounik
+ORGANIZATION:Sun 's J2ME Wireless Toolkit
+PERSON:Kirill
+MISC:Java
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:Intel
+PERSON:Kirill
+LOCATION:Netherlands
+PERSON:Kirill
+ORGANIZATION:Israel Institute of Technology
+PERSON:Objectnet
+ORGANIZATION:Styremedlem
+ORGANIZATION:Accenture
+ORGANIZATION:University of Oslo
+MISC:Maven
+ORGANIZATION:University of Oslo
+ORGANIZATION:IBM
+ORGANIZATION:IBM
+PERSON:Adrian Colyer
+ORGANIZATION:IBM
+ORGANIZATION:MIT Technology Review
+ORGANIZATION:AOP
+ORGANIZATION:IBM
+ORGANIZATION:University of Bergen
+PERSON:Khalid A. Mughal
+ORGANIZATION:Department of Informatics
+ORGANIZATION:University of Bergen
+LOCATION:Norway
+MISC:Java
+MISC:Java
+MISC:Java-related
+MISC:Java Certification
+MISC:Java : Java
+PERSON:Cappelen Akademisk Forlag
+MISC:Java
+PERSON:Keith Donald
+PERSON:Keith
+PERSON:Keith
+PERSON:Erwin Vervaet
+LOCATION:US
+LOCATION:Bal Harbour Beach
+PERSON:Bruce Tate
+MISC:Internet
+ORGANIZATION:CTO
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Java
+MISC:Java
+MISC:I/T
+PERSON:Bruce
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Bitter Java
+PERSON:Bruce
+LOCATION:North America
+PERSON:Bruce
+LOCATION:Trondheim
+ORGANIZATION:NTNU
+ORGANIZATION:RTE
+PERSON:Kristoffer Moum
+PERSON:Kristoffer
+PERSON:Bjørn Vidar Bøe
+MISC:Java-plattform
+PERSON:Bruce Tate
+MISC:Internet
+ORGANIZATION:CTO
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Java
+MISC:Java
+MISC:I/T
+PERSON:Bruce
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Bitter Java
+PERSON:Bruce
+LOCATION:North America
+PERSON:Bruce
+ORGANIZATION:Virtuas Solutions
+PERSON:Jeff Genender
+ORGANIZATION:Virtuas Solutions
+MISC:Open Source Strategy
+PERSON:Jeff
+MISC:Enterprise Java Servlets
+PERSON:Addison Wesley Longman
+PERSON:Jeff
+PERSON:Sourcebeat
+PERSON:Jeff
+ORGANIZATION:Project Management Committee for Apache Geronimo
+PERSON:Jeff
+ORGANIZATION:Agitar
+PERSON:Alan
+LOCATION:Mil-Aerospace
+ORGANIZATION:Ferranti
+ORGANIZATION:Plessey
+ORGANIZATION:Racal
+ORGANIZATION:Smiths
+ORGANIZATION:Jive Software 's Professional Services
+ORGANIZATION:Jive Software
+ORGANIZATION:Jive Software 's Professional Services
+PERSON:Patrick Lightbody
+ORGANIZATION:Cisco Systems
+LOCATION:Silicon Valley
+PERSON:Patrick
+MISC:Java Open Source Programming
+LOCATION:Silicon Valley
+PERSON:Patrick
+LOCATION:Portland
+PERSON:Jason van Zyl
+MISC:Apache Maven
+PERSON:Jason
+PERSON:Jason
+LOCATION:Mergere
+PERSON:Trygve Laugstøl
+MISC:Apache Maven
+PERSON:Martin
+MISC:European
+ORGANIZATION:BEA Systems Ltd.
+LOCATION:UK
+PERSON:Martin
+ORGANIZATION:BEA
+LOCATION:Europe
+PERSON:Martin
+PERSON:Martin
+PERSON:Martin
+ORGANIZATION:BEA
+ORGANIZATION:BEA Systems
+PERSON:Martin
+PERSON:Kristoffer Dyrkorn
+ORGANIZATION:BEKK
+MISC:Java-based
+PERSON:Lucene
+ORGANIZATION:EMEA
+ORGANIZATION:Borland
+PERSON:Markus Hebach
+ORGANIZATION:EMEA
+ORGANIZATION:Borland
+ORGANIZATION:Borland
+PERSON:Markus
+LOCATION:Frankfurt
+LOCATION:Germany
+PERSON:Pascal
+ORGANIZATION:Delphi
+ORGANIZATION:Borland
+ORGANIZATION:UML
+PERSON:Markus
+LOCATION:Scandinavia
+LOCATION:Europe
+PERSON:Vidar Kongsli
+ORGANIZATION:Bekk Consulting AS
+LOCATION:BEKK
+ORGANIZATION:Virtuas Solutions
+PERSON:Jeff Genender
+ORGANIZATION:Virtuas Solutions
+MISC:Open Source Strategy
+PERSON:Jeff
+MISC:Enterprise Java Servlets
+PERSON:Addison Wesley Longman
+PERSON:Jeff
+PERSON:Sourcebeat
+PERSON:Jeff
+ORGANIZATION:Project Management Committee for Apache Geronimo
+PERSON:Jeff
+PERSON:Raghu R. Kodali
+PERSON:Raghu
+ORGANIZATION:SOA
+PERSON:Raghu
+LOCATION:Oracle Asia-Pacific
+LOCATION:Singapore
+ORGANIZATION:Oracle
+ORGANIZATION:National Computer Systems
+LOCATION:Singapore
+MISC:Masters Degree in Computer Science
+PERSON:Raghu
+PERSON:Raghu R. Kodali
+PERSON:Raghu
+ORGANIZATION:SOA
+PERSON:Raghu
+LOCATION:Oracle Asia-Pacific
+LOCATION:Singapore
+ORGANIZATION:Oracle
+ORGANIZATION:National Computer Systems
+LOCATION:Singapore
+MISC:Masters Degree in Computer Science
+PERSON:Raghu
+ORGANIZATION:Telenor AS
+ORGANIZATION:Telenor
+ORGANIZATION:Telenor
+PERSON:Daniel
+PERSON:Thomas Roka-Aardal
+ORGANIZATION:Ingeniørhøgskolen
+LOCATION:Oslo
+ORGANIZATION:Telenor Mobil
+PERSON:Thomas
+ORGANIZATION:JBoss
+PERSON:Trond Arve Wasskog
+MISC:Java
+MISC:Java
+LOCATION:BEKK
+ORGANIZATION:Statoil
+ORGANIZATION:Bull
+PERSON:Miguel Valdes Faura
+PERSON:Rovira
+ORGANIZATION:Virgili University
+LOCATION:Spain
+ORGANIZATION:Universities of Nancy
+PERSON:Metz
+LOCATION:France
+LOCATION:Spain
+MISC:European
+MISC:Open Source
+ORGANIZATION:French Research Institute in Computer Sciences
+ORGANIZATION:ECOO
+ORGANIZATION:Bonita Workflow System
+ORGANIZATION:BONITA
+ORGANIZATION:Bull
+LOCATION:France
+ORGANIZATION:Bull Enterprise Service
+MISC:Java
+MISC:Open Source World Conference
+PERSON:Ted Neward
+MISC:Java
+MISC:Java
+MISC:Effective Enterprise Java
+MISC:Server-Based Java Programming
+PERSON:Ted
+ORGANIZATION:Microsoft
+ORGANIZATION:INETA
+LOCATION:Pacific Northwest
+ORGANIZATION:Jive Software 's Professional Services
+ORGANIZATION:Jive Software
+ORGANIZATION:Jive Software 's Professional Services
+PERSON:Patrick Lightbody
+ORGANIZATION:Cisco Systems
+LOCATION:Silicon Valley
+PERSON:Patrick
+MISC:Java Open Source Programming
+LOCATION:Silicon Valley
+PERSON:Patrick
+LOCATION:Portland
+ORGANIZATION:CTO
+LOCATION:Pivolis
+LOCATION:Pivolis
+PERSON:Vincent Massol
+LOCATION:Jakarta
+PERSON:Vincent
+ORGANIZATION:CTO
+LOCATION:Pivolis
+PERSON:Vincent
+LOCATION:Paris
+LOCATION:France
+PERSON:Malcolm Sparks
+MISC:Java
+PERSON:Malcolm
+ORGANIZATION:Google
+PERSON:Knut Magne Risvik
+ORGANIZATION:Google
+ORGANIZATION:NTNU
+PERSON:Risvik
+ORGANIZATION:Yahoo
+PERSON:Christian Weyer
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+MISC:Services-based
+MISC:Java
+MISC:Java
+MISC:Java
+ORGANIZATION:Sun Software Services
+PERSON:JOHN CRUPI
+MISC:Distinguished
+ORGANIZATION:Compuware
+PERSON:Wim Bast
+ORGANIZATION:Compuware
+ORGANIZATION:Application Development and Integration Centre
+LOCATION:Amsterdam
+LOCATION:Netherlands
+PERSON:Bast
+ORGANIZATION:Compuware
+MISC:Java
+ORGANIZATION:Compuware
+ORGANIZATION:MDA
+MISC:Java
+ORGANIZATION:Compuware
+ORGANIZATION:Compuware
+ORGANIZATION:Object Management Group
+PERSON:Bast
+ORGANIZATION:MDA
+ORGANIZATION:MOF
+PERSON:Bast
+ORGANIZATION:Compuware
+ORGANIZATION:MDA
+ORGANIZATION:MDA
+MISC:Driven Architecture
+ORGANIZATION:UML
+ORGANIZATION:MDA
+ORGANIZATION:Compuware
+ORGANIZATION:CTO
+PERSON:Ross Mason
+ORGANIZATION:CTO
+LOCATION:London
+PERSON:Ross
+ORGANIZATION:Sony
+ORGANIZATION:Deutche Bank
+PERSON:Ross
+ORGANIZATION:SymphonySoft
+LOCATION:London
+LOCATION:Malta
+ORGANIZATION:Curbralan Ltd
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:UML
+LOCATION:UK
+LOCATION:Germany
+MISC:Java Report
+LOCATION:US
+LOCATION:Europe
+ORGANIZATION:Sun Microsystems
+PERSON:Manyi Lu
+PERSON:Manyi Lu
+ORGANIZATION:Sun
+ORGANIZATION:Statoil ASA
+ORGANIZATION:Statoil ASA
+PERSON:Eivind Waaler
+MISC:Java
+ORGANIZATION:BEKK
+PERSON:Eivind
+MISC:JavaZone
+ORGANIZATION:HP
+ORGANIZATION:HP
+PERSON:Anders Norås
+MISC:Java
+ORGANIZATION:Microsoft
+ORGANIZATION:JSF Central
+PERSON:Kito D. Mann
+ORGANIZATION:JSF
+ORGANIZATION:JSP
+PERSON:Kito
+ORGANIZATION:Prudential Financial
+ORGANIZATION:J.P. Morgan Chase & Company
+ORGANIZATION:Johns Hopkins University
+ORGANIZATION:JSF Central
+PERSON:Kito D. Mann
+ORGANIZATION:JSF
+ORGANIZATION:JSP
+PERSON:Kito
+ORGANIZATION:Prudential Financial
+ORGANIZATION:J.P. Morgan Chase & Company
+ORGANIZATION:Johns Hopkins University
+ORGANIZATION:Simula Research Laboratory
+MISC:Empirical Software Engineering
+ORGANIZATION:Simula Research Laboratory
+LOCATION:Oslo
+ORGANIZATION:SuperOffice ASA
+PERSON:Johannes Brodwall
+MISC:Java-plattformen
+MISC:Java
+PERSON:Johannes
+PERSON:Rod
+PERSON:Rod
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+LOCATION:US
+LOCATION:Europe
+LOCATION:Asia
+MISC:ServerSide Symposium
+LOCATION:Europe
+MISC:Java
+MISC:JavaWorld
+LOCATION:Tokyo
+PERSON:Rod
+ORGANIZATION:JCP
+MISC:Expert Groups
+PERSON:Rod
+ORGANIZATION:Sun 's Wireless Toolkit
+ORGANIZATION:Sun Microsystems
+PERSON:Shlomo Swidler
+ORGANIZATION:Sun 's Wireless Toolkit
+PERSON:Shlomo
+ORGANIZATION:WMA
+ORGANIZATION:Cooper Union
+LOCATION:New York
+ORGANIZATION:Sun 's Wireless Toolkit
+ORGANIZATION:Sun Microsystems
+PERSON:Shlomo Swidler
+ORGANIZATION:Sun 's Wireless Toolkit
+PERSON:Shlomo
+ORGANIZATION:WMA
+ORGANIZATION:Cooper Union
+LOCATION:New York
+ORGANIZATION:JCP
+PERSON:Heather
+MISC:Java Community Process
+ORGANIZATION:JCP
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:JCP
+ORGANIZATION:JCP
+ORGANIZATION:JCP
+ORGANIZATION:JCP
+PERSON:Sun
+PERSON:Heather
+ORGANIZATION:Microsoft
+ORGANIZATION:Cisco
+ORGANIZATION:Roche Bioscience
+ORGANIZATION:Apple
+LOCATION:Santa Cruz Operation
+ORGANIZATION:California State University
+PERSON:Rod
+PERSON:Rod
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+LOCATION:US
+LOCATION:Europe
+LOCATION:Asia
+MISC:ServerSide Symposium
+LOCATION:Europe
+MISC:Java
+MISC:JavaWorld
+LOCATION:Tokyo
+PERSON:Rod
+ORGANIZATION:JCP
+MISC:Expert Groups
+PERSON:Rod
+PERSON:Gilb
+PERSON:Tom Gilb
+LOCATION:Europe
+LOCATION:India
+LOCATION:Korea
+LOCATION:Japan
+LOCATION:US
+ORGANIZATION:IBM
+ORGANIZATION:CMM Level Four
+LOCATION:Norway
+LOCATION:London
+ORGANIZATION:Handbook for Systems & Software Engineering Management
+ORGANIZATION:Symbian
+ORGANIZATION:BAA
+ORGANIZATION:British Airports Authority
+ORGANIZATION:Citigroup
+ORGANIZATION:Sony
+ORGANIZATION:Canon
+ORGANIZATION:Intel
+ORGANIZATION:Nokia
+ORGANIZATION:Ericsson
+ORGANIZATION:Synopsys
+ORGANIZATION:Philips
+ORGANIZATION:Microsoft
+ORGANIZATION:IBM
+ORGANIZATION:Boeing
+LOCATION:US
+LOCATION:UK
+ORGANIZATION:Nortel
+ORGANIZATION:Motorola
+ORGANIZATION:Alcatel
+PERSON:Vianova
+ORGANIZATION:Western Geco
+ORGANIZATION:Schlumberger
+ORGANIZATION:GE
+LOCATION:USA
+LOCATION:Norway
+LOCATION:Norway
+LOCATION:London
+ORGANIZATION:Domain Language
+PERSON:Eric Evans
+MISC:Domain-Driven Design
+PERSON:Eric
+ORGANIZATION:VTT Technical Research Centre
+PERSON:Pekka Abrahamsson
+ORGANIZATION:VTT Technical Research Centre
+LOCATION:Finland
+ORGANIZATION:University of Tampere
+MISC:European
+MISC:Java
+ORGANIZATION:AOP
+PERSON:Rickard Øberg
+MISC:Java-ekspert
+MISC:Java
+PERSON:Rickard
+MISC:Java
+PERSON:Rickard
+MISC:Java
+PERSON:Rickard
+ORGANIZATION:AOP
+ORGANIZATION:AOP
+ORGANIZATION:AOP
+PERSON:Nils Christian
+MISC:Java
+ORGANIZATION:University of Oslo
+PERSON:Nils Christian
+ORGANIZATION:Foundation for Scientific and Industrial Research
+ORGANIZATION:Institute of Technology
+ORGANIZATION:SIMULA Research Laboratory
+ORGANIZATION:Institute of Technology
+ORGANIZATION:University of Science and Technology
+PERSON:Dybå
+LOCATION:Norway
+LOCATION:Saudi Arabia
+PERSON:Dybå
+ORGANIZATION:International Software Engineering Research Network
+ORGANIZATION:IEEE Computer Society
+PERSON:Bouvet
+PERSON:Ove H. Scheel
+LOCATION:Bouvet AS
+MISC:Internet
+LOCATION:Oslo Kommune
+MISC:Java
+ORGANIZATION:Curbralan Ltd
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:UML
+LOCATION:UK
+LOCATION:Germany
+MISC:Java Report
+LOCATION:US
+LOCATION:Europe
+ORGANIZATION:UNINETT
+ORGANIZATION:Simula Research Laboratory
+ORGANIZATION:Simula Research Laboratory -LRB- Software Engineering Department
+ORGANIZATION:UML
+ORGANIZATION:EMEA
+ORGANIZATION:Borland
+PERSON:Markus Hebach
+ORGANIZATION:EMEA
+ORGANIZATION:Borland
+ORGANIZATION:Borland
+PERSON:Markus
+LOCATION:Frankfurt
+LOCATION:Germany
+PERSON:Pascal
+ORGANIZATION:Delphi
+ORGANIZATION:Borland
+ORGANIZATION:UML
+PERSON:Markus
+LOCATION:Scandinavia
+LOCATION:Europe
+ORGANIZATION:Gallagher & Robertson AS
+MISC:Gallagher & Robertson AS Java
+MISC:Sun
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Simon
+ORGANIZATION:IBM
+PERSON:Adam Lieber
+ORGANIZATION:IBM
+LOCATION:San Diego-based
+ORGANIZATION:Mission Ventures
+ORGANIZATION:Economics and Computer Science
+LOCATION:Princeton
+ORGANIZATION:London School of Economics
+PERSON:Andre Ranvik
+ORGANIZATION:Zenior AS
+MISC:Sun
+ORGANIZATION:Western Geco
+PERSON:Bjørn Nordmoen
+ORGANIZATION:University
+LOCATION:Oslo
+ORGANIZATION:WesternGeco
+ORGANIZATION:WesternGeco
+ORGANIZATION:Seismic Company
+PERSON:Bjørn
+ORGANIZATION:Oslo Technology Center
+LOCATION:Bjørn
+ORGANIZATION:EU
+ORGANIZATION:Google
+PERSON:Joshua Bloch
+ORGANIZATION:Google
+ORGANIZATION:Sun Microsystems
+MISC:Senior Systems
+ORGANIZATION:Transarc
+MISC:Java
+MISC:Java Collections Framework
+MISC:Jolt Award-winning
+MISC:Effective Java
+ORGANIZATION:Carnegie-Mellon University
+LOCATION:Columbia
+ORGANIZATION:Google
+PERSON:Joshua Bloch
+ORGANIZATION:Google
+ORGANIZATION:Sun Microsystems
+MISC:Senior Systems
+ORGANIZATION:Transarc
+MISC:Java
+MISC:Java Collections Framework
+MISC:Jolt Award-winning
+MISC:Effective Java
+ORGANIZATION:Carnegie-Mellon University
+LOCATION:Columbia
+MISC:Java
+LOCATION:BEKK
+PERSON:Trygve Reenskaug
+ORGANIZATION:University of Oslo
+PERSON:Model-View-Controller
+MISC:OOram
+ORGANIZATION:UML Core Team
+PERSON:Kaare Nilsen
+ORGANIZATION:Objectware AS
+ORGANIZATION:AOP
+ORGANIZATION:AOP
+PERSON:Adrian Colyer
+MISC:AspectJ
+PERSON:Rikard Thulin
+ORGANIZATION:IBS
+PERSON:Rikard
+MISC:Java User Group
+LOCATION:Gotenburg
+PERSON:Rikard
+ORGANIZATION:Sun Microsystems
+PERSON:Rikard
+LOCATION:M.S.
+PERSON:Peter Lindh
+ORGANIZATION:IBS
+PERSON:Peter
+PERSON:Peter
+PERSON:Anders Norås
+MISC:Java
+ORGANIZATION:Microsoft
+PERSON:Erik Doernenburg
+ORGANIZATION:Microsoft
+PERSON:Erik
+PERSON:Erik
+MISC:Open Source
+PERSON:Gregor Hohpe
+ORGANIZATION:Google , Inc.
+PERSON:Gregor
+PERSON:Kirk Pepperdine
+PERSON:Kirk
+PERSON:Rod
+PERSON:Rod
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+PERSON:Rod
+MISC:Java
+PERSON:Rod
+PERSON:Juergen Hoeller
+LOCATION:US
+LOCATION:Europe
+LOCATION:Asia
+MISC:ServerSide Symposium
+LOCATION:Europe
+MISC:Java
+MISC:JavaWorld
+LOCATION:Tokyo
+PERSON:Rod
+ORGANIZATION:JCP
+MISC:Expert Groups
+PERSON:Rod
+MISC:Java
+PERSON:Karsten Lentzsch
+MISC:Java
+MISC:Java
+PERSON:Karsten
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Java UI
+MISC:Java
+PERSON:Romain Guy
+PERSON:Romain
+ORGANIZATION:Sun Microsystems
+PERSON:Romain
+MISC:Java
+ORGANIZATION:Sun Microsystems
+PERSON:Bernt M. Johnsen
+ORGANIZATION:Sun Microsystems ' Database Technology Group
+LOCATION:Trondheim
+LOCATION:Norway
+LOCATION:Clustra
+PERSON:Clustra
+PERSON:Clustra
+MISC:Internet
+PERSON:Bouvet
+PERSON:Bouvet
+ORGANIZATION:Yngvar
+PERSON:Bouvet
+MISC:Java
+MISC:Java
+ORGANIZATION:AOP
+PERSON:Jason van Zyl
+MISC:Apache Maven
+PERSON:Jason
+PERSON:Jason
+LOCATION:Mergere
+PERSON:Patrick
+ORGANIZATION:Letterkenny Institute of Technology
+LOCATION:Ireland
+ORGANIZATION:Letterkenny Institute of Technology
+ORGANIZATION:Letterkenny Institute of Technology
+LOCATION:Ireland
+PERSON:Averil Meehan
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+ORGANIZATION:Sun Microsystems
+PERSON:Geertjan Wielenga
+MISC:NetBeans
+ORGANIZATION:Compuware
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+ORGANIZATION:Maximum Solutions -LRB- Maximum Solutions -RRB- Heinz
+MISC:Java
+MISC:Java Champion
+PERSON:Heinz
+ORGANIZATION:Maximum Solutions
+MISC:Java
+MISC:Java
+PERSON:Kabutz
+MISC:Java
+MISC:Java
+MISC:Java ™ Specialists ' Newsletter
+MISC:Java Specialists
+PERSON:Kabutz
+PERSON:Gregor Hohpe
+ORGANIZATION:Google , Inc.
+PERSON:Gregor
+PERSON:Apache Geronimo
+ORGANIZATION:JSR
+ORGANIZATION:JCP
+ORGANIZATION:JSR
+PERSON:James
+PERSON:James
+PERSON:James
+ORGANIZATION:JPMorgan Chase
+ORGANIZATION:Nomura Research Institute
+ORGANIZATION:Dresdner Bank
+PERSON:James
+ORGANIZATION:SpiritSoft , Inc.
+MISC:Enterprise Java
+PERSON:James
+LOCATION:Jakarta
+PERSON:James
+ORGANIZATION:JCP
+ORGANIZATION:JSR
+PERSON:Bruce Tate
+MISC:Internet
+ORGANIZATION:CTO
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Java
+MISC:Java
+MISC:I/T
+PERSON:Bruce
+ORGANIZATION:IBM
+PERSON:Bruce
+MISC:Bitter Java
+PERSON:Bruce
+LOCATION:North America
+PERSON:Bruce
+ORGANIZATION:CTO
+PERSON:John
+ORGANIZATION:CTO
+MISC:Java-binding
+MISC:Java
+PERSON:John
+PERSON:John
+MISC:Java
+MISC:Java
+ORGANIZATION:Jini
+MISC:Java
+PERSON:John
+ORGANIZATION:Microsoft
+PERSON:Jürgen Pfeifer
+ORGANIZATION:Digital Equipment
+ORGANIZATION:VMS
+MISC:Internet
+ORGANIZATION:Software AG
+MISC:Windows
+ORGANIZATION:Deutsche Bank
+MISC:Internet
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+LOCATION:Heinrich-Heine-University
+LOCATION:Düsseldorf
+LOCATION:Germany
+PERSON:Kristoffer Dyrkorn
+ORGANIZATION:Bekk Consulting
+MISC:Java-based
+ORGANIZATION:Sun Microsystems
+PERSON:Gregg Sporar
+MISC:Java
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+PERSON:Patrick Linskey
+ORGANIZATION:CTO
+ORGANIZATION:SolarMetric
+PERSON:Patrick
+ORGANIZATION:Kodo
+ORGANIZATION:BEA
+ORGANIZATION:EJB
+PERSON:Patrick
+ORGANIZATION:BEA
+PERSON:Patrick
+PERSON:Patrick
+ORGANIZATION:JAOO Conference Program Committee
+PERSON:Patrick
+ORGANIZATION:MIT
+ORGANIZATION:Bank One
+PERSON:Patrick
+ORGANIZATION:Kodo
+PERSON:Patrick
+ORGANIZATION:Massachusetts Institute of Technology
+PERSON:Arjen Poutsma
+ORGANIZATION:Microsoft
+ORGANIZATION:Web Services and Service Oriented Architectures
+PERSON:Arjen
+PERSON:Arjen
+ORGANIZATION:XFire
+PERSON:Arjen
+LOCATION:Netherlands
+PERSON:Tangosol Jonathan Purdy
+ORGANIZATION:Technology Evangelist of Tangosol
+PERSON:Jon
+PERSON:Kristoffer
+LOCATION:Objectware
+MISC:Java
+ORGANIZATION:IONA Technologies
+PERSON:Andrea Smyth
+ORGANIZATION:IONA Technologies
+MISC:Apache CeltiXfire
+PERSON:Bouvet
+PERSON:Rune Schumann
+LOCATION:Bouvet
+MISC:Java
+ORGANIZATION:SOA
+ORGANIZATION:SOA
+ORGANIZATION:CTO
+ORGANIZATION:MuleSource Inc.
+PERSON:MuleSource Ross Mason
+ORGANIZATION:SymphonySoft Limited
+ORGANIZATION:EU
+PERSON:Ross
+MISC:Java-based
+PERSON:Mason
+ORGANIZATION:RaboBank
+PERSON:Mason
+LOCATION:Bristol
+LOCATION:UK
+PERSON:Bouvet
+PERSON:Bouvet
+MISC:Java
+PERSON:Kjetil
+ORGANIZATION:CTO
+ORGANIZATION:MuleSource Inc.
+PERSON:MuleSource Ross Mason
+ORGANIZATION:SymphonySoft Limited
+ORGANIZATION:EU
+PERSON:Ross
+MISC:Java-based
+PERSON:Mason
+ORGANIZATION:RaboBank
+PERSON:Mason
+LOCATION:Bristol
+LOCATION:UK
+PERSON:Bouvet
+PERSON:Trond Strømme
+ORGANIZATION:Bouvet AS
+LOCATION:Norway
+PERSON:Trond
+LOCATION:Bouvet
+PERSON:Raghu Kodali
+ORGANIZATION:SOA
+ORGANIZATION:SOA
+PERSON:Raghu
+LOCATION:Oracle Asia-Pacific
+LOCATION:Singapore
+ORGANIZATION:Oracle
+ORGANIZATION:National Computer Systems
+LOCATION:Singapore
+MISC:Open World , Sun Technology
+PERSON:Raghu
+ORGANIZATION:SOA Blueprints
+ORGANIZATION:OAUG
+PERSON:Kjartan
+ORGANIZATION:Objectware AS
+ORGANIZATION:NTNU
+PERSON:Rolv Bræk
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:NTNU
+ORGANIZATION:Department of Telematics
+LOCATION:Trondheim
+ORGANIZATION:Institute of Technology
+ORGANIZATION:Department of Telecommunication Switching Systems
+PERSON:Rolv Bræk
+ORGANIZATION:ACD
+ORGANIZATION:TRIDEX
+MISC:G.A. Ring AS
+ORGANIZATION:Elektrisk Bureau AS
+ORGANIZATION:Alcatel
+PERSON:Stentofon
+PERSON:Rolv Bræk
+ORGANIZATION:SISU
+ORGANIZATION:SISU
+ORGANIZATION:SISU
+ORGANIZATION:Prentice Hall
+ORGANIZATION:Integrated Methodology
+ORGANIZATION:Program for Advanced Tele Services
+ORGANIZATION:Telenor
+ORGANIZATION:Ericsson
+ORGANIZATION:Compaq
+ORGANIZATION:NTNU
+ORGANIZATION:NTNU
+ORGANIZATION:Telenor
+ORGANIZATION:Ericsson
+ORGANIZATION:NTNU
+PERSON:Frank Alexander Kraemer
+ORGANIZATION:University of Stuttgart
+ORGANIZATION:Department of Telematics
+ORGANIZATION:University of Science and Technology
+PERSON:Frank
+PERSON:Rolv Bræk
+PERSON:Frank
+MISC:Eclipse-based
+PERSON:Ramses
+ORGANIZATION:IBM
+ORGANIZATION:Oracle Norge
+ORGANIZATION:Oracle Norge AS
+PERSON:Rustad
+PERSON:Engdal
+ORGANIZATION:Sun Microsystems
+LOCATION:Norway
+LOCATION:Sun Norway
+PERSON:Jason Baragry
+ORGANIZATION:Sun Microsystems
+LOCATION:Norway
+PERSON:Tangosol Jonathan Purdy
+ORGANIZATION:Technology Evangelist of Tangosol
+PERSON:Jon
+ORGANIZATION:Telio Telecom AS
+ORGANIZATION:Telio Telecom AS
+ORGANIZATION:University of Oslo
+ORGANIZATION:Telio Telecom
+LOCATION:Munich
+LOCATION:Germany
+PERSON:Alexandre Snaps
+MISC:Open Source
+ORGANIZATION:Thomson Multimedia
+PERSON:Lee Jeans
+MISC:Java
+PERSON:Bruce Johnson
+ORGANIZATION:Google
+ORGANIZATION:Google
+ORGANIZATION:Google
+PERSON:Bruce
+ORGANIZATION:Microsoft
+MISC:Java
+MISC:Java
+PERSON:Bruce
+PERSON:Bjarne Stroustrup
+ORGANIZATION:Jboss
+PERSON:Gavin King
+LOCATION:Mudgee
+LOCATION:Melbourne
+LOCATION:Australia
+PERSON:Gavin
+PERSON:Gavin
+ORGANIZATION:Monash University
+ORGANIZATION:JBoss , Inc.
+ORGANIZATION:Hibernate-based CMP
+PERSON:Manning
+PERSON:Gavin
+ORGANIZATION:BEKK
+PERSON:Geir Wavik
+ORGANIZATION:Bekk Consulting
+PERSON:Vidar Alvestad
+MISC:Java
+PERSON:Jonas
+LOCATION:Sweden
+PERSON:Jonas
+ORGANIZATION:Oracle
+PERSON:Jonas
+PERSON:Jonas
+MISC:JavaServer Faces
+ORGANIZATION:Oracle ADF Faces
+PERSON:Jonas
+MISC:Java Developer
+ORGANIZATION:Oracle Magazine
+PERSON:Jonas
+PERSON:John R. Fallows
+MISC:Java
+LOCATION:Northern Ireland
+PERSON:John
+ORGANIZATION:Cambridge University
+LOCATION:United Kingdom
+ORGANIZATION:Oracle
+PERSON:John
+ORGANIZATION:British Telecommunications Plc.
+PERSON:John
+PERSON:John
+MISC:JavaServer Faces
+ORGANIZATION:Ajax
+ORGANIZATION:ADF
+PERSON:John
+PERSON:John
+ORGANIZATION:Webmedia , Ltd. / Tartu University
+PERSON:Jevgeni Kabanov
+ORGANIZATION:Webmedia , Ltd.
+ORGANIZATION:Tartu University
+PERSON:Jevgeni
+LOCATION:Aranea
+ORGANIZATION:Uwyn
+LOCATION:Uwyn
+MISC:Java
+MISC:Java Web
+MISC:Bla-bla List
+LOCATION:Bamboo
+ORGANIZATION:Gentoo Linux
+PERSON:Geert
+MISC:Java In Action
+MISC:EuroOSCON
+LOCATION:Java Symposium US
+LOCATION:Europe
+ORGANIZATION:Envoi Solutions LLC
+PERSON:Dan Diephouse
+MISC:Apache ServiceMix
+ORGANIZATION:Envoi Solutions
+ORGANIZATION:SOA
+ORGANIZATION:BEA Systems ' Business Interaction Division
+ORGANIZATION:BEA Systems
+PERSON:Dan Fabulich
+ORGANIZATION:BEA Systems ' Business Interaction Division
+MISC:Java
+ORGANIZATION:Biomedical Engineering and Philosophy
+ORGANIZATION:Yale University
+ORGANIZATION:Sun Microsystems
+PERSON:Angela Caicedo
+ORGANIZATION:Sun Microsystems
+PERSON:Angela
+MISC:Java
+MISC:Java SE , Java EE
+MISC:Sun Java Enterprise System
+MISC:Sun ' SPOTs
+PERSON:Angela
+LOCATION:Medellin Colombia
+PERSON:Angela
+ORGANIZATION:Center for Educational Computing Initiatives
+ORGANIZATION:MIT
+PERSON:Angela
+ORGANIZATION:Swiss Federal Institute of Technology
+ORGANIZATION:EPFL
+LOCATION:Lausanne Switzerland
+PERSON:Angela
+MISC:Intelligent Agents
+MISC:Sun
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Simon
+PERSON:Geir Melby
+ORGANIZATION:Ericsson
+ORGANIZATION:Ericsson
+ORGANIZATION:Agder University College
+PERSON:Geir Melby
+ORGANIZATION:Ericsson
+PERSON:Knut Eilif Husa
+ORGANIZATION:Ericsson
+ORGANIZATION:Ericsson
+ORGANIZATION:NTNU
+PERSON:Knut Eilif
+ORGANIZATION:Ericsson
+ORGANIZATION:Ericsson
+ORGANIZATION:ABB Corporate Research
+ORGANIZATION:Sun Microsystems
+PERSON:Richard Gregor
+ORGANIZATION:Sun Microsystems
+PERSON:Richard
+ORGANIZATION:Sun Java Wireless Toolkit Team
+ORGANIZATION:JSR
+MISC:Sun Java Wireless Toolkit
+PERSON:Richard
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans IDE
+LOCATION:Prague Sun Development Center
+PERSON:Richard
+PERSON:Carlos Quiroz-Castro
+ORGANIZATION:Nokia Research Center
+LOCATION:Helsinki Finland
+MISC:Java
+ORGANIZATION:Forum Nokia
+MISC:Next Generation Java
+PERSON:Brian Leonard
+ORGANIZATION:Sun Microsystems
+PERSON:Brian
+PERSON:Brian
+MISC:NetBeans
+ORGANIZATION:Systek
+LOCATION:Systek
+ORGANIZATION:University of Colorado
+ORGANIZATION:Norwegian School of Management
+PERSON:Bjørn
+PERSON:Knut Eilif Husa
+ORGANIZATION:Ericsson
+ORGANIZATION:Ericsson
+ORGANIZATION:NTNU
+PERSON:Knut Eilif
+ORGANIZATION:Ericsson
+ORGANIZATION:Ericsson
+ORGANIZATION:ABB Corporate Research
+PERSON:Floyd Marinescu
+MISC:TheServerSide Java Symposium
+PERSON:Floyd
+PERSON:John Wiley
+PERSON:Floyd
+MISC:Enterprise Java
+PERSON:Alexandru Popescu
+PERSON:Alexandru
+ORGANIZATION:AOP
+MISC:TestNG Framework
+PERSON:Alexandru
+PERSON:Alexandru
+ORGANIZATION:Accenture ANS
+PERSON:Johannes Brodwall
+LOCATION:Norway
+ORGANIZATION:CTO
+PERSON:Trond Arve Wasskog
+MISC:Java
+PERSON:Johannes Brodwall
+LOCATION:Norway
+ORGANIZATION:Omegapoint AB
+PERSON:Dan Bergh Johnsson
+ORGANIZATION:Omegapoint AB
+LOCATION:Sweden
+ORGANIZATION:Uppsala University
+PERSON:Dan
+ORGANIZATION:DDD
+PERSON:Dan
+ORGANIZATION:Colorado Software Summit
+PERSON:Eivind Waaler
+ORGANIZATION:Technology Group
+ORGANIZATION:Bekk Consulting AS
+MISC:Java
+MISC:BEKK Open Source Software
+PERSON:Eivind
+MISC:Java
+ORGANIZATION:Bekk Agile Movement
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Reg Developer
+PERSON:Ken Schwaber
+ORGANIZATION:Agile Alliance and Scrum Alliance
+PERSON:Ken
+PERSON:Nils Christian Haugen
+LOCATION:Objectnet
+PERSON:Nils Christian
+MISC:Java
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:Simula Research Laboratory
+PERSON:Kjetil Moløkken-Østvold
+ORGANIZATION:Simula Research Laboratory
+LOCATION:Norway
+ORGANIZATION:University of Oslo
+LOCATION:Norway
+ORGANIZATION:University of Oslo
+PERSON:Mary Poppendieck
+PERSON:Mary
+PERSON:Mary
+ORGANIZATION:Information Architect -LRB- Corrections Corporation of America -RRB- Dean Reynolds
+MISC:Enterprise-class
+LOCATION:U.S.
+ORGANIZATION:Information Architect for the Corrections Corporation of America
+PERSON:Dean
+PERSON:Dean
+ORGANIZATION:Sun Microsystems
+PERSON:Angela Caicedo
+ORGANIZATION:Sun Microsystems
+PERSON:Angela
+MISC:Java
+MISC:Java SE , Java EE
+MISC:Sun Java Enterprise System
+MISC:Sun ' SPOTs
+PERSON:Angela
+LOCATION:Medellin Colombia
+PERSON:Angela
+ORGANIZATION:Center for Educational Computing Initiatives
+ORGANIZATION:MIT
+PERSON:Angela
+ORGANIZATION:Swiss Federal Institute of Technology
+ORGANIZATION:EPFL
+LOCATION:Lausanne Switzerland
+PERSON:Angela
+MISC:Intelligent Agents
+MISC:Sun
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Simon
+ORGANIZATION:Open Source Programs Office -LRB- Sun Microsystems
+ORGANIZATION:Sun
+ORGANIZATION:Open Source Programs Office
+PERSON:Matt Thompson
+PERSON:Sun
+PERSON:Sun
+MISC:Java
+MISC:Sun Java Enterprise System
+ORGANIZATION:Sun
+PERSON:Sun
+PERSON:Matt
+PERSON:Matt
+PERSON:Sun
+PERSON:Sun
+PERSON:Matt
+ORGANIZATION:Sun
+ORGANIZATION:Taligent
+ORGANIZATION:General Magic
+PERSON:Nils Christian Haugen
+LOCATION:Objectnet
+PERSON:Nils Christian
+MISC:Java
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:CTO
+PERSON:Trond Arve Wasskog
+MISC:Java
+PERSON:Mads Nissen
+LOCATION:Oslo
+PERSON:Mads
+ORGANIZATION:Microsoft
+LOCATION:Norway
+ORGANIZATION:WesternGeco
+MISC:Tor Neple
+MISC:Driven Engineering
+ORGANIZATION:WesternGeco
+MISC:IST
+ORGANIZATION:MDD
+MISC:to Text Transformations
+ORGANIZATION:Object Management Group
+ORGANIZATION:SOA
+LOCATION:Norway
+PERSON:Rune Nygård
+ORGANIZATION:SOA
+LOCATION:Norway
+PERSON:Rune
+PERSON:Stefan Magnus Landrø
+ORGANIZATION:Bekk Consulting
+MISC:Java
+PERSON:Reidar Sande
+ORGANIZATION:Bekk Consulting
+PERSON:Reidar
+PERSON:Reidar
+PERSON:Christian Schwarz
+ORGANIZATION:Bekk Consulting AS
+ORGANIZATION:BEKK
+ORGANIZATION:NTNU
+PERSON:Stein Kåre Skytteren
+MISC:Java
+PERSON:Stein Kåre
+LOCATION:Steria
+LOCATION:Oslo
+ORGANIZATION:NTNU
+ORGANIZATION:Bachelor of Business and Administration
+MISC:Java Middleware
+ORGANIZATION:Sun Microsystems
+PERSON:Alexis Moussine-Pouchkine
+PERSON:Alexis
+MISC:Java
+PERSON:Alexis
+LOCATION:Paris
+LOCATION:France
+PERSON:Tor Norbye
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+MISC:Sun Java Studio Creator
+ORGANIZATION:AJAX JSF
+ORGANIZATION:Google
+PERSON:Dick Wall
+ORGANIZATION:University of Kent
+LOCATION:UK
+ORGANIZATION:Google
+ORGANIZATION:Google
+MISC:Java Posse
+ORGANIZATION:Google
+ORGANIZATION:Google
+PERSON:Carl Quinn
+MISC:Java
+ORGANIZATION:Borland
+ORGANIZATION:Sun
+MISC:Java Studio Creator
+MISC:Java Posse
+ORGANIZATION:Google
+MISC:Java
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Simon
+ORGANIZATION:Sun Microsystems
+PERSON:Angela Caicedo
+ORGANIZATION:Sun Microsystems
+PERSON:Angela
+MISC:Java
+MISC:Java SE , Java EE
+MISC:Sun Java Enterprise System
+MISC:Sun ' SPOTs
+PERSON:Angela
+LOCATION:Medellin Colombia
+PERSON:Angela
+ORGANIZATION:Center for Educational Computing Initiatives
+ORGANIZATION:MIT
+PERSON:Angela
+ORGANIZATION:Swiss Federal Institute of Technology
+ORGANIZATION:EPFL
+LOCATION:Lausanne Switzerland
+PERSON:Angela
+MISC:Intelligent Agents
+ORGANIZATION:IONA
+PERSON:John Davies
+PERSON:John
+ORGANIZATION:JP Morgan
+PERSON:John
+ORGANIZATION:IONA
+PERSON:John
+PERSON:John
+MISC:Java
+MISC:Wrox
+ORGANIZATION:CTO
+PERSON:MuleSource Ross Mason
+ORGANIZATION:SymphonySoft Limited
+ORGANIZATION:EU
+PERSON:Ross
+MISC:Java-based
+PERSON:Mason
+ORGANIZATION:RaboBank
+PERSON:Mason
+LOCATION:Bristol
+LOCATION:UK
+ORGANIZATION:CTO
+PERSON:MuleSource Ross Mason
+ORGANIZATION:SymphonySoft Limited
+ORGANIZATION:EU
+PERSON:Ross
+MISC:Java-based
+PERSON:Mason
+ORGANIZATION:RaboBank
+PERSON:Mason
+LOCATION:Bristol
+LOCATION:UK
+ORGANIZATION:NUST
+ORGANIZATION:NTNU
+ORGANIZATION:IBM
+PERSON:Holly
+ORGANIZATION:IBM
+PERSON:Holly
+ORGANIZATION:IBM
+ORGANIZATION:IBM
+ORGANIZATION:University of Oxford
+PERSON:Tor Norbye
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+MISC:Sun Java Studio Creator
+ORGANIZATION:AJAX JSF
+ORGANIZATION:Trolltech ASA
+ORGANIZATION:University of Oslo
+PERSON:Gunnar Sletta
+ORGANIZATION:Trolltech ASA
+LOCATION:Oslo
+LOCATION:Norway
+ORGANIZATION:KDE
+ORGANIZATION:KJS
+LOCATION:Jambi
+PERSON:Gunnar Sletta
+MISC:Java
+LOCATION:Jambi
+PERSON:Bouvet
+PERSON:Bouvet
+MISC:Java
+ORGANIZATION:Java User Group
+ORGANIZATION:Sun Microsystems
+PERSON:Gregg Sporar
+MISC:Java
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans
+ORGANIZATION:Sun Tech Days
+MISC:Java User Group
+ORGANIZATION:Sun Microsystems
+PERSON:Jaroslav Bachorik
+ORGANIZATION:Business Intelligence
+MISC:Java
+MISC:NetBeans Profiler
+MISC:Java
+LOCATION:NetBeans Profiler at NetBeans Prague
+ORGANIZATION:Sun Microsystems
+PERSON:Jiri Sedlacek
+MISC:NetBeans Profiler
+MISC:NetBeans IDE
+MISC:NetBeans Profiler
+LOCATION:Prague
+LOCATION:Capgemini Norway
+PERSON:Nils Hofseth Andersen
+LOCATION:Capgemini Norway
+MISC:Java
+PERSON:Rikard Thulin
+ORGANIZATION:IBS
+PERSON:Rikard
+MISC:Java User Group
+LOCATION:Gotenburg
+PERSON:Rikard
+ORGANIZATION:Sun Microsystems
+PERSON:Rikard
+LOCATION:M.S.
+LOCATION:Stockholm
+LOCATION:Gothenburg
+LOCATION:Santa Clara
+PERSON:Ferid Sabanovic
+ORGANIZATION:IBS
+PERSON:Ferid
+ORGANIZATION:Swedish Java User Group Javaforum
+PERSON:Ferid
+ORGANIZATION:Kaazing Corporation
+PERSON:Jonas Jacobi
+ORGANIZATION:Brane Corporation
+LOCATION:Silicon Valley
+LOCATION:Sweden
+PERSON:Jonas
+ORGANIZATION:Brane
+ORGANIZATION:Oracle
+ORGANIZATION:JavaServer Faces
+ORGANIZATION:Oracle ADF Faces
+ORGANIZATION:Oracle ADF Faces Rich Client
+MISC:Java Developer
+ORGANIZATION:Oracle Magazine
+PERSON:Jonas
+ORGANIZATION:Kaazing Corporation
+PERSON:Jonas
+PERSON:Kaazing
+ORGANIZATION:Kaazing Corporation
+PERSON:John Fallows
+ORGANIZATION:Kaazing Corporation
+ORGANIZATION:Brane Corporation
+LOCATION:Redwood City
+LOCATION:California
+LOCATION:Norther Ireland
+PERSON:John
+ORGANIZATION:Cambridge University
+LOCATION:United Kingdom
+PERSON:Brane
+PERSON:John
+ORGANIZATION:Oracle Corporation
+ORGANIZATION:Oracle
+PERSON:John
+ORGANIZATION:Ajax
+PERSON:John
+MISC:Java Developer
+ORGANIZATION:AjaxWorld Magazine
+PERSON:John
+PERSON:John
+ORGANIZATION:Kaazing Corporation
+MISC:Java
+PERSON:Ivanov
+PERSON:Ivanov
+ORGANIZATION:Fitech Laboratories , Inc.
+PERSON:Ivanov
+MISC:Java
+MISC:T-Systems GmbH
+PERSON:Ivanov
+ORGANIZATION:Adaptec
+ORGANIZATION:BEA Systems
+PERSON:Ivanov
+MISC:Java
+MISC:Java
+PERSON:Ivanov
+ORGANIZATION:Baltic State Technical University
+LOCATION:Saint Petersburg
+LOCATION:Russia
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Simon
+ORGANIZATION:Morningside Light Ltd
+PERSON:Maurice Naftalin
+ORGANIZATION:Morningside Light Ltd
+LOCATION:UK
+ORGANIZATION:NSB Retail Systems plc
+LOCATION:UK
+MISC:Java
+MISC:` Java Generics
+PERSON:O'Reilly
+PERSON:Markus Krüger
+ORGANIZATION:ErgoGroup AS
+MISC:Java
+PERSON:Markus
+ORGANIZATION:CVS
+ORGANIZATION:ErgoGroup
+PERSON:Alexandru
+ORGANIZATION:AOP
+MISC:TestNG Framework
+PERSON:Alexandru
+PERSON:Alexandru
+ORGANIZATION:Sun Microsystems
+PERSON:Craig R. McClanahan
+MISC:Java Tools
+ORGANIZATION:Sun Microsystems
+MISC:Sun Java Studio Creator
+MISC:NetBeans Visual Web Pack
+PERSON:Craig
+MISC:Sun
+PERSON:Jason Baragry
+ORGANIZATION:Sun Microsystems
+LOCATION:Norway
+PERSON:Ryan Heaton
+PERSON:Ryan
+MISC:Java
+PERSON:Ryan
+PERSON:Ryan
+LOCATION:Salt Lake City
+ORGANIZATION:CTO
+PERSON:Nils Christian Haugen
+ORGANIZATION:CTO
+LOCATION:Objectnet
+PERSON:Nils Christian
+MISC:Java
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:Sun microsystems
+ORGANIZATION:Oracle
+PERSON:Cameron Purdy
+ORGANIZATION:Oracle
+LOCATION:Tangosol
+MISC:Java
+MISC:Java-related
+ORGANIZATION:Tangosol Coherence
+MISC:Enterprise Java
+PERSON:Tangosol
+PERSON:Purdy
+MISC:Java
+PERSON:Juergen
+PERSON:Rod
+PERSON:Juergen
+PERSON:Rod
+PERSON:Juergen
+PERSON:Juergen
+ORGANIZATION:Envois Solutions
+PERSON:Diephouse
+MISC:Apache CXF
+ORGANIZATION:XFire
+PERSON:Apache ServiceMix
+ORGANIZATION:Envoi Solutions
+ORGANIZATION:SOA
+PERSON:Mike Keith
+ORGANIZATION:JPA
+MISC:Java
+PERSON:Eugene
+ORGANIZATION:Systems Infrastructure for LeapFrog Enterprises
+LOCATION:United States
+ORGANIZATION:Wal-Mart Stores Information Systems Division
+ORGANIZATION:Walmart.com Global
+PERSON:Eugene
+MISC:Java
+ORGANIZATION:Wal-Mart
+ORGANIZATION:Bank One/Chase
+ORGANIZATION:National Oilwell Varco
+ORGANIZATION:Bank of America
+ORGANIZATION:Credit Suisse
+ORGANIZATION:Nortel Networks
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:IBM
+ORGANIZATION:Computerworld
+ORGANIZATION:EE Times
+ORGANIZATION:OMNI
+MISC:Java
+PERSON:Eugene
+PERSON:Arjen Poutsma
+ORGANIZATION:Microsoft
+PERSON:Arjen
+MISC:Java
+PERSON:Arjen
+PERSON:Arjen
+ORGANIZATION:XFire
+MISC:Java
+ORGANIZATION:SOA
+PERSON:Zenior
+PERSON:Bjørn Bjerkeli
+PERSON:Bjørn
+MISC:Java
+MISC:European
+ORGANIZATION:Nokia
+ORGANIZATION:Sybase
+PERSON:Bjørn
+PERSON:Bjørn
+PERSON:Bjørn
+PERSON:Zenior
+PERSON:Ole Andre Ranvik
+ORGANIZATION:Zenior AS
+MISC:Sun
+ORGANIZATION:AOP
+ORGANIZATION:Object Mentor -RRB- Michael Feathers
+PERSON:Michael
+PERSON:Michael
+MISC:C++
+PERSON:Michael
+PERSON:Lars Lunde
+ORGANIZATION:Bekk Consulting
+MISC:Java
+PERSON:Anders Østen
+ORGANIZATION:Bekk Consulting
+MISC:Java
+ORGANIZATION:Sun Microsystems
+PERSON:Linda DeMichiel
+MISC:Java EE Platform
+ORGANIZATION:Sun Microsystems
+MISC:Java Persistence
+MISC:Enterprise JavaBeans
+MISC:Java Community Process Outstanding Spec Lead for Java
+PERSON:Linda
+PERSON:Sun
+ORGANIZATION:IBM
+ORGANIZATION:Stanford University
+PERSON:Juergen
+PERSON:Rod
+PERSON:Juergen
+PERSON:Rod
+PERSON:Juergen
+PERSON:Juergen
+PERSON:Arjen Poutsma
+ORGANIZATION:Microsoft
+PERSON:Arjen
+MISC:Java
+PERSON:Arjen
+PERSON:Arjen
+ORGANIZATION:XFire
+MISC:Java
+ORGANIZATION:SOA
+ORGANIZATION:University of Oslo - Developer
+LOCATION:Terracotta
+PERSON:Jonas
+ORGANIZATION:Terracotta Inc.
+LOCATION:Terracotta
+PERSON:Jonas
+ORGANIZATION:BEA Systems
+ORGANIZATION:JVM
+ORGANIZATION:AOP
+LOCATION:Terracotta
+ORGANIZATION:AspectWerkz AOP
+MISC:Open Source
+PERSON:Jonas
+ORGANIZATION:AOP
+ORGANIZATION:TSE
+ORGANIZATION:eWorld
+LOCATION:Javapolis
+ORGANIZATION:Worldwide Technical Communications
+ORGANIZATION:Worldwide Technical Communications
+ORGANIZATION:GigaSpaces Technologies Inc
+PERSON:Owen
+PERSON:Owens
+PERSON:Owen
+PERSON:Owen
+ORGANIZATION:Middleware Company
+ORGANIZATION:BEA WebLogic Servers
+PERSON:Owen
+PERSON:Owen
+ORGANIZATION:New Customware Company
+ORGANIZATION:Middleware Company
+PERSON:Owen
+ORGANIZATION:Professional Services
+ORGANIZATION:Inprise
+ORGANIZATION:Borland
+PERSON:CORBA
+ORGANIZATION:Symantec
+PERSON:Simon
+ORGANIZATION:IBM Open Source SOA
+ORGANIZATION:PHP
+MISC:Java
+ORGANIZATION:PHP
+ORGANIZATION:SCA
+PERSON:Simon
+PERSON:Kirk
+LOCATION:Kodewerk
+PERSON:Kirk
+ORGANIZATION:Storebrand
+PERSON:Anders Norås
+ORGANIZATION:Storebrand
+PERSON:Anders
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Reg Developer
+MISC:Pattern-Oriented Software Architecture
+ORGANIZATION:Savoir Technologies
+PERSON:Jeff
+MISC:Java In Action
+MISC:Java User Groups
+ORGANIZATION:SOA
+PERSON:Jeff
+ORGANIZATION:Project Management Committee
+PERSON:Apache Geronimo
+MISC:Enterprise Java Servlets
+PERSON:Addison Wesley Longman
+PERSON:Apache Geronimo
+PERSON:Wiley
+PERSON:Wiley
+PERSON:Jeff
+ORGANIZATION:JCP
+MISC:Java Platform
+ORGANIZATION:Apache Software Foundation
+PERSON:Jeff
+LOCATION:Munich
+LOCATION:Germany
+PERSON:Alexandre Snaps
+MISC:Open Source
+MISC:Java
+PERSON:Kristoffer Moum
+MISC:Java
+PERSON:Kristoffer
+PERSON:Johannes Brodwall
+MISC:Java
+PERSON:Tijs Rademakers
+MISC:Java
+PERSON:Tijs
+PERSON:Jos Dirksen
+MISC:Java
+PERSON:Jos
+ORGANIZATION:IBM
+PERSON:Jos
+PERSON:Elliotte
+LOCATION:New Orleans
+LOCATION:Prospect Heights
+LOCATION:Brooklyn
+PERSON:Beth
+PERSON:Shayna
+PERSON:Marjorie
+ORGANIZATION:Polytechnic University
+MISC:Java
+MISC:Java I/O
+ORGANIZATION:Java Network Programming
+PERSON:Ben
+MISC:Java-related
+ORGANIZATION:Ajaxian.com
+PERSON:Ben
+MISC:Java
+PERSON:Ben
+ORGANIZATION:Utah Java User 's Group
+MISC:Java Community Process
+MISC:O'Reilly Open Source Conference
+MISC:No Fluff Just Stuff Java Symposiums
+PERSON:Dion
+ORGANIZATION:Ajax
+ORGANIZATION:Audible Ajax
+MISC:Enterprise Java
+MISC:TheServerSide Java Symposium
+MISC:No Fluff Just Stuff
+ORGANIZATION:JCP
+PERSON:Matt Raible
+LOCATION:Denver
+LOCATION:Colorado
+ORGANIZATION:Raible Designs
+MISC:Java
+ORGANIZATION:Ajax
+PERSON:Matt
+LOCATION:Montana
+PERSON:Matt
+MISC:Java
+MISC:Java
+MISC:Apache Roller
+ORGANIZATION:CTO of Technology Evangelism at Sun Microsystems Raghavan
+ORGANIZATION:CTO of Technology Evangelism at Sun Microsystems
+ORGANIZATION:Digital Equipment Corporation
+ORGANIZATION:VMS
+MISC:Java
+MISC:Java
+MISC:Java ME
+ORGANIZATION:AJAX
+MISC:Masters
+ORGANIZATION:Center of Advanced Computer Studies
+ORGANIZATION:University of Louisiana
+LOCATION:Lafayette
+ORGANIZATION:Razorfish
+MISC:Java
+LOCATION:Ezmo
+PERSON:Ezmo
+PERSON:Perl
+MISC:Java
+MISC:Java
+MISC:Flex
+PERSON:Stephan
+MISC:Java User Group
+MISC:Java
+MISC:Java
+ORGANIZATION:JCS Int
+MISC:Java
+ORGANIZATION:JCS
+MISC:Java
+ORGANIZATION:BEA Systems
+MISC:European
+MISC:Enterprise Java
+PERSON:Sun
+MISC:Java Community
+MISC:Java Champion
+MISC:Java
+MISC:Java
+LOCATION:UK
+LOCATION:Denmark
+LOCATION:Norway
+LOCATION:Belgium
+PERSON:Mike Aizatsky
+MISC:Java Development
+PERSON:Aizatsky
+MISC:Masters Degree
+MISC:Mathematics
+MISC:Web
+ORGANIZATION:Enterprise Development Department
+PERSON:Xavier Hanin
+LOCATION:Bordeaux
+LOCATION:France
+PERSON:Xavier
+MISC:Java
+ORGANIZATION:ASF
+LOCATION:Xooctory
+PERSON:Stein Kåre Skytteren
+ORGANIZATION:DWR
+ORGANIZATION:AJAX
+PERSON:Stein Kåre
+ORGANIZATION:Comperio
+ORGANIZATION:NTNU
+ORGANIZATION:Bachelor of Business and Administration
+PERSON:Kito D. Mann
+MISC:Java Community Process
+ORGANIZATION:JSF
+PERSON:Mann
+ORGANIZATION:Virtua , Inc.
+ORGANIZATION:Johns Hopkins University
+LOCATION:Systek
+ORGANIZATION:University of Colorado
+ORGANIZATION:Norwegian School of Management
+PERSON:Bjørn
+ORGANIZATION:IBS JavaSolutions AB
+PERSON:Erik Hellman
+MISC:Java
+ORGANIZATION:IBS JavaSolutions AB
+LOCATION:Gothenburg
+LOCATION:Sweden
+ORGANIZATION:JavaForum
+LOCATION:Sweden
+MISC:Java
+MISC:OpenGL API
+MISC:Java
+ORGANIZATION:Tandberg
+PERSON:Espen Berger
+ORGANIZATION:TANDBERG
+MISC:Java
+ORGANIZATION:TANDBERG
+ORGANIZATION:Accenture
+PERSON:Holger
+ORGANIZATION:Accenture 's Technology Architecture
+MISC:Java
+MISC:Pension Project
+LOCATION:Norway
+MISC:Java
+ORGANIZATION:SOA
+ORGANIZATION:JSF
+ORGANIZATION:Ada
+PERSON:Python
+MISC:Java
+LOCATION:Objectware
+LOCATION:Oslo
+MISC:Core Java
+ORGANIZATION:DDD
+MISC:JavaZone
+PERSON:Kjartan
+ORGANIZATION:Objectware AS
+PERSON:Haglind Datakonsult
+PERSON:Mårten Haglind
+MISC:Java Enterprise
+MISC:Java
+ORGANIZATION:SOA
+LOCATION:Gothenburg
+LOCATION:Sweden
+MISC:Java
+LOCATION:Oslo
+PERSON:Trond Arve Wasskog
+ORGANIZATION:Bekk Consulting
+MISC:Java
+ORGANIZATION:NICS
+PERSON:Eirik Maus
+ORGANIZATION:Norsk Regnesentral
+MISC:Java
+PERSON:Thomas Heiberg
+MISC:Web
+ORGANIZATION:BEKK
+MISC:Java
+PERSON:Martine Devos
+ORGANIZATION:ICT
+ORGANIZATION:ICT
+LOCATION:OOPSLA
+ORGANIZATION:MIT
+PERSON:Mike
+PERSON:Mike
+ORGANIZATION:Oxford University
+MISC:Fluid Mechanics
+ORGANIZATION:Bristol University
+ORGANIZATION:Logica
+PERSON:Mike
+LOCATION:London
+PERSON:Steve
+LOCATION:UK
+LOCATION:Europe
+LOCATION:America
+LOCATION:Asia
+ORGANIZATION:IBM
+PERSON:Steve
+ORGANIZATION:Computer Science
+ORGANIZATION:University College London
+LOCATION:London
+PERSON:Mary Poppendieck
+PERSON:Mary
+PERSON:Reidar Sande
+ORGANIZATION:Bekk Consulting
+ORGANIZATION:CSP
+PERSON:Frithjof Frederiksen
+ORGANIZATION:Bekk Consulting
+LOCATION:UK
+LOCATION:USA
+LOCATION:Norway
+PERSON:Frithjof
+LOCATION:Oslo
+PERSON:Martine Devos
+ORGANIZATION:ICT
+ORGANIZATION:ICT
+LOCATION:OOPSLA
+ORGANIZATION:MIT
+PERSON:Tom J. Bang
+MISC:IT-systems
+PERSON:James Coplien
+LOCATION:Nordija
+MISC:Open Space
+ORGANIZATION:ACCU Conference
+ORGANIZATION:Inc
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:Ivar Jacobson International
+PERSON:Ivar Jacobson
+PERSON:Ivar Jacobson
+ORGANIZATION:Ivar Jacobson International
+LOCATION:US
+LOCATION:UK
+LOCATION:Korea
+LOCATION:China
+LOCATION:Singapore
+LOCATION:Australia
+LOCATION:Norway
+LOCATION:Sweden
+ORGANIZATION:Ivar Jacobson Consulting
+LOCATION:USA
+LOCATION:UK
+LOCATION:Korea
+LOCATION:China
+LOCATION:Singapore
+LOCATION:Australia
+PERSON:Kaare Nilsen
+MISC:Open Source
+ORGANIZATION:AOP
+MISC:Java
+MISC:Open Source
+MISC:Open Source
+ORGANIZATION:CTO
+PERSON:Aslak Hellesøy
+ORGANIZATION:CTO
+PERSON:Aslak
+MISC:Java
+LOCATION:Munich
+LOCATION:Germany
+PERSON:Alexandre Snaps
+MISC:Open Source
+MISC:Java
+PERSON:Mike Aizatsky
+MISC:Java Development
+PERSON:Aizatsky
+MISC:Masters Degree
+MISC:Mathematics
+MISC:Web
+ORGANIZATION:Enterprise Development Department
+PERSON:Paul René
+ORGANIZATION:Telenor
+LOCATION:Norway
+LOCATION:Metro
+PERSON:Steinar
+PERSON:Steinar
+ORGANIZATION:Informix
+LOCATION:Norway
+ORGANIZATION:IBM
+PERSON:Steinar
+PERSON:Jonas Jacobi
+ORGANIZATION:Kaazing Corporation
+PERSON:Kaazing Jonas
+ORGANIZATION:Brane Corporation
+LOCATION:Silicon Valley
+LOCATION:Sweden
+PERSON:Jacobi
+ORGANIZATION:Brane
+ORGANIZATION:Oracle
+ORGANIZATION:JavaServer Faces
+ORGANIZATION:Oracle ADF Faces
+ORGANIZATION:Oracle ADF Faces Rich Client
+ORGANIZATION:Kaazing Corporation
+PERSON:Jonas
+PERSON:Kaazing
+PERSON:Jacobi
+MISC:Java Developer
+ORGANIZATION:Oracle Magazine
+PERSON:Jonas
+PERSON:Xavier Quesada
+LOCATION:Munich
+LOCATION:Germany
+PERSON:Alexandre Snaps
+MISC:Open Source
+ORGANIZATION:Alten Group
+LOCATION:Belgium
+LOCATION:Axen
+MISC:Java
+PERSON:Jazoon
+MISC:Java
+PERSON:Martine Devos
+ORGANIZATION:ICT
+ORGANIZATION:ICT
+LOCATION:OOPSLA
+ORGANIZATION:MIT
+PERSON:Harald
+ORGANIZATION:Escenic AS
+MISC:Java
+PERSON:JavaZone
+ORGANIZATION:Yngvar
+ORGANIZATION:Bouvet ASA
+MISC:Java
+ORGANIZATION:AOP
+PERSON:Ron Tolido
+ORGANIZATION:Continental Europe
+LOCATION:Asia Pacific
+ORGANIZATION:Capgemini
+ORGANIZATION:Open Group
+PERSON:Michael Feathers
+PERSON:Michael
+PERSON:Michael
+MISC:C++
+PERSON:Michael
+PERSON:Mary Poppendieck
+PERSON:Mary
+PERSON:Mary
+PERSON:Mary
+PERSON:Tom
+PERSON:Mary
+PERSON:Kaare Nilsen
+ORGANIZATION:Arktekk
+MISC:Open Source
+ORGANIZATION:AOP
+MISC:Java
+MISC:Open Source
+PERSON:Guillaume Laforge
+MISC:Java Specification Request
+PERSON:Guillaume
+PERSON:Manning
+PERSON:Scott Davis
+MISC:Java
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:JBoss
+PERSON:Scott
+ORGANIZATION:IBM
+PERSON:Scott
+ORGANIZATION:Denver Java Users Group
+LOCATION:North America
+ORGANIZATION:Boulder Java Users Group
+PERSON:Jérôme Bernard
+ORGANIZATION:Jini
+LOCATION:Amazon
+LOCATION:Objectware
+MISC:Sun Java Champion
+ORGANIZATION:Advisory Board
+ORGANIZATION:Microsoft
+PERSON:Smidig
+PERSON:Gilad Bracha
+MISC:Newspeak
+MISC:Computational Theologist
+ORGANIZATION:Sun Microsystems
+MISC:Java Language Specification
+ORGANIZATION:Ben Gurion University
+LOCATION:Israel
+ORGANIZATION:University of Utah
+PERSON:Scott Davis
+MISC:Java
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:JBoss
+PERSON:Scott
+ORGANIZATION:IBM
+PERSON:Scott
+ORGANIZATION:Denver Java Users Group
+LOCATION:North America
+ORGANIZATION:Boulder Java Users Group
+PERSON:Sutherland
+MISC:Certified ScrumMaster Practitioner
+ORGANIZATION:CTO
+ORGANIZATION:CTO
+ORGANIZATION:IDX
+PERSON:Sutherland
+ORGANIZATION:Microsoft
+ORGANIZATION:Yahoo
+ORGANIZATION:Ariba
+ORGANIZATION:GE Healthcare
+ORGANIZATION:M3 Media Services
+PERSON:Ward
+ORGANIZATION:Adobe
+ORGANIZATION:Adobe
+ORGANIZATION:JCP
+ORGANIZATION:JSR
+PERSON:Perl
+MISC:Java
+MISC:Flex
+MISC:Java
+PERSON:James
+ORGANIZATION:Pillar Data Systems
+PERSON:Scott Davis
+MISC:Java
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:JBoss
+PERSON:Scott
+ORGANIZATION:IBM
+PERSON:Scott
+ORGANIZATION:Denver Java Users Group
+LOCATION:North America
+ORGANIZATION:Boulder Java Users Group
+PERSON:Guillaume Laforge
+MISC:Java Specification Request
+PERSON:Guillaume
+PERSON:Manning
+PERSON:Bill Venners
+ORGANIZATION:Artima , Inc.
+MISC:Inside the Java Virtual Machine
+MISC:Java
+MISC:Java
+ORGANIZATION:Jini
+ORGANIZATION:Jini Community
+PERSON:Bill
+ORGANIZATION:Jini Community
+ORGANIZATION:Jini
+PERSON:Bill
+ORGANIZATION:Scala
+MISC:Java
+PERSON:Martin Odersky
+PERSON:Lex Spoon
+LOCATION:Scala
+PERSON:Gilad Bracha
+MISC:Newspeak
+MISC:Computational Theologist
+ORGANIZATION:Sun Microsystems
+MISC:Java Language Specification
+ORGANIZATION:Ben Gurion University
+LOCATION:Israel
+ORGANIZATION:University of Utah
+PERSON:Robert C. Martin
+PERSON:Uncle Bob
+ORGANIZATION:Object Mentor Inc.
+LOCATION:Gurnee
+LOCATION:Illinois
+ORGANIZATION:Object Mentor , Inc.
+PERSON:Martin
+PERSON:Martin
+PERSON:Martin
+MISC:C++ Report
+ORGANIZATION:Agile Alliance
+PERSON:Ola Bini
+LOCATION:Stockholm
+LOCATION:Sweden
+MISC:Java
+PERSON:Ruby
+PERSON:Charles Nutter
+MISC:Java
+MISC:Java
+ORGANIZATION:Ventera Corp
+PERSON:Sun
+PERSON:Johannes Brodwall
+MISC:BBS Nordic
+PERSON:Bill Venners
+ORGANIZATION:Artima , Inc.
+MISC:Inside the Java Virtual Machine
+MISC:Java
+MISC:Java
+ORGANIZATION:Jini
+ORGANIZATION:Jini Community
+PERSON:Bill
+ORGANIZATION:Jini Community
+ORGANIZATION:Jini
+PERSON:Bill
+ORGANIZATION:Scala
+MISC:Java
+PERSON:Martin Odersky
+PERSON:Lex Spoon
+LOCATION:Scala
+PERSON:Howard Lewis Ship
+MISC:No Fluff Just Stuff
+PERSON:Janniche Haugen
+MISC:Java
+PERSON:Bernard Traversat
+ORGANIZATION:Advanced Development
+ORGANIZATION:Sun Microsystems Inc.
+PERSON:Bernard
+PERSON:Sun
+ORGANIZATION:NASA Ames Research Center
+PERSON:Trond Arve Wasskog
+ORGANIZATION:CTO
+ORGANIZATION:Bekk Consulting
+MISC:Java
+ORGANIZATION:Bekk Consulting As
+ORGANIZATION:PMP
+PERSON:Thomas
+ORGANIZATION:University of Oslo
+MISC:Java
+MISC:Java
+PERSON:Eugene
+ORGANIZATION:LeapFrog Enterprises
+LOCATION:United States
+ORGANIZATION:Wal-Mart Stores Information Systems Division
+ORGANIZATION:Walmart.com Global
+ORGANIZATION:ISD Technology Council
+PERSON:Bruce Snyder
+PERSON:Bruce
+MISC:Java EE
+PERSON:Bruce
+PERSON:Apache Geronimo
+ORGANIZATION:Camel
+ORGANIZATION:Wrox Press
+ORGANIZATION:Manning Publications
+PERSON:Bruce
+ORGANIZATION:JCP
+PERSON:Bruce
+LOCATION:Boulder
+LOCATION:Colorado
+PERSON:Rickard Öberg
+LOCATION:Jayway
+MISC:OpenSource Java
+ORGANIZATION:JBoss
+PERSON:Karol Harezlak
+ORGANIZATION:Sun Microsystems
+MISC:Java
+MISC:Java
+MISC:Java/Java ME/Netbeans
+LOCATION:Europe
+LOCATION:United States
+PERSON:Lukas Hasik
+ORGANIZATION:Sun Microsystems
+PERSON:Lukas
+LOCATION:Sun
+MISC:Java EE
+MISC:NetBeans
+MISC:Java
+MISC:Masters Degree
+PERSON:Lukas
+PERSON:Jazoon
+PERSON:Bouvet
+MISC:Java
+ORGANIZATION:Customer Driven Project
+PERSON:Stig Lau
+PERSON:Bouvet
+MISC:Java
+PERSON:Maxim Zakharenkov
+ORGANIZATION:Exigen Inc.
+MISC:Java
+ORGANIZATION:Exigen Inc.
+PERSON:Webstart
+PERSON:Raghavan
+ORGANIZATION:CTO of Technology Evangelism at Sun Microsystems
+ORGANIZATION:Digital Equipment Corporation
+ORGANIZATION:VMS
+MISC:Java
+MISC:Java
+MISC:Java ME
+ORGANIZATION:AJAX
+MISC:Masters
+ORGANIZATION:Center of Advanced Computer Studies
+ORGANIZATION:University of Louisiana
+LOCATION:Lafayette
+PERSON:Ivanov
+PERSON:Ivanov
+MISC:Java
+MISC:T-Systems GmbH
+PERSON:Ivanov
+ORGANIZATION:Adaptec
+ORGANIZATION:BEA Systems
+PERSON:Ivanov
+MISC:Java
+MISC:Java
+PERSON:Ivanov
+ORGANIZATION:Baltic State Technical University
+LOCATION:Saint Petersburg
+LOCATION:Russia
+PERSON:Raghavan
+ORGANIZATION:CTO of Technology Evangelism at Sun Microsystems
+ORGANIZATION:Digital Equipment Corporation
+ORGANIZATION:VMS
+MISC:Java
+MISC:Java
+MISC:Java ME
+ORGANIZATION:AJAX
+MISC:Masters
+ORGANIZATION:Center of Advanced Computer Studies
+ORGANIZATION:University of Louisiana
+LOCATION:Lafayette
+PERSON:Henning
+LOCATION:Skiinfo
+MISC:European
+MISC:Java
+ORGANIZATION:Terracotta Inc.
+LOCATION:Uwyn
+MISC:Java Web
+MISC:Bla-bla List
+PERSON:JavaPaste
+ORGANIZATION:Gentoo Linux
+PERSON:Geert
+ORGANIZATION:TSSJS US & Europe
+ORGANIZATION:NFJS
+MISC:Java In Action
+MISC:Java Champion
+MISC:Java
+PERSON:Dan Diephouse
+MISC:Apache ServiceMix
+ORGANIZATION:Envoi Solutions
+ORGANIZATION:SOA
+PERSON:Bjørn Bjerkeli
+PERSON:Bjørn
+MISC:Java
+MISC:European
+ORGANIZATION:Nokia
+ORGANIZATION:Sybase
+PERSON:Bjørn
+PERSON:Bjørn
+PERSON:Bjørn
+PERSON:Eirik Maus
+PERSON:Bjørn Bjerkeli
+MISC:Javazone
+MISC:Java Champion
+PERSON:Kirk Pepperdine
+MISC:Java
+ORGANIZATION:Cray Assembler
+MISC:Java
+PERSON:Pepperdine
+ORGANIZATION:Ottawa University
+ORGANIZATION:National Research Council of Canada
+ORGANIZATION:Cray
+ORGANIZATION:Department of Defense
+ORGANIZATION:Florida Power & Light
+ORGANIZATION:GemStone Systems
+PERSON:Erich Gamma
+ORGANIZATION:IBM
+LOCATION:Zurich
+MISC:Eclipse Java
+ORGANIZATION:Project Management Committee
+PERSON:Erich
+ORGANIZATION:Gang of Four
+PERSON:Erich
+PERSON:Kent Beck
+MISC:Java
+PERSON:Arjen Poutsma
+ORGANIZATION:SpringSource
+ORGANIZATION:Microsoft
+PERSON:Arjen
+MISC:Java
+PERSON:Arjen
+PERSON:Arjen
+ORGANIZATION:XFire
+MISC:Java
+ORGANIZATION:SOA
+PERSON:Ola Bini
+LOCATION:Stockholm
+LOCATION:Sweden
+MISC:Java
+PERSON:Ruby
+PERSON:Charles Nutter
+MISC:Java
+MISC:Java
+ORGANIZATION:Ventera Corp
+PERSON:Sun
+MISC:Filip
+LOCATION:Ordina Belgium
+MISC:Javapolis
+PERSON:James L. -LRB- Jim -RRB- Weaver
+MISC:Technical Officer
+ORGANIZATION:LAT , Inc.
+MISC:Java
+PERSON:Steve Freeman
+LOCATION:UK
+LOCATION:Europe
+LOCATION:America
+LOCATION:Asia
+PERSON:Steve
+ORGANIZATION:University College London
+LOCATION:London
+PERSON:Steve
+PERSON:Nat Pryce
+PERSON:Addison Wesley
+PERSON:Steve Freeman
+PERSON:Gordon Pask
+PERSON:Peter Norrhall
+MISC:Java Enterprise
+LOCATION:Sweden
+LOCATION:London
+LOCATION:Singapore
+PERSON:Peter
+PERSON:Peter
+PERSON:Cameron Purdy
+PERSON:Purdy
+LOCATION:Tangosol
+PERSON:Purdy
+MISC:Java
+MISC:Java-related
+PERSON:Purdy
+MISC:Java
+MISC:JavaOne RockStar
+MISC:Enterprise Java
+MISC:Java og Java
+PERSON:Bernadette
+ORGANIZATION:Escenic AS
+MISC:Escenic
+ORGANIZATION:Heriot-Watt University
+LOCATION:Scotland
+LOCATION:Norway
+ORGANIZATION:Microsoft
+LOCATION:Norway
+PERSON:Yggdrasil
+ORGANIZATION:Yngvar
+ORGANIZATION:Bouvet ASA
+MISC:Java
+ORGANIZATION:AOP
+PERSON:Kristin Halvorsen
+ORGANIZATION:Digital Business Innovation
+ORGANIZATION:Scientific University
+ORGANIZATION:NTNU
+ORGANIZATION:Norwegian School of Management
+PERSON:Harald
+ORGANIZATION:Escenic AS
+MISC:Java
+PERSON:JavaZone
+PERSON:Lene Pettersen
+ORGANIZATION:Bouvet ASA
+ORGANIZATION:University of Oslo
+ORGANIZATION:University of Copenhagen
+LOCATION:Denmark
+ORGANIZATION:University of Oslo
+PERSON:Jevgeni
+ORGANIZATION:Baltics
+ORGANIZATION:Webmedia , Ltd
+PERSON:Jevgeni
+LOCATION:Aranea
+PERSON:Tom J. Bang
+PERSON:Eitan Suez
+ORGANIZATION:GPL
+PERSON:Eitan
+PERSON:Arnar Lundesgaard
+PERSON:Bouvet
+PERSON:Heather VanCura
+ORGANIZATION:Program Management Office
+ORGANIZATION:PMO
+MISC:Java Community Process
+ORGANIZATION:JCP
+ORGANIZATION:JCP
+ORGANIZATION:JCP
+PERSON:Heather
+ORGANIZATION:JCP Program Office at Sun Microsystems
+PERSON:Sun
+ORGANIZATION:Microsoft
+ORGANIZATION:Cisco
+ORGANIZATION:Roche Bioscience
+ORGANIZATION:Apple
+LOCATION:Santa Cruz Operation
+ORGANIZATION:California State University
+PERSON:Robert C. Martin
+PERSON:Uncle Bob
+ORGANIZATION:Object Mentor Inc.
+LOCATION:Gurnee
+LOCATION:Illinois
+ORGANIZATION:Object Mentor , Inc.
+PERSON:Martin
+PERSON:Martin
+PERSON:Martin
+MISC:C++ Report
+ORGANIZATION:Agile Alliance
+PERSON:Julien Viet
+MISC:Java
+ORGANIZATION:CMS
+PERSON:Julien
+ORGANIZATION:JSR
+PERSON:Julien
+MISC:Java Technology API
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+MISC:Java-experiences
+MISC:Java
+PERSON:Anders
+PERSON:Anders
+LOCATION:Norway
+ORGANIZATION:Storebrand
+PERSON:Alexis Moussine-Pouchkine
+PERSON:Alexis
+MISC:Java
+PERSON:Alexis
+LOCATION:Paris
+LOCATION:France
+PERSON:Aslak Hellesøy
+MISC:Java
+PERSON:Ruby
+ORGANIZATION:CTO
+PERSON:André Fleischer
+LOCATION:Hamburg
+MISC:Java EE
+LOCATION:Kantega
+ORGANIZATION:Artificial Intelligence
+ORGANIZATION:CTO
+LOCATION:Kantega
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Pattern-Oriented Software Architecture
+PERSON:Stian Børresen
+PERSON:Scient
+ORGANIZATION:Research Scientist
+ORGANIZATION:Telenor Research & Innovation
+PERSON:Bjørn Remseth
+ORGANIZATION:Telenor Research & Innovation
+PERSON:Bjørn
+PERSON:Jim Webber
+MISC:Web Services-based
+PERSON:Jim
+LOCATION:UK
+PERSON:Jim
+ORGANIZATION:Arjuna Technologies
+ORGANIZATION:Hewlett-Packard
+PERSON:Jim
+MISC:Web Services
+PERSON:Jim
+ORGANIZATION:University of Newcastle
+PERSON:Tyne
+PERSON:Kim Andreassen
+LOCATION:Capgemini Norway
+ORGANIZATION:NAV
+ORGANIZATION:NTNU
+LOCATION:Capgemini Norway
+ORGANIZATION:Capgemini
+PERSON:Audun Wangensteen
+ORGANIZATION:NTNU
+LOCATION:Capgemini Norway
+ORGANIZATION:NAV
+PERSON:Trond Strømme
+ORGANIZATION:Sun Microsystems Norway
+PERSON:GlassFish
+ORGANIZATION:JVM
+PERSON:Trond
+MISC:Java
+PERSON:Jason van Zyl
+ORGANIZATION:CTO
+LOCATION:Sonatype
+MISC:Java
+ORGANIZATION:Intuit
+ORGANIZATION:eBay
+ORGANIZATION:Qualcomm
+PERSON:Sonatype
+PERSON:Jason
+ORGANIZATION:Periapt , Inc.
+ORGANIZATION:Toyota Corp.
+ORGANIZATION:Bank of America
+ORGANIZATION:Coca-Cola Co.
+ORGANIZATION:Compusense
+PERSON:Jason
+MISC:Apache Maven
+PERSON:Jason
+ORGANIZATION:Apache Maven Project Management Committee
+ORGANIZATION:Apache Software Foundation
+ORGANIZATION:ASF
+PERSON:Codehaus
+PERSON:Costin Leau
+PERSON:Costin
+MISC:Java Config
+ORGANIZATION:JPA
+PERSON:Costin
+PERSON:Costin
+PERSON:Sanjiv Augustine
+ORGANIZATION:Agile Project Leadership Network
+PERSON:Sanjiv
+PERSON:Emil Ong
+ORGANIZATION:Caucho Technology
+ORGANIZATION:UC Berkeley
+PERSON:Emil
+PERSON:Caucho
+ORGANIZATION:Caucho
+MISC:Java
+ORGANIZATION:PHP
+ORGANIZATION:SOA
+ORGANIZATION:Caucho
+MISC:Java
+PERSON:Emil
+LOCATION:Caucho
+PERSON:Emil
+LOCATION:San Francisco Bay Area
+PERSON:Greg Young
+ORGANIZATION:CTO
+LOCATION:Vancouver
+PERSON:Greg
+LOCATION:US
+PERSON:John
+PERSON:John
+ORGANIZATION:Paribas
+ORGANIZATION:JP Morgan
+MISC:Java
+ORGANIZATION:IONA
+PERSON:John
+ORGANIZATION:Onix & Incept5
+LOCATION:Monaco
+LOCATION:Middle East
+LOCATION:Beverley Hills
+PERSON:John
+PERSON:Eric Evans
+ORGANIZATION:Bouvet ASA
+MISC:Java
+ORGANIZATION:Java User Group
+PERSON:Alexis Moussine-Pouchkine
+PERSON:Alexis
+LOCATION:Oslo
+PERSON:Phil Wills
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Java Report
+PERSON:Wiley
+MISC:Pattern-Oriented Software Architecture
+PERSON:Jason van Zyl
+ORGANIZATION:CTO
+LOCATION:Sonatype
+MISC:Java
+ORGANIZATION:Intuit
+ORGANIZATION:eBay
+ORGANIZATION:Qualcomm
+PERSON:Sonatype
+PERSON:Jason
+ORGANIZATION:Periapt , Inc.
+ORGANIZATION:Toyota Corp.
+ORGANIZATION:Bank of America
+ORGANIZATION:Coca-Cola Co.
+ORGANIZATION:Compusense
+PERSON:Jason
+MISC:Apache Maven
+PERSON:Jason
+ORGANIZATION:Apache Maven Project Management Committee
+ORGANIZATION:Apache Software Foundation
+ORGANIZATION:ASF
+PERSON:Codehaus
+PERSON:Mark Fisher
+ORGANIZATION:SpringSource
+PERSON:Mark
+LOCATION:North America
+PERSON:Mark
+LOCATION:America
+LOCATION:Europe
+MISC:Open Source Application
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+ORGANIZATION:Denver Open Source Users Group
+MISC:No Fluff Just Stuff
+ORGANIZATION:SOA
+PERSON:Matthew
+ORGANIZATION:OSS
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+LOCATION:USA
+LOCATION:Colorado
+PERSON:Scott Davis
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:IBM
+PERSON:Scott
+MISC:Java
+PERSON:Scott
+PERSON:Scott
+PERSON:Rock Star at JavaOne
+MISC:Java
+PERSON:Kohsuke Kawaguchi
+ORGANIZATION:Sun Microsystems
+LOCATION:Hudson
+LOCATION:Metro
+PERSON:Neal Ford
+PERSON:Neal Ford
+PERSON:Jahn Arne Johnsen
+ORGANIZATION:Application Management Unit
+PERSON:Jahn Arne
+PERSON:Rune Schumann
+LOCATION:TANDBERG
+MISC:Java
+PERSON:Rune
+MISC:Java
+PERSON:Rune
+PERSON:Ken Sipe
+ORGANIZATION:Perficient , Inc.
+ORGANIZATION:CodeMentor , Inc.
+PERSON:Ken
+ORGANIZATION:NFJS
+PERSON:Jonas Bonér
+LOCATION:Terracotta
+ORGANIZATION:JVM
+ORGANIZATION:BEA
+MISC:Open Source
+ORGANIZATION:AOP
+ORGANIZATION:JVM
+PERSON:Marcus Ahnve
+LOCATION:Stockholm
+PERSON:Marcus
+PERSON:Marcus
+LOCATION:Stockholm
+LOCATION:Oralce
+ORGANIZATION:Simula Research Laboratory / University of Oslo Topic
+LOCATION:Costa Rica , USA
+LOCATION:Sweden
+LOCATION:Sweden
+ORGANIZATION:Software Systems
+PERSON:Scott Davis
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:IBM
+PERSON:Scott
+MISC:Java
+PERSON:Scott
+PERSON:Scott
+PERSON:Rock Star at JavaOne
+MISC:Java
+PERSON:Diephouse
+ORGANIZATION:SOA
+MISC:Galaxy
+MISC:Apache CXF
+ORGANIZATION:XFire
+PERSON:Eivind
+ORGANIZATION:BEKK
+LOCATION:Oslo
+ORGANIZATION:BEKK
+PERSON:Eivind
+MISC:Open Source
+PERSON:Hudson Grinder Plugin
+PERSON:Ole-Martin
+MISC:Java Developer
+ORGANIZATION:PHP
+PERSON:Python
+MISC:Open AdExchange
+MISC:Advertisement System
+ORGANIZATION:Amazon Web Services
+PERSON:Arjen Poutsma
+ORGANIZATION:Microsoft
+PERSON:Arjen
+MISC:Java
+PERSON:Arjen
+PERSON:Arjen
+ORGANIZATION:XFire
+MISC:Java
+ORGANIZATION:SOA
+PERSON:Jevgeni Kabanov
+ORGANIZATION:Webmedia , Ltd
+ORGANIZATION:Baltics
+ORGANIZATION:JVM
+PERSON:Jevgeni
+MISC:Java DSLs
+PERSON:Jevgeni
+LOCATION:Aranea
+LOCATION:Aranea
+PERSON:Jevgeni
+PERSON:Ross Mason
+ORGANIZATION:CTO
+ORGANIZATION:MuleSource , Inc.
+PERSON:Mason
+ORGANIZATION:SymphonySoft Limited
+MISC:EU-based
+PERSON:Anders
+MISC:Java
+LOCATION:Capgemini Norway
+MISC:Java
+ORGANIZATION:NTNU
+LOCATION:Capgemini Norway
+LOCATION:Norway
+ORGANIZATION:BEKK
+MISC:Java
+ORGANIZATION:Haas School of Business
+LOCATION:UC Berkeley
+PERSON:Henry Chesbrough
+MISC:Open Innovation
+PERSON:Eugene
+ORGANIZATION:Google
+ORGANIZATION:Google
+PERSON:Python
+ORGANIZATION:Google
+MISC:Java
+PERSON:Python
+PERSON:Apress
+LOCATION:USA
+PERSON:Niclas Hedhman
+ORGANIZATION:Apache Software Foundation
+PERSON:Rickard Öberg
+LOCATION:Malaysia
+PERSON:Simon Ritter
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Espen Dalløkken
+ORGANIZATION:Razorfish
+ORGANIZATION:CTO
+MISC:Open AdExchange
+MISC:Java
+PERSON:Espen
+PERSON:Erik
+MISC:Java Development
+PERSON:Erik
+PERSON:Lucene
+MISC:No Fluff
+ORGANIZATION:Lucid Imagination
+PERSON:Johannes
+PERSON:Finn-Robert
+PERSON:Randy Stafford
+ORGANIZATION:SOA
+PERSON:Stafford
+ORGANIZATION:Rally Software
+ORGANIZATION:Sabre
+MISC:Smalltalk
+PERSON:Martin Fowler
+PERSON:Floyd Marinescu
+ORGANIZATION:Society for Computer Simulation
+ORGANIZATION:International Council on Systems Engineering
+MISC:Open World
+PERSON:Stafford
+LOCATION:Denver
+LOCATION:Colorado
+ORGANIZATION:Microsoft
+MISC:Java-experiences
+PERSON:Anders
+LOCATION:Norway
+ORGANIZATION:CTO
+PERSON:Bouvet
+PERSON:Morten
+ORGANIZATION:Miles AS
+ORGANIZATION:Microsoft
+MISC:Java
+PERSON:Fredrik Vraalsen
+MISC:Java
+ORGANIZATION:NSB
+ORGANIZATION:Scala
+MISC:JavaZone
+PERSON:Fredrik
+ORGANIZATION:University of Illinois
+ORGANIZATION:Urbana-Champaign
+PERSON:Alf Kristian
+LOCATION:Scala
+PERSON:Alf Kristian
+ORGANIZATION:Scala User Group
+MISC:JavaZone
+PERSON:Alf Kristian
+PERSON:Aslak Hellesøy
+MISC:Java
+PERSON:Aslak
+MISC:Java
+MISC:Java
+MISC:RSpec
+PERSON:Scott W. Ambler
+ORGANIZATION:IBM Software Group
+ORGANIZATION:IBM
+PERSON:Scott
+PERSON:Scott
+ORGANIZATION:Information Week
+PERSON:Ola Bini
+LOCATION:Stockholm
+LOCATION:Sweden
+MISC:Java
+PERSON:Ruby
+MISC:TheServerSide Java Symposium
+PERSON:Björn Beskow
+ORGANIZATION:Callista Enterprise
+PERSON:Björn
+MISC:Java
+PERSON:Bob Lee
+ORGANIZATION:Google
+PERSON:Guice
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Pattern-Oriented Software Architecture
+PERSON:Eric Evans
+PERSON:Einar Landre
+ORGANIZATION:Business Application Services
+ORGANIZATION:SOA
+PERSON:Landre
+PERSON:Bouvet
+ORGANIZATION:Skrivervik Data
+ORGANIZATION:CISCO
+ORGANIZATION:Norsk Data
+PERSON:Landre
+LOCATION:Europe
+LOCATION:US
+MISC:ACM
+ORGANIZATION:IEEE Computer Society
+ORGANIZATION:Society Petroleum Engineers
+PERSON:Landre
+ORGANIZATION:University of Strathclyde
+LOCATION:Stavanger
+LOCATION:Norway
+PERSON:Scott Davis
+MISC:Java
+PERSON:Scott
+MISC:Wheels of Java
+ORGANIZATION:JBoss
+PERSON:Scott
+ORGANIZATION:IBM
+PERSON:Scott
+ORGANIZATION:Denver Java Users Group
+LOCATION:North America
+ORGANIZATION:Boulder Java Users Group
+PERSON:Phil Wills
+PERSON:Phil
+PERSON:Greg Young
+LOCATION:Montreal
+LOCATION:Quebec
+PERSON:Greg
+PERSON:Randy Stafford
+ORGANIZATION:SOA
+PERSON:Stafford
+ORGANIZATION:Rally Software
+ORGANIZATION:Sabre
+MISC:Smalltalk
+PERSON:Martin Fowler
+PERSON:Floyd Marinescu
+ORGANIZATION:Society for Computer Simulation
+ORGANIZATION:International Council on Systems Engineering
+MISC:Open World
+PERSON:Stafford
+LOCATION:Denver
+LOCATION:Colorado
+PERSON:Stig Lau
+PERSON:Bouvet
+ORGANIZATION:Ada
+PERSON:Python
+MISC:Java
+LOCATION:Objectware
+LOCATION:Oslo
+ORGANIZATION:DDD
+MISC:JavaZone
+PERSON:Jevgeni Kabanov
+ORGANIZATION:Webmedia , Ltd
+ORGANIZATION:Baltics
+ORGANIZATION:JVM
+PERSON:Jevgeni
+MISC:Java DSLs
+PERSON:Jevgeni
+LOCATION:Aranea
+LOCATION:Aranea
+PERSON:Jevgeni
+PERSON:Heinz Kabutz
+MISC:Java Specialists ' Newsletter
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Sun
+PERSON:Heinz Kabutz
+MISC:Java Developer Community
+PERSON:Heinz
+MISC:Java
+MISC:Java Specialist Master Course
+MISC:Java
+MISC:Java
+PERSON:Heinz
+LOCATION:Johannesburg
+LOCATION:Athens
+LOCATION:London
+LOCATION:Frankfurt
+MISC:Java User Groups
+MISC:Server Side
+LOCATION:USA
+LOCATION:Europe
+PERSON:Heinz
+MISC:Sun Website
+ORGANIZATION:Kaazing Corporation
+PERSON:Jonas Jacobi
+PERSON:Kaazing
+LOCATION:Sweden
+PERSON:Kaazing
+PERSON:Jonas
+ORGANIZATION:Brane Corporation
+LOCATION:Silicon Valley
+ORGANIZATION:Brane
+ORGANIZATION:Oracle
+ORGANIZATION:JavaServer Faces
+LOCATION:Trinidad
+PERSON:Jonas
+MISC:Java Developer
+ORGANIZATION:Oracle Magazine
+PERSON:Jonas
+PERSON:John Fallows
+ORGANIZATION:CTO
+ORGANIZATION:Kaazing Corporation
+ORGANIZATION:Brane Corporation
+LOCATION:Redwood City
+LOCATION:California
+LOCATION:Norther Ireland
+PERSON:John
+ORGANIZATION:Cambridge University
+LOCATION:United Kingdom
+PERSON:Brane
+PERSON:John
+ORGANIZATION:Oracle Corporation
+ORGANIZATION:Oracle
+PERSON:John
+ORGANIZATION:Ajax
+PERSON:John
+MISC:Java Developer
+ORGANIZATION:AjaxWorld Magazine
+PERSON:John
+ORGANIZATION:Escenic AS
+PERSON:Jonas Bonér
+LOCATION:Terracotta
+ORGANIZATION:JVM
+ORGANIZATION:BEA
+MISC:Open Source
+ORGANIZATION:AOP
+ORGANIZATION:JVM
+PERSON:Vidar Kongsli
+ORGANIZATION:Microsoft
+MISC:Java
+PERSON:Nick Sieger
+MISC:Java Virtual Machine
+MISC:Java
+ORGANIZATION:Microsoft
+MISC:Java-experiences
+PERSON:Anders
+LOCATION:Norway
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Pattern-Oriented Software Architecture
+PERSON:Bob Lee
+ORGANIZATION:Google Guice
+ORGANIZATION:Google
+ORGANIZATION:JCP Executive Committee
+PERSON:Bob
+MISC:Java Modules
+PERSON:Andreas Øverland
+ORGANIZATION:BEKK Consulting
+MISC:Java
+ORGANIZATION:CSS
+PERSON:Chris Richardson
+PERSON:Chris
+ORGANIZATION:Insignia Solutions
+ORGANIZATION:BEA Systems
+MISC:Java Champion
+PERSON:Chris
+MISC:Java
+LOCATION:Amazon
+MISC:No Fluff Just Stuff Java Symposiums
+LOCATION:Colorado
+PERSON:Javapolis
+MISC:Java
+PERSON:Chris
+ORGANIZATION:Cambridge University
+LOCATION:England
+LOCATION:Oakland
+LOCATION:CA
+ORGANIZATION:Java User Group
+PERSON:Markus Krüger
+MISC:Java
+PERSON:Markus
+ORGANIZATION:CVS
+PERSON:Harald
+PERSON:Anders Sandvig
+PERSON:Anders
+PERSON:Stig Murberg
+ORGANIZATION:TANDBERG
+PERSON:Ragnvald Barth
+MISC:Java
+ORGANIZATION:TANDBERG
+PERSON:Cameron Purdy
+PERSON:Purdy
+LOCATION:Tangosol
+PERSON:Purdy
+PERSON:Javaô
+MISC:Java-related
+PERSON:Purdy
+MISC:Java
+MISC:JavaOne RockStar
+PERSON:Simon Ritter
+ORGANIZATION:Sun Microsystems
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+PERSON:Stefan Magnus Landrø
+ORGANIZATION:Bekk Consulting
+PERSON:Einar Landre
+ORGANIZATION:Business Application Services
+ORGANIZATION:SOA
+PERSON:Landre
+PERSON:Bouvet
+ORGANIZATION:Skrivervik Data
+ORGANIZATION:CISCO
+ORGANIZATION:Norsk Data
+PERSON:Landre
+LOCATION:Europe
+LOCATION:US
+MISC:ACM
+ORGANIZATION:IEEE Computer Society
+ORGANIZATION:Society Petroleum Engineers
+PERSON:Landre
+ORGANIZATION:University of Strathclyde
+LOCATION:Stavanger
+LOCATION:Norway
+PERSON:Tom Gilb
+LOCATION:Europe
+LOCATION:US
+PERSON:Tom Gilb
+LOCATION:Oslo
+LOCATION:London
+PERSON:Tom
+PERSON:Michael Fagan
+PERSON:Tom
+PERSON:Ron Radice
+PERSON:Fagan
+PERSON:Tom
+ORGANIZATION:IBM
+LOCATION:Norway
+PERSON:Fagan
+PERSON:Dorothy Graham
+PERSON:Kai
+ORGANIZATION:Hitachi Software
+ORGANIZATION:Sony Corporation
+ORGANIZATION:Sony
+ORGANIZATION:Sony
+PERSON:Tom
+ORGANIZATION:Douglas
+ORGANIZATION:Boeing
+PERSON:Tom
+PERSON:Kai
+ORGANIZATION:Hewlett Packard HP Corporate
+PERSON:Robert Grady
+MISC:Kai
+PERSON:Tom
+PERSON:Kai
+ORGANIZATION:Ericsson
+ORGANIZATION:Nokia HP
+ORGANIZATION:Citigroup
+PERSON:Tom
+PERSON:Tom
+LOCATION:Japan
+ORGANIZATION:Sony
+ORGANIZATION:Hitachi
+ORGANIZATION:IBM
+PERSON:Jeff Genender
+MISC:Java Open Source
+ORGANIZATION:SOA
+PERSON:Apache Geronimo
+MISC:Enterprise Java Servlets
+PERSON:Geronimo
+PERSON:Mina
+MISC:Open Terracotta
+PERSON:Jeff
+MISC:JSR-316 Java EE6
+PERSON:Jon Grov
+PERSON:Jon
+ORGANIZATION:Department of Informatics
+ORGANIZATION:University of Oslo
+ORGANIZATION:GORDA
+ORGANIZATION:Distributed Systems Group
+ORGANIZATION:University of Minho
+LOCATION:Portugal
+ORGANIZATION:Escenic AS
+ORGANIZATION:Escenic
+MISC:Java
+PERSON:Scala
+MISC:JavaZone
+LOCATION:Escenic
+PERSON:Alex Boisvert
+MISC:Java
+LOCATION:Scala
+PERSON:Jevgeni Kabanov
+ORGANIZATION:Webmedia , Ltd
+ORGANIZATION:Baltics
+ORGANIZATION:JVM
+PERSON:Jevgeni
+MISC:Java DSLs
+PERSON:Jevgeni
+LOCATION:Aranea
+LOCATION:Aranea
+PERSON:Jevgeni
+PERSON:Costin
+ORGANIZATION:VMware
+PERSON:Costin
+MISC:Spring-inspired
+ORGANIZATION:DevCon
+ORGANIZATION:Google
+PERSON:Ken Sipe
+ORGANIZATION:Perficient , Inc.
+LOCATION:St. Louis
+LOCATION:MO
+LOCATION:USA
+MISC:Java
+PERSON:Ken
+PERSON:Ken
+ORGANIZATION:NFJS
+MISC:Rock Star
+MISC:Java
+PERSON:Ken Sipe
+ORGANIZATION:Perficient , Inc.
+LOCATION:St. Louis
+LOCATION:MO
+LOCATION:USA
+MISC:Java
+PERSON:Ken
+PERSON:Ken
+ORGANIZATION:NFJS
+MISC:Rock Star
+PERSON:Anders Sveen
+MISC:Java
+ORGANIZATION:Capgemini Norway
+MISC:Java
+MISC:Java
+PERSON:Eugene Ciurana
+ORGANIZATION:SOA
+PERSON:Forbes
+ORGANIZATION:Walmart.com Global
+ORGANIZATION:ISD Technology Council
+ORGANIZATION:Walmart Stores Information Systems Division
+LOCATION:United States
+LOCATION:Europe
+LOCATION:Japan
+ORGANIZATION:Google
+MISC:Tesla Testament
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Haakon Gjersvik Eriksen
+ORGANIZATION:TANDBERG
+PERSON:Justin
+MISC:Java
+PERSON:Greg Young
+PERSON:Greg
+LOCATION:South Africa
+PERSON:Espen Dalløkken
+ORGANIZATION:Razorfish
+ORGANIZATION:CTO
+MISC:Open AdExchange
+MISC:Java
+PERSON:Espen
+PERSON:Kohsuke Kawaguchi
+LOCATION:Hudson
+ORGANIZATION:Oracle
+LOCATION:Metro
+PERSON:Dan
+MISC:Technical Officer
+ORGANIZATION:Confluence Customization
+MISC:Java
+PERSON:Kirk Pepperdine
+ORGANIZATION:Kodewerk Ltd.
+PERSON:Kirk
+PERSON:Nick Sieger
+MISC:Java Virtual Machine
+MISC:Java
+PERSON:Hans Nilsson
+ORGANIZATION:Erlang Solutions
+ORGANIZATION:Ericsson Computer Science Lab
+PERSON:Joe Armstrong
+PERSON:Claes Wikström
+PERSON:Hans
+ORGANIZATION:Voice
+MISC:Erlang-based
+ORGANIZATION:Ericsson
+ORGANIZATION:GSM Association SIP Technical Expert Group
+ORGANIZATION:Erlang Solutions
+ORGANIZATION:Intel
+PERSON:Jonas
+ORGANIZATION:BEKK Consulting
+LOCATION:Trondheim
+ORGANIZATION:WPF
+ORGANIZATION:Silverlight
+MISC:C#
+PERSON:Jonas
+ORGANIZATION:Microsoft
+MISC:Windows Presentation Foundation
+ORGANIZATION:Silverlight
+PERSON:Jonas
+ORGANIZATION:NDC
+PERSON:Jonas
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+ORGANIZATION:Silverlight
+ORGANIZATION:Microsoft
+PERSON:Harald
+MISC:Java
+LOCATION:Computas
+PERSON:Trond Wingård
+ORGANIZATION:Statkraft
+LOCATION:Europe
+PERSON:Trond
+LOCATION:Oslo
+PERSON:Espen Berger
+MISC:Java
+ORGANIZATION:TANDBERG
+ORGANIZATION:TANDBERG
+PERSON:Neal Ford
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+MISC:No Fluff Just Stuff
+MISC:Git & Google App Engine RefCards
+ORGANIZATION:Denver Open Source Users Group
+ORGANIZATION:SOA
+PERSON:Matthew
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+PERSON:Steve Freeman
+ORGANIZATION:London Extreme Tuesday Club
+PERSON:Steve
+ORGANIZATION:IBM
+PERSON:Steve
+ORGANIZATION:Cambridge University
+PERSON:Steve
+LOCATION:London
+LOCATION:UK
+PERSON:Steve
+PERSON:Nat Pryce
+PERSON:Gordon Pask
+PERSON:Nat Pryce
+ORGANIZATION:Imperial College London
+LOCATION:London
+PERSON:Nat
+LOCATION:London
+LOCATION:UK
+PERSON:Dan Bergh Johnsson
+ORGANIZATION:Uppsala University
+PERSON:Dan
+PERSON:Dan
+LOCATION:Norway
+PERSON:Patrycja Wegrzynowicz
+ORGANIZATION:CTO
+PERSON:Yon Labs
+MISC:Internet
+LOCATION:OOPSLA
+LOCATION:Devoxx
+PERSON:Jazoon
+PERSON:Patrycja
+ORGANIZATION:Warsaw University
+PERSON:Jason van Zyl
+ORGANIZATION:CTO
+LOCATION:Sonatype
+MISC:Java
+ORGANIZATION:Intuit
+ORGANIZATION:eBay
+ORGANIZATION:Qualcomm
+PERSON:Sonatype
+PERSON:Jason
+ORGANIZATION:Periapt , Inc.
+ORGANIZATION:Toyota Corp.
+ORGANIZATION:Bank of America
+ORGANIZATION:Coca-Cola Co.
+ORGANIZATION:Compusense
+PERSON:Jason
+MISC:Apache Maven
+PERSON:Jason
+ORGANIZATION:Apache Maven Project Management Committee
+ORGANIZATION:Apache Software Foundation
+ORGANIZATION:ASF
+PERSON:Codehaus
+PERSON:Costin
+ORGANIZATION:VMware
+PERSON:Costin
+MISC:Spring-inspired
+ORGANIZATION:DevCon
+PERSON:Neal Ford
+PERSON:Jon Jagger
+LOCATION:England
+LOCATION:UK
+ORGANIZATION:ECMA
+LOCATION:Oslo
+LOCATION:Oslo
+ORGANIZATION:NDC
+ORGANIZATION:ACCU
+PERSON:Kevlin Henney
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Pattern-Oriented Software Architecture
+LOCATION:Arktekk
+MISC:Java
+PERSON:Scala
+ORGANIZATION:Scala User Group
+PERSON:Jonas
+LOCATION:Kaazing
+MISC:Web
+PERSON:Jonas
+PERSON:John
+LOCATION:Kaazing
+PERSON:John
+PERSON:Timothy Perrett
+LOCATION:UK
+ORGANIZATION:Xerox Corporation
+LOCATION:Europe
+LOCATION:Middle East
+LOCATION:Africa
+PERSON:Tim
+PERSON:Dan Diephouse
+MISC:Tcat
+PERSON:Tim Berglund
+ORGANIZATION:August Technology Group
+ORGANIZATION:JVM
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:IASA
+MISC:Denver Open Source User Group
+LOCATION:Denver
+LOCATION:Littleton
+LOCATION:CO
+PERSON:Inga Kristine Holen
+LOCATION:Steria AS
+MISC:Java
+PERSON:Aslak Hellesøy
+PERSON:Kevlin
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Java Report
+PERSON:Kevlin
+MISC:Pattern-Oriented Software Architecture
+PERSON:Trond
+ORGANIZATION:Professional Services
+ORGANIZATION:Nordics
+MISC:Java
+PERSON:Trond
+MISC:Java
+PERSON:Jon Gunnar Wold
+LOCATION:Norway
+PERSON:Jon Gunnar
+ORGANIZATION:RIA
+PERSON:Masoud Kalali
+PERSON:CORBA
+MISC:Windows
+ORGANIZATION:NetBeans Dream Team
+PERSON:Masoud
+PERSON:Masoud
+PERSON:Masoud
+PERSON:Joonas Lehtinen
+LOCATION:Vaadin
+MISC:Java-based
+PERSON:Joonas
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Greg Young
+PERSON:Greg
+LOCATION:South Africa
+PERSON:Jonas Bonér
+LOCATION:Terracotta
+ORGANIZATION:JVM
+ORGANIZATION:BEA
+MISC:Open Source
+ORGANIZATION:AOP
+ORGANIZATION:JVM
+PERSON:Stephen Colebourne
+MISC:Java Champion
+MISC:Java
+MISC:Java
+PERSON:Mark Fisher
+ORGANIZATION:VMware
+PERSON:Mark
+PERSON:Mark
+LOCATION:North America
+LOCATION:Europe
+PERSON:Manning
+PERSON:John
+ORGANIZATION:BNP Paribas
+ORGANIZATION:JP Morgan
+MISC:Java
+ORGANIZATION:IONA
+PERSON:John
+LOCATION:US
+ORGANIZATION:Carlyle Group
+PERSON:John
+LOCATION:San Francisco
+PERSON:John
+PERSON:Martin
+PERSON:Martin
+PERSON:Martin
+ORGANIZATION:Epsilon
+MISC:Java
+PERSON:Andreas Øverland
+MISC:Java
+PERSON:Øverland
+ORGANIZATION:CSS
+MISC:Java
+ORGANIZATION:Intel Assembly
+MISC:Metric Ton
+PERSON:Fyodor Dostoevsky
+PERSON:Christopher Hitchens
+PERSON:Richard Dawkins
+PERSON:Aleksander
+ORGANIZATION:University of Agder
+ORGANIZATION:Carleton University
+LOCATION:Canada
+ORGANIZATION:Pattern Recognition and Textual Analysis
+PERSON:Aleksander
+LOCATION:Integrasco
+PERSON:Aleksander
+MISC:Java
+ORGANIZATION:Mysql
+PERSON:Jaran
+ORGANIZATION:Integrasco AS
+LOCATION:Integrasco
+MISC:Java
+MISC:Java
+PERSON:Tim Berglund
+ORGANIZATION:August Technology Group
+ORGANIZATION:JVM
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:IASA
+MISC:Denver Open Source User Group
+LOCATION:Denver
+LOCATION:Littleton
+LOCATION:CO
+PERSON:Guillaume Bort
+ORGANIZATION:CTO
+LOCATION:Zenexity
+PERSON:Nicolas Leroux
+LOCATION:Lunatech
+PERSON:Nicolas
+MISC:Java Enterprise
+ORGANIZATION:JBoss
+PERSON:Lunatech
+ORGANIZATION:Sdu Uitgevers
+MISC:Drools
+PERSON:Nicolas
+MISC:Java
+ORGANIZATION:Benelux JBoss User Group
+ORGANIZATION:Riviera Java User Group
+PERSON:Nicolas
+PERSON:Ivanov
+PERSON:Ivanov
+MISC:Java-based
+PERSON:Ivanov
+MISC:Java
+MISC:T-Systems GmbH
+PERSON:Ivanov
+ORGANIZATION:Adaptec
+ORGANIZATION:BEA Systems
+PERSON:Ivanov
+MISC:Java
+MISC:Java
+PERSON:Ivanov
+ORGANIZATION:Baltic State Technical University
+LOCATION:Saint Petersburg
+LOCATION:Russia
+PERSON:Josh Long
+PERSON:Josh
+ORGANIZATION:JCP
+ORGANIZATION:Infoq.com
+PERSON:Josh
+PERSON:Rickard
+ORGANIZATION:JBoss
+ORGANIZATION:AOP
+PERSON:Jayway
+PERSON:Randy Stafford
+ORGANIZATION:Oracle
+ORGANIZATION:SOA
+PERSON:Stafford
+ORGANIZATION:Rally Software
+ORGANIZATION:Sabre
+MISC:Smalltalk
+PERSON:O'Reilly
+PERSON:Martin Fowler
+PERSON:Floyd Marinescu
+ORGANIZATION:Society for Computer Simulation
+ORGANIZATION:International Council on Systems Engineering
+PERSON:Oredev
+PERSON:Stafford
+LOCATION:Denver
+LOCATION:Colorado
+PERSON:Alasdair Nottingham
+ORGANIZATION:IBM
+PERSON:Alasdair
+PERSON:Alasdair
+ORGANIZATION:JMS
+PERSON:Alasdair Nottingham
+LOCATION:UK
+LOCATION:London
+PERSON:Anders Norås
+ORGANIZATION:EJB
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+MISC:Java
+MISC:Java
+PERSON:Anders
+PERSON:Anders
+LOCATION:Norway
+PERSON:Objectware
+PERSON:Andres
+MISC:Java
+PERSON:Griffon
+PERSON:Andres
+PERSON:Mårten Haglind
+MISC:Senior Java
+MISC:Java Enterprise
+LOCATION:Gothenburg
+LOCATION:Sweden
+PERSON:Alexis Moussine-Pouchkine
+ORGANIZATION:Sun Microsystems
+PERSON:Alexis
+MISC:Java
+MISC:Java
+PERSON:Kresten Krab Thorup
+ORGANIZATION:CTO
+LOCATION:Trifork
+PERSON:Trifork CTO Kresten
+ORGANIZATION:JAOO
+PERSON:Kresten
+ORGANIZATION:Trifork
+MISC:CORBA ORB
+ORGANIZATION:Java RMI
+PERSON:Apache Yoko
+MISC:Java
+PERSON:Kresten
+ORGANIZATION:GCC
+MISC:GNU Compiled Java
+PERSON:Kresten
+ORGANIZATION:Apple
+MISC:Objective-C
+PERSON:Kresten
+MISC:Java
+PERSON:Kresten
+MISC:Erjang
+MISC:Java Virtual Machine
+PERSON:Sondre
+PERSON:Sondre
+ORGANIZATION:NTNU
+ORGANIZATION:NTNU
+ORGANIZATION:MIT Sloan
+ORGANIZATION:Innovation Consulting
+LOCATION:Inspera
+PERSON:Henning Spjelkavik
+LOCATION:Javazone
+PERSON:Smidig
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+MISC:No Fluff Just Stuff
+MISC:Git & Google App Engine RefCards
+ORGANIZATION:Denver Open Source Users Group
+ORGANIZATION:SOA
+PERSON:Matthew
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+PERSON:Olve Maudal
+PERSON:Olve
+ORGANIZATION:TANDBERG
+ORGANIZATION:Schlumberger
+LOCATION:Oslo
+MISC:JavaPils
+LOCATION:Cantara
+LOCATION:Oslo
+PERSON:Jon Jagger
+LOCATION:England
+ORGANIZATION:UML
+LOCATION:UK
+ORGANIZATION:ECMA
+LOCATION:Oslo
+LOCATION:Oslo
+PERSON:Knut
+ORGANIZATION:Google
+ORGANIZATION:Sincerial AS
+ORGANIZATION:Conceptos Consulting Trondheim
+PERSON:Knut
+PERSON:Kjetil Moløkken-Østvold
+ORGANIZATION:Conceptos Consulting
+ORGANIZATION:Simula Research Laboratory
+PERSON:Kjetil
+ORGANIZATION:University of Oslo
+PERSON:Jim Webber
+PERSON:Jim
+LOCATION:UK
+ORGANIZATION:Hewlett-Packard
+ORGANIZATION:Arjuna Technologies
+PERSON:Jim
+PERSON:Jim
+MISC:Web-based
+PERSON:Jim
+ORGANIZATION:University of Newcastle
+PERSON:Tyne
+PERSON:Mario
+ORGANIZATION:SOA
+LOCATION:Norway
+PERSON:Mario
+ORGANIZATION:Ciber
+ORGANIZATION:SOA
+ORGANIZATION:EAI
+ORGANIZATION:Ciber
+MISC:Java
+PERSON:Mario
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:SOA
+MISC:Java
+PERSON:Andreas
+PERSON:Ian Robinson
+PERSON:Ian
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+PERSON:O'Reilly
+PERSON:Jevgeni Kabanov
+ORGANIZATION:Webmedia , Ltd
+ORGANIZATION:Baltics
+ORGANIZATION:JVM
+PERSON:Jevgeni
+MISC:Java DSLs
+PERSON:Jevgeni
+LOCATION:Aranea
+LOCATION:Aranea
+PERSON:Jevgeni
+PERSON:Alex Snaps
+ORGANIZATION:Terracota Inc.
+MISC:Java
+LOCATION:Devoxx
+PERSON:Jazoon
+ORGANIZATION:JTA
+PERSON:Jeff Genender
+MISC:Java Champion
+MISC:Java Open Source
+ORGANIZATION:SOA
+PERSON:Apache Geronimo
+MISC:Enterprise Java Servlets
+PERSON:Geronimo
+PERSON:Mina
+MISC:Open Terracotta
+PERSON:Jeff
+MISC:JSR-316 Java EE6
+PERSON:Filip van Laenen
+ORGANIZATION:Computas AS
+LOCATION:Norway
+MISC:Java
+PERSON:Perl
+PERSON:Ruby
+MISC:Filip
+MISC:Electronics
+LOCATION:Flanders
+LOCATION:Norway
+LOCATION:Kolsås
+LOCATION:Oslo
+PERSON:Tom
+ORGANIZATION:CMMI
+ORGANIZATION:IBM
+PERSON:Tom
+LOCATION:UK
+LOCATION:Europe
+LOCATION:China
+LOCATION:India
+LOCATION:USA
+LOCATION:Korea
+PERSON:Tom
+ORGANIZATION:Citigroup
+ORGANIZATION:Credit Suisse
+ORGANIZATION:Boeing
+ORGANIZATION:HP
+ORGANIZATION:IBM
+ORGANIZATION:Philips Medical
+ORGANIZATION:Ericsson
+ORGANIZATION:Nokia
+ORGANIZATION:Siemens
+ORGANIZATION:Schlumberger
+ORGANIZATION:Sony
+ORGANIZATION:Qualcomm
+ORGANIZATION:Microsoft
+PERSON:Evo
+PERSON:Kai Gilb
+PERSON:Tom
+PERSON:Gojko Adzic
+MISC:Bridging the Communication Gap
+MISC:Internet
+PERSON:Anders
+LOCATION:Steria Norway
+MISC:Java
+PERSON:Anders
+PERSON:Johannes
+MISC:Java
+LOCATION:Steria Norway
+PERSON:Johannes
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+MISC:No Fluff Just Stuff
+MISC:Git & Google App Engine RefCards
+ORGANIZATION:Denver Open Source Users Group
+ORGANIZATION:SOA
+PERSON:Matthew
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+PERSON:Angelika Langer
+MISC:Java
+LOCATION:OOPLSA
+ORGANIZATION:JAX
+ORGANIZATION:ACCU
+MISC:Java
+MISC:Effective Java
+MISC:Java Generics FAQs
+ORGANIZATION:Lunatech Research
+PERSON:Peter
+MISC:Java
+PERSON:Peter
+PERSON:Nicolas Leroux
+LOCATION:Lunatech
+PERSON:Nicolas
+MISC:Java Enterprise
+PERSON:Lunatech
+ORGANIZATION:Lunatech
+PERSON:Nicolas
+MISC:Java
+ORGANIZATION:Benelux JBoss User Group
+ORGANIZATION:Riviera Java User Group
+PERSON:Nicolas
+PERSON:Johannes Brodwall
+LOCATION:Steria
+LOCATION:Oslo
+MISC:Smidig
+LOCATION:Oslo
+ORGANIZATION:SOA
+PERSON:Justin
+MISC:Java
+MISC:Web
+PERSON:Justin
+PERSON:Benjamin
+PERSON:Benjamin
+ORGANIZATION:International Coach Federation
+LOCATION:Capgemini Norway
+MISC:Java Enterprise
+PERSON:Angelika Langer
+MISC:Java
+LOCATION:OOPLSA
+ORGANIZATION:JAX
+ORGANIZATION:ACCU
+MISC:Java
+MISC:Effective Java
+MISC:Java Generics FAQs
+PERSON:Aslak Hellesøy
+LOCATION:DRW Trading
+LOCATION:London
+PERSON:Markus Krüger
+ORGANIZATION:EDB ErgoGroup AS
+PERSON:Markus
+PERSON:Trygve Lie
+ORGANIZATION:CSS
+PERSON:Escenic
+ORGANIZATION:Telenor
+ORGANIZATION:Danmarks Radio
+ORGANIZATION:De Telegraph
+PERSON:Pressen Nye Medier
+PERSON:Trygve
+PERSON:Framsia
+PERSON:Andreas Hegna
+ORGANIZATION:NTNU
+ORGANIZATION:Watchcom Security Group
+PERSON:Martijn Dashorst
+LOCATION:Netherlands
+MISC:Apache Wicket
+LOCATION:Devoxx
+MISC:TheServerSide Java Symposium
+LOCATION:Netherlands
+PERSON:Mattias
+MISC:Java User Group
+LOCATION:Stockholm
+LOCATION:Sweden
+PERSON:Mattias
+MISC:Java-focused
+LOCATION:Stockholm
+PERSON:Mattias
+MISC:Java/Groovy Developer
+PERSON:Hamlet D'Arcy
+MISC:Java
+MISC:Basel-based Hackergarten
+MISC:IDEA Groovy Plugin
+PERSON:Tor Magne Lindeberg
+ORGANIZATION:EDB ErgoGroup
+ORGANIZATION:NTNU
+ORGANIZATION:Giant Leap Technologies
+PERSON:Kevlin
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Java Report
+PERSON:Kevlin
+MISC:Pattern-Oriented Software Architecture
+PERSON:Daniel Spiewak
+LOCATION:Wisconsin
+LOCATION:USA
+MISC:Java
+PERSON:Scala
+PERSON:Clojure
+PERSON:Daniel
+LOCATION:Steria
+PERSON:Patrick Kua
+LOCATION:London
+LOCATION:London
+PERSON:Anders
+LOCATION:Steria Norway
+MISC:Java
+MISC:Open Source Application
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+ORGANIZATION:Denver Open Source Users Group
+MISC:No Fluff Just Stuff
+ORGANIZATION:SOA
+PERSON:Matthew
+ORGANIZATION:OSS
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+LOCATION:USA
+LOCATION:Colorado
+PERSON:Tim
+ORGANIZATION:August Technology Group
+ORGANIZATION:JVM
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:Denver Open Source User Group
+LOCATION:Littleton
+MISC:Java EE
+ORGANIZATION:IBM Austria
+LOCATION:Norway
+MISC:Do n't Repeat Yourself
+PERSON:Espen
+ORGANIZATION:Cisco Systems
+MISC:Java
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Bodil
+MISC:Java
+LOCATION:Steria
+LOCATION:Scandinavia
+MISC:Ruby on Rails
+PERSON:Mark Fisher
+ORGANIZATION:VMware
+PERSON:Mark
+LOCATION:North America
+LOCATION:Europe
+PERSON:Manning
+MISC:Java
+ORGANIZATION:Norge
+PERSON:Neal Ford
+PERSON:Adrian
+ORGANIZATION:VMware
+MISC:Java
+LOCATION:Opscode
+LOCATION:Cloudsoft
+PERSON:Adrian
+ORGANIZATION:Cloud Conscious LLC
+MISC:Java
+PERSON:Staffan Nöteberg
+LOCATION:Stockholm
+LOCATION:Istanbul
+PERSON:Staffan
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Neal Ford
+MISC:Open Source Application
+PERSON:Matthew McCullough
+ORGANIZATION:LLC
+LOCATION:Denver
+PERSON:Matthew
+ORGANIZATION:JCP
+PERSON:O'Reilly
+ORGANIZATION:Denver Open Source Users Group
+MISC:No Fluff Just Stuff
+ORGANIZATION:SOA
+PERSON:Matthew
+ORGANIZATION:OSS
+PERSON:Matthew
+LOCATION:Denver
+LOCATION:Colorado
+LOCATION:USA
+LOCATION:Colorado
+PERSON:James Ward
+MISC:Java
+PERSON:James
+MISC:Java
+PERSON:Bruce Eckel
+PERSON:James
+PERSON:Pascal
+ORGANIZATION:Assembly
+PERSON:James
+MISC:Java
+MISC:Flex
+MISC:Java
+ORGANIZATION:Pillar Data Systems
+PERSON:Jonas Bonér
+MISC:Java Champion
+LOCATION:Terracotta
+ORGANIZATION:JVM
+ORGANIZATION:BEA
+MISC:Open Source
+ORGANIZATION:AOP
+ORGANIZATION:JVM
+PERSON:Tony Printezis
+ORGANIZATION:Oracle
+LOCATION:Burlington
+MISC:Java HotSpot Virtual Machine
+MISC:Java
+MISC:BSc
+ORGANIZATION:University of Glasgow
+LOCATION:Scotland
+PERSON:Mike Keith
+ORGANIZATION:JPA
+ORGANIZATION:JPA
+MISC:Java Persistence API
+MISC:Java Persistence API
+ORGANIZATION:Oracle
+MISC:Java
+PERSON:Timothy Perrett
+LOCATION:UK
+PERSON:Timothy
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Oracle Corporation
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+ORGANIZATION:Oracle
+PERSON:Paul King
+LOCATION:ASERT
+LOCATION:Brisbane
+LOCATION:Australia
+PERSON:Paul
+PERSON:Manning
+PERSON:Joonas Lehtinen
+LOCATION:Vaadin
+MISC:Java-based
+PERSON:Joonas
+ORGANIZATION:Ajax
+MISC:Java
+MISC:Domain Driven Design
+PERSON:Eric Evans
+PERSON:Brendan McAdams
+MISC:Java Virtual Machine
+MISC:Java
+PERSON:Scala
+PERSON:Python
+PERSON:Thomas Enebo
+MISC:Java
+PERSON:Thomas
+PERSON:Tom
+MISC:Java Virtual Machine
+PERSON:Tom
+PERSON:Daniel Spiewak
+LOCATION:Wisconsin
+LOCATION:USA
+MISC:Java
+PERSON:Scala
+PERSON:Clojure
+PERSON:Daniel
+PERSON:Arktekk Kaare Nilsen
+PERSON:Kaare
+PERSON:Aslak Hellesøy
+PERSON:Victor Grazi
+ORGANIZATION:Credit Suisse Client Technology Services/HOLT
+MISC:Java Concurrent Animated
+MISC:Java
+MISC:Java
+PERSON:Carl Quinn
+ORGANIZATION:DOS
+MISC:Windows
+MISC:Java on Linux
+ORGANIZATION:Borland
+MISC:C++ & Java IDEs
+MISC:Java RAD
+ORGANIZATION:Google
+MISC:Java & C++
+ORGANIZATION:Netflix
+MISC:Java
+PERSON:Carl
+MISC:Java Posse
+MISC:Java
+PERSON:John
+ORGANIZATION:BNP Paribas
+MISC:Global Head or Technical Architecture
+ORGANIZATION:JP Morgan
+PERSON:John
+ORGANIZATION:Iona Technologies
+PERSON:John
+PERSON:John
+ORGANIZATION:Visa Inc.
+LOCATION:San Francisco
+PERSON:John
+PERSON:Gojko Adzic
+PERSON:Gojko
+ORGANIZATION:Neuri Ltd
+LOCATION:UK
+PERSON:Danny Coward
+ORGANIZATION:Oracle
+MISC:Java
+MISC:Java SE , Java
+MISC:Java EE
+MISC:JavaFX
+ORGANIZATION:Executive Committee
+ORGANIZATION:University of Oxford
+MISC:Java Posse
+MISC:Java Posse
+PERSON:Kent Beck
+PERSON:Ward Cunningham
+PERSON:Erich Gamma
+ORGANIZATION:Iterate AB
+PERSON:Johannes Brodwall
+LOCATION:Steria
+LOCATION:Oslo
+LOCATION:Oslo
+LOCATION:Norway
+PERSON:Josh Long
+MISC:Java
+PERSON:Apress
+PERSON:Josh
+MISC:TheServerSide Java Symposium
+PERSON:Geecon
+LOCATION:OSCON
+LOCATION:Devoxx
+MISC:Java User Groups
+MISC:Java User Group
+PERSON:Josh
+PERSON:Aslak Knutsen
+ORGANIZATION:JBoss Seam
+ORGANIZATION:Red Hat , Inc.
+MISC:Arquillian
+PERSON:Weld
+PERSON:Aslak
+ORGANIZATION:JBoss
+MISC:Java
+ORGANIZATION:O'Reilly Media
+ORGANIZATION:JBoss
+PERSON:Ivar Rummelhoff
+ORGANIZATION:Computas AS
+MISC:Java
+PERSON:Ken Sipe
+ORGANIZATION:CTO of Gradleware , Inc.
+PERSON:Hans Dockter
+PERSON:Adam Murdoch
+PERSON:Ken
+PERSON:Ken
+PERSON:Ken
+PERSON:Ken
+PERSON:Ken
+PERSON:Jax-India
+ORGANIZATION:NFJS
+PERSON:Ken
+LOCATION:California
+MISC:JavaZone Award
+LOCATION:Oslo
+LOCATION:Norway
+PERSON:Eugene Ciurana
+ORGANIZATION:Badoo.com
+PERSON:Eugene
+LOCATION:US
+LOCATION:Japan
+LOCATION:Mexico
+LOCATION:Europe
+PERSON:Eugene
+PERSON:Tim
+ORGANIZATION:August Technology Group
+ORGANIZATION:JVM
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:Denver Open Source User Group
+LOCATION:Littleton
+LOCATION:Germany
+MISC:Java
+MISC:Web
+PERSON:Mario
+ORGANIZATION:Ciber Norway
+PERSON:Mario
+ORGANIZATION:IAM
+PERSON:Mario
+PERSON:Mario
+ORGANIZATION:SOA
+PERSON:Claus Ibsen
+ORGANIZATION:Camel
+LOCATION:Camel
+PERSON:Claus
+PERSON:Costin
+ORGANIZATION:VMware
+PERSON:Costin
+MISC:Spring-inspired
+LOCATION:Javapolis
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Ola Ellnestam
+PERSON:Daniel Brolund
+PERSON:Ken Sipe
+ORGANIZATION:Perficient , Inc.
+ORGANIZATION:CodeMentor , Inc.
+PERSON:Ken
+ORGANIZATION:NFJS
+MISC:Opinionated Sun Java Champion
+LOCATION:IASA Norway
+PERSON:Cantara
+ORGANIZATION:Advisory Board
+ORGANIZATION:Microsoft
+PERSON:Smidig
+ORGANIZATION:CTO
+PERSON:Dick Wall
+MISC:Java
+ORGANIZATION:Locus Development
+PERSON:Dick
+PERSON:Bill Venners
+MISC:Java Posse
+PERSON:Costin
+ORGANIZATION:VMware
+PERSON:Costin
+MISC:Spring-inspired
+LOCATION:Javapolis
+PERSON:Chris Richardson
+MISC:Java Champion
+MISC:Java
+PERSON:Chris
+ORGANIZATION:University of Cambridge
+LOCATION:England
+LOCATION:Oakland
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Oracle Corporation
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+ORGANIZATION:Oracle
+PERSON:Christian Johansen
+ORGANIZATION:CSS
+PERSON:Jonas Bonér
+MISC:Java Champion
+ORGANIZATION:CTO
+MISC:Open Source
+ORGANIZATION:AOP
+ORGANIZATION:JVM
+PERSON:Johannes Brodwall
+MISC:Java
+LOCATION:Steria Norway
+ORGANIZATION:JBoss
+ORGANIZATION:Red Hat , Inc.
+MISC:Arquillian
+PERSON:Weld
+ORGANIZATION:Seam
+ORGANIZATION:JBoss
+PERSON:Bartosz Majsak
+ORGANIZATION:Cambridge Technology Partners
+LOCATION:Zurich
+ORGANIZATION:JBoss Arquillian
+MISC:Spock Test Runner
+MISC:Arquillian
+PERSON:Costin Leau
+ORGANIZATION:VMware
+PERSON:Costin
+MISC:Spring-inspired
+LOCATION:TSSJS
+ORGANIZATION:TSE
+PERSON:Dalibor Topi
+LOCATION:Hamburg
+LOCATION:Germany
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Java
+PERSON:Olivier Gaudin
+ORGANIZATION:SonarSource
+PERSON:Olivier
+LOCATION:London
+PERSON:Olivier
+PERSON:Olivier
+PERSON:Simon Brandhof
+PERSON:Freddy Mallet
+MISC:Sonar
+PERSON:Don Syme
+ORGANIZATION:Microsoft Research
+LOCATION:Cambridge
+PERSON:Matt
+ORGANIZATION:IBM
+ORGANIZATION:IBM JVM
+ORGANIZATION:IBM JVM
+ORGANIZATION:IBM
+ORGANIZATION:IBM
+PERSON:Brian McCallister
+ORGANIZATION:Ning
+MISC:Internet
+PERSON:Brian
+ORGANIZATION:Apache Software Foundation
+MISC:HTTPD Web Server
+MISC:Java
+PERSON:Brian
+PERSON:Odin
+MISC:Java
+MISC:Java
+PERSON:Tommy Skodje
+ORGANIZATION:Antares Gruppen AS
+MISC:Java
+PERSON:Bjorn Boe
+LOCATION:Oralce
+PERSON:John Davies
+ORGANIZATION:CTO
+ORGANIZATION:JPMorgan
+ORGANIZATION:BNP Paribas
+ORGANIZATION:Iona
+ORGANIZATION:Iona
+ORGANIZATION:Progress Software
+PERSON:John
+MISC:Java
+PERSON:Andrey
+MISC:Java
+MISC:Java Community Process
+LOCATION:Devoxx
+LOCATION:OSCON
+PERSON:Jfokus
+LOCATION:Kotlin
+PERSON:Johannes Brodwall
+MISC:Java
+LOCATION:Steria Norway
+PERSON:Kevlin
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Java Report
+PERSON:Kevlin
+MISC:Pattern-Oriented Software Architecture
+PERSON:Kari
+ORGANIZATION:Itera Consulting
+PERSON:Peter Norrhall
+LOCATION:Extenda
+PERSON:Peter
+MISC:Nordic
+LOCATION:Europe
+LOCATION:US
+LOCATION:Canada
+MISC:Java
+PERSON:Reidar Sollid
+ORGANIZATION:Telecom
+ORGANIZATION:Ericsson
+ORGANIZATION:Nera Networks
+ORGANIZATION:Cisco Telepresence
+PERSON:Reidar
+LOCATION:Baksia
+LOCATION:Baksia
+PERSON:Lars Marius
+LOCATION:Bouvet
+ORGANIZATION:CTO
+LOCATION:Ontopia
+ORGANIZATION:Topic Maps ISO
+PERSON:Python
+ORGANIZATION:Unicode
+PERSON:Karianne
+ORGANIZATION:University of Bergen
+LOCATION:Norway
+LOCATION:Bergen
+PERSON:Miles
+PERSON:Karianne
+LOCATION:Bergen
+MISC:Smidig
+LOCATION:Oslo
+LOCATION:Oslo
+PERSON:Karianne
+ORGANIZATION:NDC
+PERSON:Bodil
+LOCATION:Eniro
+LOCATION:Scandinavia
+LOCATION:Oslo
+LOCATION:Norway
+PERSON:Tim
+MISC:No Fluff Just Stuff
+LOCATION:United States
+PERSON:Cassandra
+ORGANIZATION:Denver Open Source User Group
+MISC:O'Reilly Git Master Class
+PERSON:Gradle
+ORGANIZATION:O'Reilly Expert Network
+ORGANIZATION:GigOM Pro Analyst Network
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+MISC:Java
+MISC:Java
+MISC:Java
+PERSON:Angelika Langer
+MISC:Java
+MISC:`` Effective Java
+MISC:Java Generics FAQ
+MISC:Java
+LOCATION:OOPLSA
+ORGANIZATION:SDC
+MISC:Java
+MISC:Java
+PERSON:Karsten Lentzsch
+MISC:Java
+MISC:Java
+PERSON:Karsten
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Java UI
+MISC:Java
+PERSON:Phil
+MISC:Guardian
+PERSON:Phil
+PERSON:Anton
+MISC:Java
+PERSON:Anton
+MISC:Java
+LOCATION:Moscow
+PERSON:Johan
+ORGANIZATION:Capgemini
+LOCATION:Comoyo
+ORGANIZATION:Telenor
+ORGANIZATION:Telenor -LRB- Norge
+MISC:Nordic
+ORGANIZATION:University of Oslo
+PERSON:Henrik Edberg
+ORGANIZATION:Netlight Consulting
+LOCATION:Oslo
+ORGANIZATION:BEA
+PERSON:Christian Kreutzfeldt
+ORGANIZATION:Otto Group
+LOCATION:Hamburg
+LOCATION:Germany
+PERSON:Markus Krüger
+LOCATION:Comoyo
+ORGANIZATION:JavaZone
+PERSON:Ian Robinson
+ORGANIZATION:Neo Technology
+PERSON:O'Reilly
+PERSON:Springer
+PERSON:Kevlin
+LOCATION:UK
+ORGANIZATION:Better Software
+MISC:Java Report
+PERSON:Kevlin
+MISC:Pattern-Oriented Software Architecture
+PERSON:Filip van Laenen
+ORGANIZATION:Computas
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Thierry
+ORGANIZATION:Polytech ` Montpellier
+ORGANIZATION:Restlet SAS
+ORGANIZATION:Noelios Technologies
+PERSON:Thierry
+ORGANIZATION:Telenor
+ORGANIZATION:Storebrand
+ORGANIZATION:Simula Research Laboratory and University of Oslo
+LOCATION:Scienta
+MISC:Katrina
+LOCATION:Telenor Norway
+LOCATION:Telenor Norway
+PERSON:Sebastian
+PERSON:Jamie Allen
+PERSON:Jevgeni Kabanov
+ORGANIZATION:JVM
+LOCATION:TSSJS
+PERSON:Jevgeni
+MISC:Java
+LOCATION:Estonia
+MISC:Java DSLs.Jevgeni
+ORGANIZATION:JSR
+LOCATION:Aranea
+PERSON:Jevgeni
+PERSON:Margaretha Miles
+ORGANIZATION:Steria AS
+MISC:Java-developer
+PERSON:Trygve Reenskaug
+ORGANIZATION:University of Oslo
+PERSON:Trygve
+PERSON:Peter
+MISC:Java
+PERSON:Glen Smith
+MISC:Java
+ORGANIZATION:VMware
+ORGANIZATION:DataStax
+PERSON:Cassandra
+MISC:Enterprise Java
+MISC:Java User Groups
+PERSON:Claudio Russo
+ORGANIZATION:Programming Principles and Tools Group
+ORGANIZATION:Microsoft Research
+LOCATION:Cambridge
+LOCATION:UK
+ORGANIZATION:University of Edinburgh
+PERSON:Ludovic
+MISC:Ehcache
+PERSON:Alex Snaps
+ORGANIZATION:Terracota Inc
+MISC:Java
+LOCATION:Devoxx
+PERSON:Jazoon
+PERSON:James Ward
+LOCATION:Heroku
+MISC:Java
+ORGANIZATION:Scala
+PERSON:Paul King
+LOCATION:ASERT
+LOCATION:Brisbane
+LOCATION:Australia
+PERSON:Paul
+PERSON:Manning
+PERSON:Ken
+PERSON:Ken
+PERSON:Ken
+PERSON:Ken
+PERSON:Jax-India
+ORGANIZATION:NFJS
+PERSON:Ken
+LOCATION:California
+MISC:JavaZone Award
+LOCATION:Oslo
+LOCATION:Norway
+ORGANIZATION:IBM
+ORGANIZATION:British Computer Society
+PERSON:Kai Gilb
+PERSON:Tom
+PERSON:Evo
+PERSON:Dan Diephouse
+ORGANIZATION:MuleSoft
+MISC:Apache CXF
+PERSON:Tcat
+MISC:Tomcat
+PERSON:Anders Norås
+ORGANIZATION:EJB
+ORGANIZATION:Microsoft
+ORGANIZATION:Microsoft
+MISC:Java
+MISC:Java
+PERSON:Josh Long
+PERSON:Josh
+PERSON:Josh
+PERSON:Oleg
+PERSON:Oleg
+MISC:Java
+ORGANIZATION:Law Enforcement
+ORGANIZATION:US DOD
+PERSON:Tim
+ORGANIZATION:August Technology Group
+MISC:Java
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:Denver Open Source User Group
+MISC:O'Reilly Git Master Class
+PERSON:Gradle
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+ORGANIZATION:Google
+PERSON:Roy
+PERSON:Masoud
+ORGANIZATION:ORACLE
+ORGANIZATION:Information Systems
+PERSON:Masoud
+PERSON:Markus
+LOCATION:Germany
+PERSON:Markus
+PERSON:Markus
+PERSON:Markus
+MISC:Java
+MISC:Java
+MISC:Web-related
+PERSON:Markus
+PERSON:Darren Hague
+MISC:Java
+ORGANIZATION:SAP
+ORGANIZATION:SAP
+ORGANIZATION:SAP ID Service
+ORGANIZATION:SAP
+MISC:Community
+LOCATION:London
+ORGANIZATION:SAP Press
+PERSON:Brendan
+MISC:Java
+ORGANIZATION:JVM
+PERSON:Brendan
+MISC:Python-based Beaker
+PERSON:Brendan
+LOCATION:Hammersmith
+PERSON:Jan Høydahl
+ORGANIZATION:PMC
+LOCATION:Oslo
+LOCATION:Norway
+ORGANIZATION:Cominvent AS
+ORGANIZATION:Oslo Solr Community MeetUp
+LOCATION:Nice mountains
+PERSON:Stéphane
+MISC:Java
+PERSON:Perl
+ORGANIZATION:Nice Technical University
+ORGANIZATION:Polytech
+LOCATION:Mars
+LOCATION:Paris
+ORGANIZATION:Riviera Java User Group
+PERSON:Nicolas Leroux
+ORGANIZATION:Ceylon
+MISC:Ruboto
+ORGANIZATION:Datek Wireless AS
+LOCATION:Norway
+MISC:Java
+PERSON:Robert
+ORGANIZATION:Roxar Software Solutions
+PERSON:Robert
+PERSON:Python
+PERSON:Gojko Adzic
+PERSON:Gojko
+MISC:Communication Gap
+MISC:Java
+PERSON:Tim
+MISC:No Fluff Just Stuff
+LOCATION:United States
+PERSON:Cassandra
+ORGANIZATION:Denver Open Source User Group
+MISC:O'Reilly Git Master Class
+PERSON:Gradle
+ORGANIZATION:O'Reilly Expert Network
+ORGANIZATION:GigOM Pro Analyst Network
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+PERSON:Joachim
+ORGANIZATION:Haagen Software AS
+ORGANIZATION:Queensland University of Technology
+LOCATION:Brisbane
+LOCATION:Australia
+LOCATION:Norway
+LOCATION:Statens Pensjonskasse
+PERSON:Thomas Flemming
+ORGANIZATION:Mesan AS
+MISC:Java
+LOCATION:Norway
+ORGANIZATION:Mogul Media
+PERSON:Thomas
+ORGANIZATION:University of Oslo
+LOCATION:Oslo
+PERSON:Carlos Sanchez
+MISC:Open Source
+ORGANIZATION:Apache Software Foundation
+ORGANIZATION:MaestroDev
+LOCATION:Spain
+PERSON:Marcus Ahnve
+LOCATION:Valtech
+PERSON:Marcus
+ORGANIZATION:Agila Sverige
+LOCATION:Stockholm
+PERSON:Angelika Langer
+MISC:Java
+LOCATION:OOPLSA
+ORGANIZATION:JAX
+ORGANIZATION:ACCU
+MISC:Java
+MISC:Effective Java
+MISC:Java Generics FAQs
+PERSON:James Stewart
+LOCATION:London
+ORGANIZATION:Government Digital Service
+LOCATION:UK
+PERSON:Jon Are Rakvåg
+ORGANIZATION:Selmer Institute for Secure and Reliable Communication
+ORGANIZATION:University of Bergen
+ORGANIZATION:Capgemini Norge
+MISC:norwegian Open Web Application Security Project
+PERSON:Eirik
+LOCATION:Kantega
+PERSON:Eirik
+PERSON:Eirik
+PERSON:Smidig
+MISC:Java Posse Rounup
+PERSON:Glenn Bech
+MISC:Inmeta Consulting Java
+MISC:Java
+PERSON:Glenn
+MISC:Android
+MISC:Android
+PERSON:Glenn
+LOCATION:Baksia
+PERSON:Chris Richardson
+MISC:Java Champion
+MISC:Java
+PERSON:Chris
+ORGANIZATION:University of Cambridge
+LOCATION:England
+LOCATION:Oakland
+PERSON:Ellen
+LOCATION:Knowit
+LOCATION:Oslo
+LOCATION:Hackeriet
+LOCATION:Oslo
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+MISC:Java
+MISC:Java
+LOCATION:Indonesia
+PERSON:Tim
+MISC:No Fluff Just Stuff
+LOCATION:United States
+MISC:O'Reilly Git Master Class
+PERSON:Gradle
+MISC:GigOM Pro Network
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+PERSON:Shai
+ORGANIZATION:Sun Microsystems
+PERSON:Shai
+MISC:DoCoMo Java Phone
+PERSON:Seth
+ORGANIZATION:Developer Advocate for Google
+PERSON:Mark Addy
+LOCATION:UK
+PERSON:Mark
+LOCATION:JUDCon Boston
+ORGANIZATION:London JBoss User Group
+PERSON:Jonas Bonér
+MISC:Java Champion
+ORGANIZATION:CTO
+MISC:Open Source
+ORGANIZATION:Akka Project
+ORGANIZATION:AspectWerkz AOP
+PERSON:Eirik Berg Maus
+ORGANIZATION:Nets
+LOCATION:Javazone
+PERSON:Tim
+MISC:No Fluff Just Stuff
+LOCATION:United States
+ORGANIZATION:Denver Open Source User Group
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+PERSON:Christin
+LOCATION:Drammen
+LOCATION:Husbanken
+PERSON:Stefan
+PERSON:David
+LOCATION:Axiomatics
+ORGANIZATION:British Telecom
+LOCATION:United Kingdom
+ORGANIZATION:Security Architectures Center
+ORGANIZATION:SOA
+PERSON:David
+ORGANIZATION:SOA
+PERSON:David
+ORGANIZATION:XACML Technical Committee
+ORGANIZATION:Trust Elevation Committee
+PERSON:David
+MISC:JSON-based
+PERSON:David
+ORGANIZATION:National Institute of Applied Sciences
+ORGANIZATION:INSA Lyon
+MISC:Sun Certified
+LOCATION:SCEA
+PERSON:Peter Norrhall
+LOCATION:Extenda
+PERSON:Peter
+PERSON:Stuart Sierra
+ORGANIZATION:Relevance , Inc.
+PERSON:O'Reilly
+PERSON:Hadoop
+PERSON:Heinz Kabutz
+MISC:Java Specialists Newsletter
+MISC:Java
+MISC:Java
+MISC:Java
+PERSON:Ken Sipe
+LOCATION:Trexin
+ORGANIZATION:CodeMentor , Inc.
+PERSON:Ken
+ORGANIZATION:NFJS
+PERSON:Gerrit
+MISC:Java
+MISC:Java
+MISC:Java User Group
+LOCATION:Germany
+MISC:JavaFX
+PERSON:Jaromir Hamala
+ORGANIZATION:C2B2 Consulting Ltd.
+MISC:Java
+PERSON:Jaromir
+ORGANIZATION:JVM
+ORGANIZATION:Liferay Conference Prague
+ORGANIZATION:JBoss User Group London
+PERSON:Alf Thomas
+MISC:Java
+PERSON:Trisha
+MISC:Java
+MISC:Java
+PERSON:Trisha
+LOCATION:London
+ORGANIZATION:Graduate Development Community
+ORGANIZATION:CTO
+LOCATION:Norway
+LOCATION:Europa
+LOCATION:Norway
+PERSON:Uwe Friedrichsen
+ORGANIZATION:CTO
+PERSON:Eirik
+LOCATION:Kantega
+PERSON:Eirik
+PERSON:Eirik
+PERSON:Smidig
+MISC:Java Posse Rounup
+PERSON:Yves
+PERSON:Yves
+MISC:Varnish Cache
+MISC:Java
+LOCATION:Oslo
+PERSON:Ernst Riemer
+ORGANIZATION:Xtreme Labs
+ORGANIZATION:Ernst
+MISC:Java
+MISC:Java
+PERSON:Johannes
+LOCATION:Oslo
+LOCATION:Sri Lanka
+ORGANIZATION:Exilesoft
+LOCATION:Oslo
+LOCATION:Sri Lanka
+LOCATION:Norway
+PERSON:Roy Fernando
+LOCATION:Exilesoft
+LOCATION:Sri Lanka
+MISC:Java
+LOCATION:Norway
+PERSON:Ken Sipe
+LOCATION:Trexin
+ORGANIZATION:CodeMentor , Inc.
+PERSON:Ken
+ORGANIZATION:NFJS
+ORGANIZATION:Maven PMC
+PERSON:Ulf Lilleengen
+PERSON:Robert
+LOCATION:Python
+PERSON:Haskell
+PERSON:Python
+PERSON:Robert
+PERSON:Robert
+ORGANIZATION:Sixty North
+LOCATION:Europe
+LOCATION:Norway
+PERSON:Jan Kronquist
+LOCATION:Jayway
+MISC:Java
+PERSON:Clojure
+ORGANIZATION:PowerMock
+MISC:Nilanjan
+MISC:Java
+PERSON:Johannes
+LOCATION:Oslo
+LOCATION:Sri Lanka
+ORGANIZATION:Exilesoft
+LOCATION:Oslo
+LOCATION:Sri Lanka
+LOCATION:Norway
+PERSON:Ivar
+PERSON:Ivar
+PERSON:Peter af Geijerstam
+PERSON:Peter
+PERSON:Peter
+PERSON:Bodil
+LOCATION:Oslo
+LOCATION:Norway
+MISC:Free Software
+MISC:Clojure
+LOCATION:Hulu
+MISC:non-Americans
+PERSON:Johan Haleby
+PERSON:Brian McCallister
+PERSON:Groupon
+ORGANIZATION:CTO
+PERSON:Groupon
+PERSON:Ning
+PERSON:Ning
+ORGANIZATION:Apache Software Foundation
+PERSON:Brian
+ORGANIZATION:ASF
+ORGANIZATION:Cassandra
+PERSON:Brian
+PERSON:Brian
+MISC:English
+ORGANIZATION:Bucknell University
+PERSON:Sven Peters
+MISC:Atlassian
+MISC:Java
+PERSON:Sven
+PERSON:Darren Hague
+MISC:Java
+ORGANIZATION:SAP
+ORGANIZATION:SAP
+ORGANIZATION:SAP ID Service
+MISC:Java
+ORGANIZATION:SAP
+LOCATION:London
+ORGANIZATION:SAP Press
+PERSON:Erling
+MISC:CFO
+PERSON:Alain Defrance
+ORGANIZATION:BitTitan Inc.
+PERSON:Alain
+PERSON:Chromattic
+PERSON:Julien Viet
+PERSON:Julien
+PERSON:Julien
+ORGANIZATION:JBoss
+PERSON:Julien
+ORGANIZATION:JBoss , Inc.
+PERSON:Julien
+MISC:Chromattic
+MISC:Java Content Repository
+MISC:Java
+MISC:Java Technology API
+LOCATION:Portlet Bridge
+MISC:JavaServer Faces
+PERSON:Julien
+ORGANIZATION:Institut National
+PERSON:Henrik Olsson
+ORGANIZATION:SmartBear Software
+LOCATION:Kodemaker
+MISC:Java
+PERSON:Jon-Anders Teigen
+LOCATION:Oslo
+PERSON:ScalaBin
+LOCATION:Oslo
+LOCATION:Oslo
+ORGANIZATION:SAP
+PERSON:Mario
+PERSON:Mario
+PERSON:Mario
+PERSON:Mario
+ORGANIZATION:SOA
+PERSON:Mario
+LOCATION:Oslo
+PERSON:Tommy Bø
+ORGANIZATION:Visma Consulting
+MISC:Java
+PERSON:Mario
+MISC:Java
+MISC:Java DSL
+MISC:Java
+PERSON:Gavin King
+ORGANIZATION:Ceylon
+PERSON:Gavin
+MISC:Java
+MISC:Java
+ORGANIZATION:JBoss
+ORGANIZATION:EJB
+ORGANIZATION:JPA
+ORGANIZATION:CDI
+PERSON:Gavin
+ORGANIZATION:Ceylon
+ORGANIZATION:SDK
+MISC:Java
+MISC:Smalltalk
+PERSON:Python
+ORGANIZATION:Evry ASA
+LOCATION:EVRY
+MISC:Started Java
+MISC:Java
+PERSON:Nick Zeeb
+MISC:Java
+ORGANIZATION:LMAX Exchange
+LOCATION:London
+ORGANIZATION:LMAX
+PERSON:Nick
+PERSON:Oleg
+PERSON:Hortonworks
+PERSON:Hortonworls Oleg
+PERSON:Oleg
+MISC:Java
+ORGANIZATION:Teleco
+ORGANIZATION:Law Enforcement
+ORGANIZATION:US DOD
+PERSON:Oleg
+LOCATION:Java Zone
+PERSON:Jazoon
+LOCATION:Uberconf
+PERSON:Kevlin
+LOCATION:UK
+MISC:Pattern-Oriented Software Architecture
+PERSON:Ed Burns
+ORGANIZATION:Sun Microsystems , Inc.
+ORGANIZATION:JavaServer Faces Technology
+MISC:Java Community Process
+PERSON:Chris Schalk
+ORGANIZATION:JavaServer Faces
+PERSON:Ed
+MISC:NCSA Mosaic
+ORGANIZATION:Mozilla
+MISC:Sun Java Plug-in
+LOCATION:Jakarta Tomcat
+MISC:Web
+MISC:Irix
+ORGANIZATION:Silicon Graphics
+PERSON:Ed
+MISC:W-JAX
+LOCATION:Munich
+LOCATION:Germany
+LOCATION:Sao Paulo
+LOCATION:Brazil
+LOCATION:Vienna
+LOCATION:Austria
+ORGANIZATION:DOAG Conference
+LOCATION:Nuremberg
+LOCATION:Germany
+MISC:Java User Group
+MISC:No Fluff Just Stuff Java Symposium
+ORGANIZATION:Scient
+ORGANIZATION:University of Oslo
+LOCATION:Comoyo
+LOCATION:Ireland
+ORGANIZATION:University
+LOCATION:Ireland
+ORGANIZATION:PLC
+ORGANIZATION:Liberty Mutual
+MISC:Java
+MISC:Struts
+MISC:Girlfriend
+LOCATION:Norway
+ORGANIZATION:Statkraft
+PERSON:Arduino
+PERSON:Fredrik
+MISC:Java
+MISC:Java
+LOCATION:Clojure
+PERSON:Ivar Grimstad
+MISC:Enterprise Java
+MISC:Java
+PERSON:Ivar
+MISC:Java Community
+PERSON:Ivar
+ORGANIZATION:Nordics
+PERSON:Jonathan
+ORGANIZATION:Apache Cassandra
+ORGANIZATION:Reed-Solomon
+PERSON:Mozy
+PERSON:Tom Johannes Bang
+MISC:Lean
+PERSON:Tom
+LOCATION:Norway
+PERSON:Calia
+PERSON:Serrano
+PERSON:Bodega
+PERSON:Tom
+PERSON:Kim
+ORGANIZATION:Bekk Consulting
+LOCATION:Oslo
+LOCATION:Norway
+PERSON:Kim
+LOCATION:Norway
+PERSON:Joachim
+ORGANIZATION:Manning Publications
+ORGANIZATION:Haagen Software AS
+PERSON:Joachim
+MISC:European Ember.js
+PERSON:Matthew McCullough
+ORGANIZATION:GitHub , Inc.
+MISC:Git
+PERSON:O'Reilly
+PERSON:Manning
+PERSON:Martin Skarsaune
+LOCATION:Kantega
+MISC:Java
+MISC:Java
+ORGANIZATION:Bekk Trondheim
+MISC:Java
+PERSON:Veripacks
+PERSON:SoftwareMill Bootstrap
+PERSON:James Lewis
+LOCATION:UK
+ORGANIZATION:ThoughtWorks Technical Advisory Board
+PERSON:James
+PERSON:Axel Fontaine
+LOCATION:Munich
+MISC:Java
+PERSON:Ali
+PERSON:Soundrop
+ORGANIZATION:CTO
+PERSON:Soundrop
+MISC:Erlang-based
+PERSON:Soundrop
+PERSON:Ali
+ORGANIZATION:Cisco
+ORGANIZATION:TANDBERG
+PERSON:Erlang
+PERSON:Ali
+LOCATION:Vala
+PERSON:Ali
+ORGANIZATION:INSA Rennes
+LOCATION:Bombay
+ORGANIZATION:INSA Lyon
+MISC:English
+MISC:Arabic
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Nate
+PERSON:Neal Ford
+PERSON:Matthew McCullough
+PERSON:Ian Robinson
+MISC:Neo4j
+ORGANIZATION:Neo Technology
+MISC:` Graph Databases
+PERSON:Springer
+PERSON:Jeremy Deane
+PERSON:Hadi Hariri
+PERSON:Hadi
+LOCATION:Spain
+MISC:Java
+PERSON:Python
+PERSON:Adrian
+ORGANIZATION:Netflix
+PERSON:Klang
+LOCATION:Typesafe
+PERSON:Doug Lea
+PERSON:Walter Sobchak
+PERSON:Daniel Spiewak
+PERSON:Mads Enevoldsen
+PERSON:John Fallows
+ORGANIZATION:CTO
+LOCATION:Kaazing
+PERSON:John
+PERSON:Jonas Jacobi
+LOCATION:Kaazing
+PERSON:Brian Sletten
+PERSON:William
+PERSON:Mary
+LOCATION:Auburn
+MISC:Semantic Web
+MISC:Pop Recording
+PERSON:Heath Kesler
+MISC:Java
+ORGANIZATION:Health Language
+ORGANIZATION:LeapFrog Enterprises
+ORGANIZATION:Verizon
+ORGANIZATION:Comcast
+ORGANIZATION:IBM
+PERSON:Heath
+PERSON:Heath
+PERSON:Heath
+PERSON:Karaf
+PERSON:Leif Einar Aune
+LOCATION:Comoyo
+PERSON:Markus Krüger
+LOCATION:Comoyo
+ORGANIZATION:JavaZone
+PERSON:Sven Peters
+MISC:Atlassian
+MISC:Java
+PERSON:Sven
+MISC:Java
+ORGANIZATION:Simen
+ORGANIZATION:Simen
+ORGANIZATION:Organizational Analysis
+ORGANIZATION:Data Analysis
+PERSON:Aksel
+LOCATION:Kjernejournal
+PERSON:Aksel
+PERSON:Thomas Oldervoll
+MISC:Java
+LOCATION:Oslo
+ORGANIZATION:Google
+LOCATION:Mountain View
+ORGANIZATION:Google
+PERSON:Konrad
+LOCATION:Typesafe
+LOCATION:Kraków
+PERSON:Rustam Mehmandarov
+ORGANIZATION:University of Oslo
+MISC:Java
+PERSON:Fredrik
+MISC:Java
+LOCATION:Clojure
+PERSON:Johannes Brodwall
+LOCATION:Norway
+LOCATION:Sri Lanka
+PERSON:Martin
+LOCATION:Kantega AS
+PERSON:Axel Fontaine
+LOCATION:Munich
+MISC:Java
+MISC:Java
+PERSON:Austin
+ORGANIZATION:Sixty North
+LOCATION:Texas
+PERSON:Austin
+LOCATION:Stavanger
+LOCATION:Norway
+PERSON:Python
+ORGANIZATION:National Instruments
+ORGANIZATION:Applied Research Labs
+LOCATION:Texas
+LOCATION:Austin
+ORGANIZATION:U.S. Navy
+PERSON:Austin
+PERSON:Python
+MISC:Emacs
+ORGANIZATION:Stavanger Software Developers
+LOCATION:Stavanger
+PERSON:Austin
+ORGANIZATION:University of Texas at Austin
+PERSON:Simon
+MISC:Developer Advocate
+MISC:London Java Community
+PERSON:Simon
+MISC:Java
+MISC:Java Champion
+PERSON:Simon
+ORGANIZATION:IBM
+ORGANIZATION:IBM
+ORGANIZATION:JDC
+PERSON:Bengt
+ORGANIZATION:Oracle
+ORGANIZATION:JVM
+ORGANIZATION:JVM
+ORGANIZATION:BEA
+ORGANIZATION:OSS
+PERSON:Uwe Friedrichsen
+ORGANIZATION:AG
+PERSON:Roland Huss
+ORGANIZATION:ConSol Software
+MISC:Java
+MISC:Java
+MISC:JMX-HTTP
+LOCATION:Jolokia
+PERSON:Jim Webber
+PERSON:Jim
+MISC:Web
+MISC:Neo4j
+PERSON:Robert Smallshire
+ORGANIZATION:Sixty North
+LOCATION:Norway
+PERSON:Robert
+LOCATION:Python
+PERSON:Robert
+PERSON:Oleg
+PERSON:Hortonworks
+PERSON:Hortonworls Oleg
+PERSON:Oleg
+MISC:Java
+ORGANIZATION:Teleco
+ORGANIZATION:Law Enforcement
+ORGANIZATION:US DOD
+PERSON:Oleg
+LOCATION:Java Zone
+PERSON:Jazoon
+LOCATION:Oredev
+LOCATION:Uberconf
+PERSON:Erik Engheim
+LOCATION:Knowit
+PERSON:Erik
+PERSON:Erik
+PERSON:Shaukat Ali
+ORGANIZATION:Certus Software Verification and Validation Center
+ORGANIZATION:Simula Research Laboratory
+LOCATION:Norway
+ORGANIZATION:Simula Research Lab
+MISC:Model-based Testing
+MISC:Empirical Software Engineering
+LOCATION:UK
+LOCATION:Canada
+LOCATION:Norway
+LOCATION:Pakistan
+PERSON:Shaukat
+MISC:ACM
+MISC:European Conference on Modeling Foundations
+PERSON:Tao Yue
+ORGANIZATION:Simula Research Laboratory
+LOCATION:Oslo
+LOCATION:Norway
+MISC:Based Engineering
+ORGANIZATION:Avionics
+ORGANIZATION:Maritime
+ORGANIZATION:Energy
+LOCATION:Canada
+LOCATION:Norway
+LOCATION:China
+PERSON:Tao
+MISC:ACM
+MISC:European Conference on Modeling Foundations
+MISC:Conference on Quality Software
+ORGANIZATION:IEEE Annual International Computers
+PERSON:Sirar Salih
+LOCATION:Itera Norway
+ORGANIZATION:NNUG
+LOCATION:Oslo
+LOCATION:Oslo
+PERSON:Sirar
+MISC:Developers Conference
+PERSON:Allard Buijze
+LOCATION:Trifork
+PERSON:Allard
+PERSON:Jazoon
+PERSON:Goto
+MISC:Java
+PERSON:Ken Sipe
+ORGANIZATION:Inc
+LOCATION:St. Louis
+PERSON:Ken
+PERSON:Lars Bak
+ORGANIZATION:Google
+PERSON:Monty
+PERSON:Dart
+PERSON:Gary Dusbabek
+ORGANIZATION:Rackspace
+MISC:Cassandra
+PERSON:Gary
+MISC:Blueflood
+ORGANIZATION:SXSW
+PERSON:Clara
+ORGANIZATION:Cassandra EU
+LOCATION:Berlin
+MISC:Data Texas
+PERSON:Christian Kreutzfeldt
+ORGANIZATION:Otto Group Business Intelligence department
+PERSON:David Pilato
+ORGANIZATION:Elasticsearch French Speakers User Group
+LOCATION:Devoxx
+LOCATION:Belgium
+LOCATION:France
+LOCATION:Cergy
+LOCATION:France
+PERSON:Trond Marius
+ORGANIZATION:CTO
+LOCATION:Mesan
+PERSON:Trond Marius
+ORGANIZATION:JVM
+MISC:Java
+PERSON:Scala
+PERSON:Kevlin
+LOCATION:UK
+MISC:Pattern-Oriented Software Architecture
+LOCATION:Accenture Norway
+PERSON:Rustam Mehmandarov
+ORGANIZATION:University of Oslo
+MISC:Java
+PERSON:Michael Gfeller
+ORGANIZATION:Casio
+ORGANIZATION:ETH Zürich
+MISC:Java
+MISC:Java
+LOCATION:Computas
+PERSON:Svetlana
+PERSON:Kotlin
+LOCATION:Kotlin
+LOCATION:Alps
+PERSON:Johannes Brodwall
+LOCATION:Norway
+LOCATION:Sri Lanka
+LOCATION:Norway
+MISC:Svein-Magnus
+MISC:Oslo Open Data Forum
+PERSON:Fabian Stäber
+ORGANIZATION:ConSol * Consulting & Solutions Software GmbH
+MISC:Java Web
+PERSON:Fabian
+PERSON:Fabian
+MISC:Java
+PERSON:Arun Gupta
+ORGANIZATION:Developer Advocacy
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:Oracle
+MISC:Java
+PERSON:Arun
+MISC:JavaOne
+MISC:Java Champion
+PERSON:Andreas Hegna
+LOCATION:Deloitte
+PERSON:Andreas
+LOCATION:Deloitte Norway
+PERSON:Filip van Laenen
+ORGANIZATION:Computas AS
+LOCATION:Norway
+PERSON:Markus Krüger
+ORGANIZATION:Telenor Digital
+ORGANIZATION:JavaZone
+PERSON:Jim Webber
+PERSON:Jim
+MISC:Web
+MISC:Neo4j
+PERSON:Ian
+ORGANIZATION:Neo Technology
+PERSON:O'Reilly
+PERSON:Springer
+PERSON:Peter
+ORGANIZATION:Real-Time Solutions
+LOCATION:Kaazing
+MISC:Web
+PERSON:Peter
+PERSON:Peter
+PERSON:Peter
+ORGANIZATION:Oracle OpenWorld
+ORGANIZATION:Southwest
+MISC:WebCenter Handbook
+LOCATION:Lübeck
+LOCATION:Germany
+PERSON:Henri Muurimaa
+MISC:Java
+ORGANIZATION:SVP
+PERSON:Henri
+LOCATION:Devoxx
+LOCATION:Europe
+PERSON:Neal Ford
+LOCATION:Norway
+PERSON:Cassandra MVP
+PERSON:Kent Beck
+PERSON:Java Champion Michael Hüttermann
+PERSON:Michael
+LOCATION:San Francisco
+LOCATION:Shanghai
+LOCATION:Devoxx
+PERSON:Jfokus
+LOCATION:Amsterdam
+LOCATION:DevOpsDays Berlin
+LOCATION:Nice mountains
+PERSON:Stéphane
+MISC:Java
+PERSON:Perl
+ORGANIZATION:Nice University
+ORGANIZATION:Riviera Java User Group
+PERSON:Nicolas Leroux
+ORGANIZATION:Ceylon
+LOCATION:Maersk
+ORGANIZATION:Financial Services
+ORGANIZATION:Healthcare & Public Services
+ORGANIZATION:IBM
+MISC:Java
+ORGANIZATION:IBM
+ORGANIZATION:Microsoft
+PERSON:Scala
+PERSON:Python
+MISC:Open Source
+ORGANIZATION:Agorava.org
+PERSON:Apache DeviceMap
+ORGANIZATION:Creative Arts & Technologies
+MISC:Trusted Java
+MISC:Java State
+PERSON:Co-Spec Lead
+ORGANIZATION:Executive Committee
+PERSON:Salve J. Nilsen
+MISC:Open Source Competence
+MISC:Open Source
+PERSON:Perl
+PERSON:Morten Weel Johnsen
+LOCATION:Gradle
+PERSON:Morten
+ORGANIZATION:Imperial College
+PERSON:Nat Pryce
+MISC:XP
+PERSON:Nat
+LOCATION:London
+LOCATION:UK
+PERSON:Steve Freeman
+LOCATION:UK
+PERSON:Steve
+LOCATION:Cambridge
+ORGANIZATION:IBM
+ORGANIZATION:University College London
+PERSON:Steve
+LOCATION:London
+PERSON:Gareth
+LOCATION:Bouvet
+MISC:Erex
+PERSON:Erex
+LOCATION:Norway
+PERSON:Bouvet
+LOCATION:Erex
+PERSON:Ragnar
+LOCATION:Bouvet
+MISC:Erex
+PERSON:Mark
+MISC:DND
+PERSON:Mark
+LOCATION:Bouvet
+MISC:Java
+PERSON:Stephen Segal
+PERSON:Espen Dalløkken
+LOCATION:Oslo
+LOCATION:Norway
+ORGANIZATION:FINN
+ORGANIZATION:BEKK
+ORGANIZATION:NDC
+ORGANIZATION:EU
+PERSON:Arild
+ORGANIZATION:University of Tromsø
+PERSON:Arild
+ORGANIZATION:Bekk Consulting
+ORGANIZATION:Scala
+PERSON:Arlld
+PERSON:Akka
+PERSON:Arild
+PERSON:Akka
+ORGANIZATION:Practice Lead for Scala & JVM
+ORGANIZATION:Bekk Consulting
+MISC:Master of Science
+ORGANIZATION:University of Science and Technology
+ORGANIZATION:Gjøvik University College
+PERSON:Scala
+PERSON:Sven Anders Robbestad
+ORGANIZATION:Inmeta Consulting AS
+LOCATION:Oslo
+PERSON:Tom
+ORGANIZATION:JVM
+PERSON:Tom
+PERSON:Tom
+LOCATION:Europe
+LOCATION:Devoxx
+LOCATION:Jazoon
+PERSON:Håkon T Sønderland
+ORGANIZATION:Antares Gruppen AS
+MISC:Java
+ORGANIZATION:Data Geekery GmbH
+LOCATION:Zurich
+LOCATION:Switzerland
+MISC:Java
+ORGANIZATION:EPFL
+MISC:Java
+PERSON:Alexander Schwartz
+MISC:Java
+PERSON:Jeff Genender
+MISC:Java Champion
+MISC:Java Open Source
+ORGANIZATION:SOA
+PERSON:Jeff
+MISC:Java In Action
+MISC:Java User Groups
+ORGANIZATION:SOA
+PERSON:Jeff
+ORGANIZATION:Project Management Committee
+PERSON:Geronimo
+PERSON:Mina
+MISC:Enterprise Java Servlets
+PERSON:Addison Wesley Longman
+PERSON:Apache Geronimo
+PERSON:Wiley
+PERSON:Wiley
+PERSON:Jeff
+ORGANIZATION:JCP
+MISC:Java Platform
+ORGANIZATION:Apache Software Foundation
+PERSON:Jeff
+ORGANIZATION:DDD
+PERSON:Mads Hoel
+ORGANIZATION:Inmeta Consulting
+PERSON:Mads
+MISC:Java
+PERSON:Nathaniel T. Schutta
+PERSON:Nate
+ORGANIZATION:Ajax
+MISC:Java
+PERSON:Nate
+ORGANIZATION:University of Minnesota
+PERSON:Nate
+PERSON:Neal Ford
+PERSON:Matthew McCullough
+PERSON:Masoud
+PERSON:Masoud
+PERSON:CORBA
+MISC:Windows
+PERSON:Masoud
+PERSON:Dzone
+MISC:Java
+PERSON:Masoud
+ORGANIZATION:NetBeans Dream Team
+MISC:GlassFish
+PERSON:Masoud
+ORGANIZATION:JSON
+PERSON:Rafael
+LOCATION:Kantega
+MISC:Java
+PERSON:Rafael
+PERSON:Rafael
+PERSON:Tom Gilb
+ORGANIZATION:IBM
+ORGANIZATION:Intel
+ORGANIZATION:Ericsson
+ORGANIZATION:Nokia
+LOCATION:Nordea
+ORGANIZATION:Statoil
+ORGANIZATION:Major Multinational Finance Group
+PERSON:Kai Gilb Kai Gilb
+PERSON:Tom
+PERSON:Tom
+PERSON:Kai
+LOCATION:Accenture Norway
+MISC:Javascript
+ORGANIZATION:Ajax
+ORGANIZATION:NTNU
+LOCATION:Trondheim
+ORGANIZATION:Norsk Tipping
+ORGANIZATION:Norsk Tipping
+PERSON:Hardy Ferentschik
+ORGANIZATION:JBoss
+PERSON:Hardy
+PERSON:Ian
+MISC:` Graph Databases
+PERSON:Springer
+PERSON:Owen
+PERSON:Akka
+PERSON:Bert
+LOCATION:Luminis
+LOCATION:Netherlands
+MISC:Java User Group
+ORGANIZATION:NLJUG
+MISC:Java User Group
+MISC:Java
+PERSON:Bert
+MISC:Java Champion
+MISC:Java
+PERSON:Bert
+PERSON:Duke
+PERSON:Shai
+ORGANIZATION:Sun Microsystem
+ORGANIZATION:WTK
+PERSON:Shai
+PERSON:Chen Fishbein
+PERSON:Shai
+MISC:Java Rock
+PERSON:Rafael
+LOCATION:Kantega
+MISC:Java
+PERSON:Rafael
+PERSON:Rafael
+PERSON:Andres
+MISC:Java Champion
+MISC:Java
+PERSON:Griffon
+PERSON:Andres
+ORGANIZATION:CTO
+MISC:Sea of Nodes IR
+MISC:Java
+MISC:pure-Java
+ORGANIZATION:JVM
+PERSON:Cliff
+PERSON:Marty Cochrane
+LOCATION:Ireland
+LOCATION:Power Station
+ORGANIZATION:PLC
+MISC:Java Developer
+MISC:Java
+LOCATION:Norway
+ORGANIZATION:Statkraft
+ORGANIZATION:Statkraft
+MISC:Nordic
+PERSON:Konrad Beiske
+LOCATION:Javazone
+PERSON:Brian Sletten
+PERSON:William
+PERSON:Mary
+LOCATION:Auburn
+MISC:Semantic Web
+MISC:Pop Recording
+ORGANIZATION:SemanticWeb.com
+MISC:Semantic Web
+ORGANIZATION:Seb Rose
+LOCATION:UK
+ORGANIZATION:Amazon
+ORGANIZATION:IBM
+ORGANIZATION:NCR
+ORGANIZATION:HBOS
+ORGANIZATION:Standard Life
+ORGANIZATION:Aegon
+PERSON:O'Reilly
+MISC:Cucumber-JVM Book
+PERSON:Rikard Thulin
+MISC:Java
+MISC:Java
+ORGANIZATION:Swedish Java User Group
+LOCATION:Gothenburg
+PERSON:Rikard
+PERSON:Øredev
+ORGANIZATION:Squeed
+PERSON:Johannes Brodwall
+LOCATION:Norway
+LOCATION:Sri Lanka
+PERSON:Sam Newman
+PERSON:O'Reilly
+PERSON:Martin Skarsaune
+PERSON:Alf Kristian
+ORGANIZATION:JVM
+MISC:Java
+MISC:Java
+LOCATION:Scala
+ORGANIZATION:JVM
+LOCATION:Oslo
+LOCATION:Oslo
+PERSON:Alf Kristian
+PERSON:Brian McCallister
+PERSON:Groupon
+ORGANIZATION:CTO
+PERSON:Groupon
+PERSON:Ning
+PERSON:Ning
+ORGANIZATION:Apache Software Foundation
+PERSON:Brian
+ORGANIZATION:ASF
+ORGANIZATION:Cassandra
+PERSON:Brian
+PERSON:Brian
+MISC:English
+ORGANIZATION:Bucknell University
+PERSON:Yilmaz Guleryuz
+LOCATION:Norway
+MISC:Yogurt
+PERSON:Arun Gupta
+ORGANIZATION:Developer Advocacy
+ORGANIZATION:Sun Microsystems
+ORGANIZATION:Oracle
+PERSON:Arun
+MISC:JavaOne
+LOCATION:USA
+MISC:Java Champion
+PERSON:Tim
+PERSON:DataStax
+LOCATION:United States
+ORGANIZATION:Apache Cassandra
+LOCATION:Littleton
+LOCATION:CO
+LOCATION:USA
+PERSON:Rabea
+PERSON:Rabea
+MISC:Java
+LOCATION:Bremen
+PERSON:Adrian
+PERSON:Adrian
+LOCATION:Pivotal
+ORGANIZATION:Schibsted Products and Technology
+ORGANIZATION:Sesam
+ORGANIZATION:Duke
+MISC:Topic Maps
+PERSON:Magnus Bae
+LOCATION:Itera Norway
+MISC:Dynamics CRM
+MISC:Java
+ORGANIZATION:JVM
+PERSON:Abdel
+MISC:Java Enterprise Applications
+ORGANIZATION:NorCal Java User Group
+ORGANIZATION:Silicon Valley Dart Meetup
+ORGANIZATION:Silicon Valley Spring User Group
+PERSON:Abdel
+ORGANIZATION:RockStar
+ORGANIZATION:JAX Conf
+LOCATION:Devoxx
+PERSON:Joachim Van der Auwera
+MISC:Java
+MISC:Geomajas Open Source
+ORGANIZATION:Ktunaxa RMS
+MISC:Java Jazoon
+MISC:Java Devoxx
+PERSON:Perl
+MISC:Java
+MISC:Java EE
+ORGANIZATION:IBM
+ORGANIZATION:BEA Systems
+ORGANIZATION:Sun Microsystems
+PERSON:Salenda
+LOCATION:Spain
+PERSON:Escuela de Groovy
+LOCATION:Spain
+LOCATION:Greach
+ORGANIZATION:Codemotion Madrid
+LOCATION:Rome
+LOCATION:London
+LOCATION:Copenhagen
+PERSON:Sigmund Hansen
+ORGANIZATION:Computas
+PERSON:Sigmund
+ORGANIZATION:Department of Informatics
+ORGANIZATION:University of Oslo
+PERSON:Arduino
+MISC:Java
+PERSON:Viktor Klang
+ORGANIZATION:CTO
+LOCATION:Typesafe
+ORGANIZATION:Scala Standard Library
+PERSON:John
+ORGANIZATION:CTO
+LOCATION:London
+ORGANIZATION:NASDAQ
+ORGANIZATION:Iona Technologies
+PERSON:John
+ORGANIZATION:JP Morgan
+ORGANIZATION:BNP Paribas
+PERSON:John
+MISC:Java
+ORGANIZATION:Bekk Consulting
+ORGANIZATION:Liverpool FC
+ORGANIZATION:TCS
+ORGANIZATION:Nets Norway AS
+LOCATION:Norway
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Oracle Corporation
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+ORGANIZATION:Oracle
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Java
+ORGANIZATION:OSS
+PERSON:Klara
+ORGANIZATION:Java Mission Control
+ORGANIZATION:Oracle
+MISC:Java/JRockit Mission Control
+ORGANIZATION:JVM
+MISC:Java Mission Control
+PERSON:Klara
+MISC:JDuchess
+PERSON:Einar
+PERSON:Alexandra
+PERSON:Lynx
+ORGANIZATION:KDE
+PERSON:Martin
+MISC:Java
+ORGANIZATION:JVM
+LOCATION:Hazelcast
+PERSON:Christoph Engelbert
+LOCATION:Hazelcast
+MISC:Java
+MISC:Open Source
+MISC:Performance Optimizations
+ORGANIZATION:JVM
+LOCATION:Allegro
+PERSON:Stian Thorgersen
+ORGANIZATION:Red Hat
+PERSON:Stian
+ORGANIZATION:Arjuna Technologies
+PERSON:Stian
+MISC:Java
+PERSON:Mark
+LOCATION:Bouvet
+MISC:Java
+PERSON:Mark
+ORGANIZATION:Robotics
+MISC:Internet of Things
+LOCATION:Oslo
+LOCATION:Norway
+PERSON:Gunnar Wagenknecht
+LOCATION:Tasktop
+ORGANIZATION:Operations
+ORGANIZATION:CTO
+ORGANIZATION:AGETO
+MISC:Eclipse Open Source Community
+MISC:Most Java
+ORGANIZATION:JVM
+PERSON:Peter
+MISC:Vanilla Java
+ORGANIZATION:Performance Java User 's Group
+MISC:Java
+PERSON:Shervin Asgari
+PERSON:Shervin
+PERSON:Shervin
+PERSON:Henrik
+ORGANIZATION:Visma Consulting
+LOCATION:Skattetaten
+ORGANIZATION:JVM
+ORGANIZATION:Krakow Software Craftsmanship
+ORGANIZATION:Cracow Hadoop User Group
+PERSON:Jakub Korab
+ORGANIZATION:Camel
+PERSON:Joachim Van der Auwera
+MISC:Java
+MISC:Geomajas Open Source
+ORGANIZATION:Ktunaxa RMS
+MISC:Java Jazoon
+MISC:Java Devoxx
+PERSON:Stein Inge
+ORGANIZATION:DevOps Norway Meetup
+ORGANIZATION:F-Secure
+LOCATION:Norway
+ORGANIZATION:Clojure / Haskell
+MISC:Java
+PERSON:Bouvet
+LOCATION:Europe
+PERSON:Ragnar
+ORGANIZATION:HiFi
+PERSON:Fredrik
+MISC:Java
+MISC:Java
+LOCATION:Clojure
+PERSON:Fabian Lange
+LOCATION:Instana
+PERSON:Markus
+MISC:Java
+ORGANIZATION:DOAG
+MISC:Java Champion
+PERSON:Sven Efftinge
+LOCATION:Xtext
+PERSON:Sven
+PERSON:Oleg Šelajev
+PERSON:Oleg
+MISC:Dynamic System
+PERSON:Oleg
+ORGANIZATION:University of Tartu
+LOCATION:UK
+PERSON:Oleg
+PERSON:Stephen Chin
+MISC:Lead Java Community
+ORGANIZATION:Oracle
+MISC:Java
+MISC:JavaFX Platform
+MISC:Java
+PERSON:Stephen
+MISC:Pan-European
+ORGANIZATION:Azul Systems
+PERSON:Niklas Therning
+MISC:RoboVM
+ORGANIZATION:RoboVM AB
+MISC:Java
+PERSON:Niklas
+PERSON:Devoxx
+PERSON:Henric Müller
+PERSON:Henric
+ORGANIZATION:RoboVM AB
+MISC:RoboVM
+PERSON:Erlend Hamberg
+PERSON:C. Erlend
+LOCATION:Soundrop
+LOCATION:Oslo
+PERSON:Andres
+MISC:Java Champion
+MISC:Java
+ORGANIZATION:Sun Microsystems
+MISC:NetBeans IDE
+MISC:NetBeans Platform
+LOCATION:Devoxx
+MISC:Java
+ORGANIZATION:NetCom
+MISC:Open Source
+ORGANIZATION:Bekk Consulting
+PERSON:Devops
+ORGANIZATION:Comperio
+PERSON:Alex
+MISC:Java
+PERSON:Alex
+LOCATION:Arquillian
+MISC:Java
+ORGANIZATION:JSON Processing
+PERSON:Alex
+MISC:Arquillian
+PERSON:Manning
+LOCATION:Devoxx
+PERSON:Ken Sipe
+PERSON:Ken
+PERSON:Ken
+PERSON:Axel Fontaine
+LOCATION:Boxfuse
+ORGANIZATION:JVM
+PERSON:Axel
+MISC:JavaOne
+LOCATION:Devoxx
+PERSON:Aleksander
+ORGANIZATION:Monokkel AS
+MISC:Java
+PERSON:Lucene
+PERSON:Aleksander
+PERSON:Oleg Šelajev
+PERSON:Oleg
+MISC:Dynamic System
+PERSON:Oleg
+ORGANIZATION:University of Tartu
+LOCATION:UK
+PERSON:Oleg
+LOCATION:Norway
+LOCATION:UK
+ORGANIZATION:Bouvet
+LOCATION:Norway
+PERSON:Bouvet
+PERSON:Chris Richardson
+MISC:Java Champion
+MISC:Java
+PERSON:Chris
+MISC:Java
+LOCATION:Amazon
+PERSON:Haakon
+MISC:Java
+MISC:Enterprise Java Bean
+ORGANIZATION:Cisco
+PERSON:David
+MISC:Java
+MISC:Server-Side
+ORGANIZATION:Oracle
+PERSON:David
+ORGANIZATION:Sun Microsystems
+MISC:Java
+PERSON:David
+MISC:Java
+PERSON:David
+LOCATION:Belgium
+MISC:Java
+ORGANIZATION:Seb
+MISC:Java Book
+PERSON:Henry
+ORGANIZATION:Chemist & Biomaterials Engineer
+LOCATION:Edinburgh
+ORGANIZATION:NCR
+MISC:Java
+ORGANIZATION:BEKK
+PERSON:Bendik
+ORGANIZATION:BEKK
+PERSON:John Fjellstad
+LOCATION:Bouvet
+PERSON:Harald
+MISC:Java
+MISC:Java
+MISC:TwelveMonkeys ImageIO
+LOCATION:Bouvet
+PERSON:Harald
+PERSON:Lego
+PERSON:Harald
+PERSON:Siegfried Göschl
+ORGANIZATION:ASF
+ORGANIZATION:Apache Turbine
+ORGANIZATION:JSPWiki Project Management Committee
+ORGANIZATION:Apache Commons Committer & PMC
+MISC:Open Source
+MISC:Avalon
+ORGANIZATION:Apache Turbine
+MISC:Java
+MISC:Open Source
+ORGANIZATION:Java User Group
+LOCATION:Vienna
+MISC:Oslo-based
+PERSON:Kodemaker
+PERSON:Christopher Batey
+PERSON:DataStax
+PERSON:Chris
+ORGANIZATION:IBM
+PERSON:Christopher
+ORGANIZATION:Stubbed Cassandra
+MISC:London Java Community
+PERSON:Oleg
+PERSON:Hortonworks
+PERSON:Hortonworls Oleg
+PERSON:Oleg
+PERSON:Oredev
+PERSON:Mads Hoel
+MISC:Java
+ORGANIZATION:Inmeta Consulting
+LOCATION:Oslo
+PERSON:Thomas
+ORGANIZATION:ETH Zurich
+LOCATION:Switzerland
+MISC:Java
+PERSON:Thomas
+ORGANIZATION:Swisslog
+LOCATION:Buchs
+LOCATION:Switzerland
+PERSON:Rafael
+LOCATION:Oslo
+LOCATION:Norway
+LOCATION:Bouvet
+ORGANIZATION:JVM
+PERSON:Rafael
+MISC:Java Rock Star
+MISC:Java
+PERSON:Bert Ertman
+LOCATION:Luminis
+LOCATION:Netherlands
+MISC:Java User Group
+ORGANIZATION:NLJUG
+MISC:Java User Group
+MISC:Java
+PERSON:O'Reilly
+PERSON:Bert
+MISC:Java Champion
+MISC:Java
+PERSON:Bert
+PERSON:Duke
+PERSON:Lisa Long
+ORGANIZATION:Skype
+ORGANIZATION:Skype
+ORGANIZATION:BBC
+PERSON:Lisa
+LOCATION:London
+LOCATION:Tallinn
+ORGANIZATION:Microsoft
+LOCATION:London
+ORGANIZATION:Cartier Women 's Initiative
+ORGANIZATION:UCL Masters
+PERSON:Sven
+MISC:Atlassian
+MISC:Java
+PERSON:Sven
+ORGANIZATION:Elasticsearch Consulting Partner
+ORGANIZATION:Microsoft
+PERSON:Sirar Salih
+LOCATION:Itera Norway
+ORGANIZATION:NNUG
+LOCATION:Oslo
+LOCATION:Oslo
+PERSON:Sirar
+LOCATION:San Francisco
+PERSON:Sven Ruppert
+MISC:Java
+LOCATION:Munich
+MISC:Java Magazin
+PERSON:Magazin
+PERSON:Entwickler Magazin
+PERSON:Heinz Kabutz
+PERSON:Josh Long
+PERSON:Josh
+PERSON:Josh
+PERSON:Josh
+ORGANIZATION:Pearson Livelessons
+PERSON:Josh
+PERSON:Kevlin
+LOCATION:UK
+MISC:Pattern-Oriented Software Architecture
+PERSON:Simon
+MISC:Java Champion
+ORGANIZATION:London Java Community
+PERSON:Simon
+PERSON:Simon
+PERSON:Johannes
+PERSON:Sopra Steria
+PERSON:Simon Ritter
+MISC:Java Technology
+ORGANIZATION:Oracle Corporation
+PERSON:Simon
+ORGANIZATION:Brunel University
+LOCATION:U.K.
+ORGANIZATION:AT&T
+ORGANIZATION:Novell
+PERSON:Simon
+MISC:Java
+MISC:Java
+ORGANIZATION:Oracle
+MISC:Java
+MISC:Java
+MISC:Java
+MISC:Java
+PERSON:Paul
+ORGANIZATION:Luminis Technologies
+PERSON:O'Reilly
+PERSON:Paul
+PERSON:Amdatu
+MISC:Java
+PERSON:Sander
+ORGANIZATION:Luminis Technologies
+ORGANIZATION:JVM
+MISC:Java
+PERSON:Sander
+MISC:Java
+ORGANIZATION:JVM
+PERSON:Joe
+ORGANIZATION:Braintree Payments
+ORGANIZATION:PayPal Company
+ORGANIZATION:University of Nottingham
+PERSON:Joe
+MISC:European
+ORGANIZATION:Major League Hacking
+PERSON:Mahmoud
+MISC:Java
+PERSON:Michael Hunger
+MISC:Caretaker
+PERSON:Michael
+MISC:Nicola
+ORGANIZATION:Docker Governance Advisory Board
+PERSON:Nicola
+LOCATION:Amsterdam
+ORGANIZATION:Ducati
+MISC:Java
+MISC:Subsonic
+LOCATION:Scienta
+PERSON:Klara
+ORGANIZATION:Java Mission Control
+ORGANIZATION:Oracle
+MISC:Java/JRockit Mission Control
+ORGANIZATION:JVM
+MISC:Java Mission Control
+PERSON:Klara
+MISC:JDuchess
+PERSON:Neal Ford
+MISC:Oslo-based
+PERSON:Kodemaker
+PERSON:Magnus Bae
+LOCATION:Itera Norway
+ORGANIZATION:NTNU
+ORGANIZATION:NTNU Formula Student
+PERSON:Axel Fontaine
+LOCATION:Boxfuse
+ORGANIZATION:JVM
+PERSON:Axel
+MISC:JavaOne
+LOCATION:Devoxx

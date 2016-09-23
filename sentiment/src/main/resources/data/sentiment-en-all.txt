@@ -1,0 +1,938 @@
+very negative:negative:neutral:positive:very positive, year, title
+0:0:4:2:0, 2003, Configuration and change management  
+2:10:1:2:0, 2003, JSR94 Rule engines - changing the programming paradigme  
+0:10:11:4:0, 2003, Roadmap to Java Programmer Certification  
+0:10:1:2:0, 2003, The Model-View-Controller (MVC), Its Past and Present  
+0:6:5:0:0, 2003, Programmer's Dozen  
+0:4:3:0:0, 2003, Five Myths of Software Development  
+2:6:1:0:0, 2003, Forthcoming Java Programming Language Improvements  
+0:8:3:6:0, 2003, More Programming Puzzlers  
+0:4:0:0:0, 2003, AOP advanced topics  
+0:1:1:0:0, 2003, Tool Mimicry in the OO World  
+0:4:4:0:0, 2003, Building Quality into Development  
+0:12:1:2:0, 2003, MDA-based Development In Practice: Uniting Model and Code So That They Can't Drift Apart  
+0:8:3:0:0, 2003, Emerging Standards for Web Services Integration and Service Oriented Architectures (SOA)  
+0:2:0:2:0, 2003, Architects from Hell  
+0:10:1:2:0, 2003, The New Core J2EE Patterns  
+0:2:1:4:0, 2003, Model-centric architecture, how to combine speed with clean design and why you should share with the client  
+0:10:0:2:0, 2003, Service Oriented Architecture for distributed applications  
+0:8:1:2:0, 2003, Building a resillient system with Jini technology using RIO, the NordPool Real Time Feed  
+0:2:0:0:0, 2003, J2ME Clients talking to J2EE Servers  
+0:6:1:2:0, 2003, Overview of the Mobile Information Device Profile (MIDP) 2.0 and the Java 2 Platform, Micro Edition (J2ME) Wireless Toolkit 2.0  
+0:6:1:4:0, 2003, Real life MIDP game development and publishing  
+0:6:1:4:0, 2004, Staying secure with the Tiger: Security Features in Java 
+0:0:2:0:0, 2004, The secrets of IoC - The PicoContainer advantage 
+0:14:1:6:0, 2004, Patterns of Value 
+2:6:3:6:0, 2004, Java Brand Generics 
+0:8:1:0:0, 2004, Oracle ADF: Drag and Drop Data Binding for J2EE Business Services 
+0:0:2:0:0, 2004, Java Development - do it better and faster 
+0:14:6:10:0, 2004, Quantifying Quality 
+0:12:1:4:0, 2004, Open Source Agile Architecture 
+0:26:3:2:0, 2004, Automated Contract Driven Development with UML’s Object Constraint Language 
+0:14:4:6:0, 2004, Using Maven for Easier Project Builds and Management 
+0:24:7:2:0, 2004, Experience report on MDA 
+0:10:3:2:0, 2004, Project experiences using BEA Platform 8.1 
+0:26:15:8:0, 2004, Model Driven Development: Who Needs It 
+0:10:1:2:0, 2004, Software Radiology (without the Radiation) 
+0:4:1:0:0, 2004, J2EE and Web Services: What's Next? 
+0:0:1:2:0, 2004, The Java Trap 
+0:14:1:0:0, 2004, Effective portlet development 
+0:14:1:0:0, 2004, The Java Portlet Specification and IBM WebSphere Portal 
+0:6:1:4:0, 2004, Service-Oriented Architecture and Process-Driven Development 
+0:14:7:4:0, 2004, Large information systems need a domain model 
+0:2:1:8:0, 2004, What's New and Cool in the J2ME Wireless Toolkit 2.2 
+0:6:1:0:0, 2004, Domain discussion - the panel 
+0:10:5:2:0, 2004, Maven 2 and Continous intergration with Continuum. 
+0:6:1:0:0, 2005, Adopting AspectJ 
+0:14:4:0:0, 2005, Cracking the New Sun Certified Programmer for Java 2 Platform 1.5 Exam 
+0:8:3:4:0, 2005, Managing Web Conversations with Spring Web Flow. 
+0:3:1:0:0, 2005, Beyond Java 
+0:6:14:0:0, 2005, A successful experiment: Designing Multi Agent Systems using Java as an inter-program language 
+0:4:3:0:0, 2005, Web Application Development with Spring 
+2:6:1:2:0, 2005, Implementation of domain models using dynamic proxies 
+0:2:0:0:0, 2005, Lightweight development strategies 
+0:4:1:2:0, 2005, EJB vs Hibernate vs JDBC, Which is better? 
+0:6:1:2:0, 2005, Unittesting with Domain Experts. 
+0:2:0:0:0, 2005, WebWork + AJAX: A winning combination 
+0:4:3:10:0, 2005, Maven 2 
+0:0:2:0:0, 2005, BEA and Open Source ­ Leading Java Innovation 
+0:0:8:0:0, 2005, High-quality searching with Lucene 
+0:0:2:0:0, 2005, Enterprise Java development with Eclipse 
+0:4:9:0:0, 2005, Single sign-on - is it really so difficult? 
+0:2:2:2:0, 2005, Implementing an Open Source Enterprise Service Bus Solution 
+0:0:1:0:0, 2005, Can EJB 3.0 make developers more productive 
+0:0:1:0:0, 2005, A Performance Comparison: EJB 2.1 vs EJB 3.0 
+0:2:3:2:0, 2005, Successfull unit testing of large enterprise java systems with Surrogate 
+0:0:3:0:0, 2005, JBoss 5 – lightweight middleware with EJB3 
+0:4:2:0:0, 2005, FitNesse: Building the right code 
+0:8:1:0:0, 2005, Report from the trenches - Building Statoil's TOPS portfolio 
+0:12:7:2:0, 2005, JOnAS Integrated Application Platform: A new generation of Java Middleware Platforms 
+0:4:1:0:0, 2005, Effective Enterprise Java 
+0:6:1:0:0, 2005, Concrete services 
+0:2:0:0:0, 2005, WebWork in Action: An introduction to WebWork. 
+0:2:0:2:0, 2005, From Maven 1 to Maven 2 
+0:32:15:6:0, 2005, Modularity (or how to tame a large Java project by splitting it into pieces). 
+0:2:2:0:0, 2005, Java @ Google 
+0:0:1:0:0, 2005, Secure and safe: Applied Web Services Security between Java and .NET 
+0:2:0:0:0, 2005, Pragmatic SOA 
+0:2:0:0:0, 2005, Pluggable, Customisable Patterns: The Key To Smart Automation 
+0:2:3:0:0, 2005, Implementing an ESB using Mule - A real world Example 
+0:6:1:0:0, 2005, Pattern Connections 
+0:6:3:0:0, 2005, HADB technology in the Sun Java System Application Server 
+0:4:1:0:0, 2005, Software Agents for Dynamic Java Enterprise Applications 
+0:16:7:0:0, 2005, What's the ideal weight of your container? 
+0:4:3:0:0, 2005, JMX and AOP (Aspect Oriented Programming) for Building Manageable Applications 
+0:2:1:0:0, 2005, Design Patterns for Building Application Manageability using JMX. 
+0:0:1:0:0, 2005, Rich Internet Applications - the past, current and the future 
+0:4:3:0:0, 2005, From Struts to JavaServer Faces - Tips and Strategies for Using Struts with JSF or Migrating from Struts to JSF 
+0:10:1:0:0, 2005, An introduction to JavaServer Faces, the new Standard Java Web User Interface Framework. 
+2:24:3:6:0, 2005, What can Design Patterns do for you – Background, Principles and Practical Experience 
+0:0:2:0:0, 2005, Why I hate SOA: Beyond the hype in modern Java architecture 
+0:0:1:2:0, 2005, Trends in J2EE 
+0:10:2:0:0, 2005, What new JSRs do the Java Wireless Toolkit folks have for us? 
+0:8:4:2:0, 2005, Developing for Java devices using the Connected Device Configuration 
+0:0:1:0:0, 2005, The Java Community Process; how the Java technology binary software 
+0:0:1:0:0, 2005, Escaping the technology cycle 
+0:0:1:0:0, 2005, What is missing from the conventional agile and eXtreme methods? 
+0:2:1:4:0, 2005, Three Practical Steps Toward Domain-Driven Design 
+0:6:7:0:0, 2005, From idea to market in eight weeks: An agile production frame for mobile applications and services 
+0:2:1:0:0, 2005, New integration possibilities with WSRP 
+0:4:2:0:0, 2005, Stop writing tests, start specifying behaviour! 
+2:12:5:2:0, 2005, Evidence-Based Software Engineering – A Paradigm for the Future? 
+0:18:10:4:0, 2005, “From model to man and back” 
+0:4:1:0:0, 2005, Test-Driven Development: Bare Bones and Basics 
+0:24:31:0:0, 2005, The FEIDE Authentication System 
+0:4:1:2:0, 2005, Visual Struts: Modeling Struts-Based Applications using UML and Advanced Tool Support 
+0:1:0:1:0, 2005, How model-to-model transformation using Query View Transformation (QVT) and Object Constraint Language (OCL2) works 
+0:16:6:0:0, 2005, The Immortal Mainframe in the Java world 
+0:0:1:0:0, 2006, Java Knobs: How to change performance of the Sun JVM 
+0:0:1:0:0, 2006, Geronimo: design motivations, history, and possible future directions 
+2:8:1:0:0, 2006, Are you a plumber? How to avoid plumbing for business-enriched remote clients 
+0:0:1:0:0, 2006, Effective Java Reloaded 
+0:0:1:0:0, 2006, The Continous Adventures of Java Puzzlers: Tiger Traps. 
+0:2:3:0:0, 2006, Practical JMX 
+0:28:11:4:0, 2006, MVC and DCA: Two complimentary system architectures. 
+0:0:1:0:0, 2006, Comparing design pattern implementations in Java and AspectJ. 
+0:2:0:0:0, 2006, DTracing Java - Super Powers for the Developer! 
+0:4:2:0:0, 2006, Our stuff, your way - Developing Microsoft .NET applications with "Java" frameworks 
+0:2:1:0:0, 2006, Software Visualization and Model Generation 
+0:0:1:0:0, 2006, Fly by Wire 
+0:0:2:0:0, 2006, Simplifying enterprise applications with Spring 2.0 and AOP 
+0:2:3:0:0, 2006, First Aid for Swing 
+0:6:3:2:0, 2006, Filthy Rich Clients 
+0:6:2:0:0, 2006, Java DB: A small, easy to use, pure Java RDBMS 
+0:2:15:0:0, 2006, @OP - Aspect Oriented Programming and Metadata 
+0:10:3:2:0, 2006, Using Maven Effectively 
+0:0:2:0:0, 2006, Test Driving Swing Apps 
+1:1:0:0:0, 2006, Early Detection of Java Memory Management Problems 
+0:4:10:0:0, 2006, Creating Professional Swing UIs Using NetBeans™ GUI Builder (Formerly Code-Named "Matisse") 
+0:0:1:0:0, 2006, Java Specialists in Action 
+0:0:1:0:0, 2006, Developing in a Service-Oriented World 
+0:2:1:0:0, 2006, Building Reliable and High Performance Messaging Applications with POJOs and Apache ActiveMQ 
+0:2:0:0:0, 2006, Java/Ruby integration 
+1:1:0:0:0, 2006, Caching and Grid in a Nutshell. An overview of caching and grid products with case studies 
+0:0:1:0:0, 2006, Interoperability 
+0:4:2:0:0, 2006, Nutch Nutch, Wink Wink 
+0:14:4:0:0, 2006, Memory Leaks in Java™ Applications: Different Tools for Different Types of Leaks. 
+0:0:1:0:0, 2006, EJB3 Java Persistence API: The Good, The Bad, and The Ugly 
+0:6:2:0:0, 2006, Developing Document-driven Web services with Spring-WS 
+0:2:0:0:0, 2006, The Essential Lessons of Distributed Caching 
+2:6:2:0:0, 2006, Building and evolving services in a SOA context 
+2:4:9:0:0, 2006, Achieving SOA made easy by Celtix 1.0 ESB 
+2:6:3:0:0, 2006, Doing evolutionary integration with Mule & the EAI patterns 
+0:8:3:0:0, 2006, Mule + JavaSpaces = Stateful SOA 
+0:12:6:4:0, 2006, Lifting the Covers of Stability and Performance 
+0:14:3:2:0, 2006, Integrating BPEL,Workflow and Rules using Java EE platform 
+0:0:2:0:0, 2006, What is a Service in the SOA context? 
+0:1:3:0:0, 2006, Getting Service Engineering Right: From Specification to Running Java Code using Eclipse Technology. 
+0:6:5:0:0, 2006, Rule Engine as a key component in the enterprise system architecture - Experiences from developing a complex rule-based system 
+0:4:3:0:0, 2006, Understanding and Using the JSR-208 Java Business Integration Standard 
+0:6:0:2:0, 2006, The Top Ten Ways to Botch an Enterprise Java Application 
+0:2:0:0:0, 2006, Anemic domain models and persistence-aware model objects 
+0:0:2:0:0, 2006, Yet another online store case-study: JavaServer Faces in the real world 
+0:6:15:2:0, 2006, Google Web Toolkit: What, Why, and How 
+0:6:1:0:0, 2006, JBoss SEAM 
+0:2:1:1:0, 2006, Automated acceptance tests with use of Watir in web applications 
+0:18:6:0:0, 2006, Ajax and Faces: Friend or Foe? 
+0:4:2:0:0, 2006, Object-Oriented Web Development with Aranea 
+0:0:1:0:0, 2006, Cutting-edge productivity with RIFE 
+0:8:20:0:0, 2006, REST vs. SOAP Smack Down 
+0:2:0:0:0, 2006, Automated Web Application Testing with Selenium 
+0:0:1:0:0, 2006, The Sun Small Programmable Object Technology (Sun SPOT): Java™ Technology-Based Wireless Sensor Networks 
+0:0:2:0:0, 2006, Real Time Java and The Mars Rover: Java out of this world 
+0:6:4:0:0, 2006, ServiceFrame - advanced Java programming for the mobile and enterprise development 
+0:1:1:0:0, 2006, MSA (JSR 248) and Sun's Java Wireless Toolkit 
+0:16:11:4:0, 2006, Designing Applications for the Mobile Java JSR-232 platform 
+0:14:4:4:0, 2006, Carrying the Enterprise in your Pocket 
+0:10:5:10:0, 2006, The mobile as a Java-based security device 
+2:14:5:10:0, 2006, Secure Public Portal for Service Aggregation 
+0:0:1:0:0, 2006, Technical case study: The architecture of InfoQ.com- global enterprise development community 
+0:6:0:0:0, 2006, Distributed middleware factory. 
+0:0:1:0:0, 2006, The Agile Architects: Stumbling from Cargo Cult Architecture Towards Agility 
+0:0:7:0:0, 2006, Things I've learned that have made me a better developer than I was before I learned them 
+0:2:0:0:0, 2006, Domain-logical Value Objects - a Bottom-Up Technique in Domain Driven Programming 
+0:12:1:0:0, 2006, Testing & Test Driven Development – How to get what the preacher promised. 
+0:16:2:2:0, 2006, The Agility Cube: Six Faces of Agile Development 
+0:8:5:0:0, 2006, Design dead systems 
+0:26:14:6:0, 2006, Planning Poker – Playing for better estimates 
+0:6:2:2:0, 2006, Beyond Agile Software Development: Becoming Lean 
+0:0:1:0:0, 2006, Introduction to Abstraction Architectures for Business Intelligence 
+0:0:1:0:0, 2006, Unleash the power of Java! 
+0:0:1:0:0, 2006, Executable specifications: Keeping Fit at work 
+0:0:1:0:0, 2006, FishBowl discussion: Service Orientation as an Integration Strategy 
+0:2:1:0:0, 2006, Is MDA ready for real business? - A user perspective ! 
+0:0:3:0:0, 2006, SOA in practice; using ESB, BPEL, UDDI & Security. 
+0:0:3:0:0, 2006, Using agile tools to improve the softwaredevelopment process 
+1:1:2:0:0, 2006, Agile development in anger 
+0:14:11:1:0, 2006, CubicTest - Hassle free web requirements testing 
+0:0:1:2:0, 2007, GlassFish - Delivering a better application server, one step at a time 
+0:2:1:2:0, 2007, JavaPosse, live! 
+0:2:1:4:0, 2007, Latest in Java Technology From Sun Microsystems 
+0:0:1:0:0, 2007, Hands-on demo of Mule ESB 
+0:0:1:0:0, 2007, Mule 2 and Beyond 
+0:0:1:0:0, 2007, High performance programming in Java 
+0:0:1:0:0, 2007, Getting the most out of garbage collection 
+0:0:1:0:0, 2007, Ruby Tooling, State of The Art 
+0:0:1:0:0, 2007, Developing Rich Desktop Applications using Qt Jambi 
+0:0:1:0:0, 2007, Building Buzzword-compliant Mashups using Mule, 
+0:10:13:0:0, 2007, Quick and Easy Profiling with Integrated Tools 
+0:0:5:0:0, 2007, Using Spring-OSGi in Swing applications 
+0:2:0:0:0, 2007, The Hundred Kilobytes Kernel (HK2) 
+0:2:1:0:0, 2007, Enterprise Comet - No Plugins, No Polling, No Pain! 
+0:12:1:2:0, 2007, Java Grid Computing with AOP 
+0:0:2:0:0, 2007, The Sun JVM Inside and Out: Tuning for Performance 
+0:4:0:0:0, 2007, Write Better Code, Faster, with Java Generics 
+0:4:1:2:0, 2007, Yes, but is it fast enough? Performance testing with JMeter 
+0:2:1:3:0, 2007, Test'N'Groove: a breath of fresh air to your tests 
+0:2:3:0:0, 2007, Using jMaki With Server Side Frameworks 
+0:2:2:0:0, 2007, Aspect Oriented SOA: Injecting Aspects into Composite Applications using OpenESB 
+0:2:4:8:0, 2007, Contract-Aware Web Service Development 
+0:0:1:0:0, 2007, Improving test maintainability 
+0:0:2:0:0, 2007, Bringing Life to Swing Desktop Applications 
+0:0:1:0:0, 2007, The Top 10 Ways to Botch Enterprise Java Application Scalability and Reliability 
+0:0:3:2:0, 2007, Messaging and Concurrency in a Spring Environment 
+0:0:1:0:0, 2007, Building scalable, reliable, secure, RESTful services 
+0:0:1:0:0, 2007, Advanced JPA Topics 
+0:6:4:0:0, 2007, Enterprise Service Bus HOWTO: From Software Selection to Mission-Critical Application Deployment 
+0:0:1:0:0, 2007, WS-DuckTyping with Spring Web Services 
+0:0:1:0:0, 2007, How do I invoke a method, and yes I am a senior developer 
+0:0:1:0:0, 2007, Spring/OSGi : Future foundation for Enterprise applications or in short: OSG-what? 
+0:2:5:0:0, 2007, Taming your Java Legacy Code 
+0:7:1:0:0, 2007, Sneak peek into Spring Security 
+0:0:1:2:0, 2007, Java Persistence 2.0 - What's New 
+0:8:18:4:0, 2007, Code Organization Guidelines for Large Code Bases 
+0:0:1:0:0, 2007, Refactoring the data model 
+0:2:0:0:0, 2007, POJO Scalability and Large Workloads with Terracotta 
+0:0:2:0:0, 2007, Space Based Architecture – Scalable as Google, Simple as Spring 
+0:28:5:6:0, 2007, Apache Tuscany - Building SOA Solutions With The Service Component Architecture 
+0:0:1:0:0, 2007, Measuring Up Performance, A Practitioners View 
+0:16:5:2:0, 2007, Plain Old Java DSLs 
+0:2:1:0:0, 2007, Five Considerations for Software Developers 
+0:6:0:0:0, 2007, Building a Service Oriented Architecture with ServiceMix 
+0:12:0:0:0, 2007, Java Persistence on the client 
+0:8:2:0:0, 2007, Deploying Maven in the Enterprise 
+0:2:2:0:0, 2007, Farewell to the application server: The server container anti-pattern and how to avoid it 
+0:0:0:2:0, 2007, Open source Enterprise Integration with Mule 
+0:6:1:0:0, 2007, Refactoring HTML 
+0:0:1:0:0, 2007, The State of Ajax 
+0:0:1:0:0, 2007, Comparing Java Web Frameworks 
+0:10:1:0:0, 2007, Rich Applications using JavaFX Script 
+2:2:1:0:0, 2007, Eliminate waste in Java development with Adobe Flex 
+0:0:2:0:0, 2007, Web 2.5 development with Java 
+0:0:3:0:0, 2007, JavaScript Puzzlers - Is your IDE a Fifth Wheel or the Sixth Sense? 
+0:4:1:2:0, 2007, Apache Wicket: web applications with Just Java 
+0:0:5:2:0, 2007, AJAX made easy with DWR 
+0:4:1:0:0, 2007, Building Enterprise Applications with JavaServer Faces, Spring, and JPA 
+1:1:0:0:0, 2007, Java mobile gaming API in enterprise applications 
+0:4:1:0:0, 2007, Rapid 3d Game development with Java 
+0:4:8:2:0, 2007, High performance Java with limited CPU and memory resources 
+0:1:1:0:0, 2007, Experiences on using Spring WebFlow with JSF 
+0:0:1:0:0, 2007, How to develop an insurance sales web application in 6 months 
+0:2:5:0:0, 2007, Service Oriented Architecture – A Case Study 
+0:4:3:0:0, 2007, Simplicity - Lessons learned from enterprise application development 
+0:4:3:2:0, 2007, High Availability through Simplicity 
+0:2:0:0:0, 2007, Scripting in Java 6 
+0:0:1:0:0, 2007, Looking back to the future. Were is the industry 5 years from now, where do we want it to be? 
+0:0:1:0:0, 2007, Style and Taste in Writing FIT Documents 
+0:0:1:0:0, 2007, Teaching Computers to Drive 
+0:4:1:2:0, 2007, Agile system development and standard contracts – practical experiences from large development projects 
+0:4:3:0:0, 2007, From Bestimate to Estimate – techniques and perception management for estimators and their customers 
+0:6:0:0:0, 2007, An Agile Approach to Requirement Specification 
+0:6:3:4:0, 2007, Five practical solutions to Agile myths 
+0:0:1:2:0, 2007, Scalable, Distributed, Outsourced, and CMMI Level 5: Some of the best scrums 
+0:0:2:0:0, 2007, Java Community Process and Open Source 
+0:8:7:4:0, 2007, Enough of Processes -- Let’s Do Practices 
+0:2:0:0:0, 2007, Contributing to Open Source - What's in it for me 
+0:0:1:0:0, 2007, JRuby on Rails 
+0:0:1:0:0, 2007, Choosing the right framework for your web-application 
+0:1:1:0:0, 2007, Analyzing Complex Project Structure with Dependency Matrix 
+0:4:3:2:0, 2008, Building the Big Brother of the Java Virtual Machine 
+0:6:1:2:0, 2008, The Scalability Pitfall of the Real-Time Web (and How To Fix It!) 
+0:2:0:0:0, 2008, End-to-end Continuous Integration 
+0:2:0:0:0, 2008, System Thinking techniques for Agile Teams – seeing the forest and the trees 
+0:2:0:0:0, 2008, Swing Application Framework: One Year Later 
+0:0:2:0:0, 2008, SMILE! YOU’RE ON FACEBOOK The social network is the portal 
+0:8:1:0:0, 2008, Design Sense - Cultivating Deep Software Design Skill 
+0:8:1:8:0, 2008, The Double Paradox of Lean Software Development 
+0:6:1:0:0, 2008, Environment aware spring context 
+0:12:1:4:0, 2008, Writing Domain-Specific Languages with Groovy 
+0:32:9:6:2, 2008, Groovy, The Red Pill: The Groovy Way to Blow a Buttoned-Down Java Developer's Mind 
+0:2:1:0:0, 2008, How Can Amazon EC2 Benefit from the Elastic Grid Solution? 
+0:6:1:0:0, 2008, EDR-MDS "a less is more approach to SOA Master Data Management" 
+0:16:1:2:0, 2008, Newspeak 101 for Java Programmers 
+2:30:7:8:0, 2008, Groovy, the Blue Pill: Writing Next Generation Java Code in Groovy 
+0:0:2:0:0, 2008, Fully Distributed Scrum: The Secret Sauce for Hyperproductive Outsourced Development Teams 
+0:6:0:0:0, 2008, Sexier Software with Java and Flex 
+0:0:1:0:0, 2008, Panel: Alternative and Emerging Languages 
+0:4:1:0:0, 2008, Extending Continuous Integration: Implementing a full value chain from development to production in Java EE 
+0:2:1:4:0, 2008, Introducing the Scala Programming Language 
+0:2:0:0:0, 2008, Tapestry 5: Java Power, Scripting Ease 
+0:0:1:0:0, 2008, FitNesse in the real world - yes, it really does work. 
+0:10:1:2:0, 2008, Project Hydrazine: JavaFX Open Cloud Computing Platform 
+0:6:1:0:0, 2008, Mutation testing - Code coverage 2.0 
+0:4:4:0:0, 2008, Managing wicked projects - a survival guide 
+0:10:0:0:0, 2008, How I learned to love and hate web-testing 
+0:8:2:0:0, 2008, Son of SOA:  Resource Oriented Computing and Event Driven Architectures 
+0:0:1:0:0, 2008, Taking Apache Camel for a Ride 
+0:4:1:0:0, 2008, Qi4j - a new approach to old problems 
+0:1:0:0:0, 2008, Future and Present of Java ME development – Netbeans Mobility IDE 
+0:2:3:0:0, 2008, Creating an assisted music composition application using a Topic Map driven Java model 
+0:4:1:0:0, 2008, Latest debugging techniques for Swing applications 
+0:6:3:4:0, 2008, Java 6 update 10, ease of deployment and Java SE 7 
+0:18:3:2:0, 2008, GridGain 2.0 – Grid Computing Made Simple 
+0:14:2:0:0, 2008, Adding Animation and Media to JavaFX and Java Applications 
+0:20:13:6:0, 2008, How to implement a dynamic map in your web page (without marrying a vendor) 
+0:4:0:0:0, 2008, Bytecode Manipulation in the Real World 
+0:2:6:0:0, 2008, SOA Governance – 5 common mistakes and how to avoid them 
+0:4:0:0:0, 2008, Managing one-to-too-many relations in rich domain models 
+0:0:1:4:0, 2008, Concurrency and Performance Reloaded 
+0:2:0:0:0, 2008, Agility at Scale - Using Team Concert in a Globally Distributed Team 
+0:6:4:0:0, 2008, RESTful Web Services with Spring 
+0:2:0:0:0, 2008, JRuby Smörgåsbord 
+0:24:3:6:0, 2008, Easy and maintainable enterprise testing with Unitils 
+0:0:2:0:0, 2008, Hands on JavaFX 
+0:2:1:0:0, 2008, Listening to Test Smells 
+2:6:2:0:0, 2008, Comparing IoC containers (Spring, Guice, Tapestry 5 IOC, HK2) 
+0:24:2:2:0, 2008, Top 10 Patterns for Scaling Out Java Applications 
+0:8:4:0:0, 2008, Refactoring Maven Projects 
+0:8:0:4:0, 2008, An affair to remember - technology and user experience 
+0:6:1:4:0, 2008, Zero Turnaround in Java Development 
+0:2:0:0:0, 2008, Creating attractive clients with NetBeans Rich Client Platform 
+0:6:1:2:0, 2008, How to please your wife - The leap from strategy to implementation 
+0:10:1:0:0, 2008, Achieving greater code reuse through decoupling of feature implementations from the domain 
+0:4:1:0:0, 2008, Scala? Ruby? Erlang? Python! 
+0:2:3:2:0, 2008, Who needs standards in an open source world 
+0:10:11:0:0, 2008, Clean Code III: Functions 
+2:18:7:0:0, 2008, What's new and cool in Portlet 2.0 
+0:52:19:4:0, 2008, Better Domain Driven Design 
+0:8:3:4:0, 2008, Dynamic languages and frameworks in an enterprise application server world - an approach with GlassFish v3 
+0:4:1:0:0, 2008, Introduction to Behaviour Driven Development 
+0:0:2:0:0, 2008, The Enterprise without a Database 
+0:24:5:32:2, 2008, Software and Metrics – Is quality measureable? Recipes to reach bettertechnology quality! 
+0:6:3:2:0, 2008, The Enterprise Service Bus: Silver Bullet or Golden Hammer? 
+0:2:1:8:0, 2008, Spring == XML, XML == sucks therefore Spring == sucks? 
+0:4:3:0:0, 2008, Objects of Desire 
+0:6:3:2:0, 2008, iLabs mobile toolbox: J2ME applications without intolerable pain 
+0:8:1:2:0, 2008, Guerrilla SOA 
+0:2:1:6:0, 2008, Experiences from using JSF, Spring Webflow and Ajax as a platform for rich web-applications 
+0:8:3:4:0, 2008, Real-world OpenESB, best practices and experiences 
+0:2:2:0:0, 2008, Comprehensive Project Intelligence: Apache Maven, Nexus, Hudson and m2eclipse 
+0:2:0:0:0, 2008, Beyond the hype: OSGi in practice 
+0:2:0:0:0, 2008, Small is Beautiful – Scaling Agile to Complex Multi-Project Environments 
+0:0:1:0:0, 2008, Quercus 
+0:10:3:0:0, 2009, Unleash Your Domain 
+0:18:3:2:0, 2009, Trading on the stock exchange with an iPhone 
+0:20:3:6:0, 2009, Strategic Design & Responsibility Traps 
+0:14:1:2:0, 2009, A ”Second Life”-approach to BPM 
+0:10:3:12:0, 2009, GlassFish v3 - The future of app servers and Java EE is here 
+0:4:1:0:0, 2009, Rebuilding guardian.co.uk with DDD 
+0:12:1:2:0, 2009, The Uncertainty Principle 
+0:12:2:2:0, 2009, Maven Reloaded 
+0:14:1:0:0, 2009, Getting Started with Spring Integration 
+0:6:1:0:0, 2009, Open Source Debugging Tools - A 60 Minute Boot Camp 
+0:8:1:4:0, 2009, DSLs in Groovy: Say What You Mean, Mean What You Say 
+0:6:1:2:0, 2009, Hudson: a continuous integration system 
+0:15:3:0:0, 2009, The Productive Programmer: Mechanics 
+0:2:1:4:0, 2009, Meta-programming JRuby for Fun & Profit 
+0:20:8:8:0, 2009, Agile Application Management 
+0:14:3:4:0, 2009, Learning an old dog named Log4j new tricks using Spring and JMX 
+0:10:12:0:0, 2009, Debugging your Production JVM 
+0:10:0:10:0, 2009, Pragmatic Real-World Scala 
+0:12:5:0:0, 2009, Unconscious Taylorism  - Why Old Thinking Hinders Agile Adoption 
+0:12:3:0:0, 2009, Developing for the clouds, a practical guide for cloud-enabling your application 
+2:30:19:8:0, 2009, Code Smells and Refactoring Revisited:  Advances from the software engineering research community 
+2:12:3:10:0, 2009, Lizard Brain Web Design 
+0:2:7:0:0, 2009, Building and managing a highly scalable Twitter-like clone 
+0:12:1:2:0, 2009, Continuous Performance Testing in the Cloud 
+0:4:3:0:0, 2009, What's new in Spring 3.0 
+2:12:5:0:0, 2009, Do you really get class loaders? 
+0:12:1:2:0, 2009, To ESB or not to ESB: that is the question 
+0:8:9:6:0, 2009, Rules engines vs domain logic 
+0:6:1:2:0, 2009, Open Innovation 
+0:2:3:0:0, 2009, Google App Engine Java Applications HOWTO 
+0:6:1:2:0, 2009, Qi4j Persistence 
+0:12:3:2:0, 2009, Java™ and JavaFX™ Technology and the Nintendo Wiimote: Just How Much Fun Can You Have? 
+0:4:5:6:0, 2009, The Essence of User Interface Programming 
+0:6:0:0:0, 2009, Solr:Search at the Speed of Light 
+0:30:7:8:0, 2009, Reconsidering cherished design dogmas 
+0:8:5:0:2, 2009, Patterns for persisting large and rich domain models 
+2:8:1:2:0, 2009, Green Patches in a Brown Field 
+0:4:1:4:0, 2009, One web, CSS3, and HTML5 
+0:14:7:6:0, 2009, Redis, a new kind of key-value database 
+0:20:9:4:0, 2009, The Forgotten Art of Batch Programming 
+0:6:9:4:0, 2009, Scala & Wicket, match made in heaven? A case study of JavaZone's web submission application 
+0:12:1:2:0, 2009, A Cuke for Duke - Awesome Java BDD 
+0:6:5:0:0, 2009, Scaling Agile Software Development: Strategies for Applying Agile in Complex Situations 
+0:4:3:4:0, 2009, Ioke - A folding language 
+0:6:3:6:0, 2009, Agile Enterprise Development with Groovy and Grails 
+0:2:7:0:0, 2009, The Ghost in the Virtual Machine: A Reference to References 
+0:0:1:0:0, 2009, DDD panel 
+0:16:13:2:0, 2009, Take back control of your web application frontend 
+0:12:4:2:0, 2009, Tools and practices for agile architecture documentation 
+0:2:1:0:0, 2009, How can I eliminate builds, redeploys and gain 2-8 weeks a year? 
+0:10:3:0:0, 2009, Reflection Madness 
+0:16:1:0:0, 2009, Breaking Barriers with HTML5 WebSockets: How to enable a stateful Web 
+0:2:17:2:0, 2009, HTTP caching on clients made easy 
+2:14:1:2:0, 2009, State, Your'e Doing It Wrong:  Exploring Alternative Concurrency Paradigms on the JVM 
+0:12:1:0:0, 2009, Anemic domain models: diagnosis, causes, effects and possible treatments 
+0:14:3:4:0, 2009, The New Face of JRuby 
+0:2:1:4:0, 2009, Green Code 
+0:10:1:4:0, 2009, Objects of Value 
+0:10:7:8:0, 2009, Title: JSR-330 as implemented by Google Guice 
+2:14:1:0:0, 2009, JSON Flickr Integration - Live Coding Session 
+0:4:3:6:0, 2009, Dynamic Languages: the next big thing for the JVM or an evolutionary dead end? 
+0:6:3:0:0, 2009, Right on Schedule 
+0:6:1:2:0, 2009, Speeding up the development cycle: Stash your files on a Solid State Drive 
+0:4:9:2:0, 2009, Utilizing Scripting in Real-World Applications 
+2:16:0:0:0, 2009, Test Driven Development in JavaScript 
+0:6:7:4:0, 2009, Cplusplus, Java and .NET: Lessons learned from the Internet Age, and What it Means for the Cloud and Emerging Languages 
+0:4:2:0:0, 2009, JDK7: What the Future Holds For Java 
+0:2:1:0:0, 2009, OAuth or how to keep your mashed up data secure 
+0:6:1:6:0, 2009, Domain Driven Design in the Enterprise and the hardship of API design 
+0:10:1:2:0, 2009, Agile Specification Quality Control: How to do inspections on any kinds of IT Development outputs for measurement of major defects 
+0:12:3:4:0, 2009, The Rules of SOA - A Road to a Successful SOA Implementation 
+0:12:5:6:0, 2009, How to avoid rotten data  and remain responsive 
+2:7:7:0:0, 2009, Ditch your complex clients: become RESTful 
+0:10:1:0:0, 2010, A Practical Introduction to Apache Buildr 
+0:8:11:0:0, 2010, Do you really get Memory? 
+0:0:1:4:0, 2010, Spring 3 Java Config 
+0:16:7:12:0, 2010, Ghost in a cell 
+2:12:5:0:0, 2010, How to Defend Against the OWASP Top Ten Web Security Threats 
+0:10:1:4:2, 2010, Unleash your processor(s) 
+0:10:3:2:0, 2010, Enter The Gradle 
+0:6:1:4:0, 2010, Are you ready for change? 
+0:10:1:0:0, 2010, Scala on TRONbot 
+0:8:1:0:0, 2010, Beyond Java:  Enterprise Apps, Script Programming, and the JVM 
+0:4:1:2:0, 2010, Hacking Your Brain for Fun and Profit 
+0:16:1:0:0, 2010, Giving functional tests what they want: test system allocation on an as-needed basis. 
+0:4:1:0:0, 2010, Building Websocket Based Applications on GlassFish/Grizzly 
+2:2:3:0:0, 2010, The Value of a Steaming Pile of Crap 
+0:8:1:2:0, 2010, How we blew our shot at beating Spotify, spending two metric truckloads of cash doing it 
+0:8:9:2:0, 2010, Getting more out of your Hudson 
+0:4:1:2:0, 2010, The not so dark art of Performance Tuning 
+0:0:7:12:0, 2010, JRuby: Now With More J! 
+0:10:5:0:0, 2010, Introducing Erlang to the OO Community 
+0:2:1:8:0, 2010, Generating characterization tests for legacy code 
+0:10:3:0:0, 2010, Enhance your Maven plugins with Groovy 
+0:2:5:0:0, 2010, The Product Backlog Hinders Value Creation 
+0:12:1:0:0, 2010, Practical use of Scala Actors 
+4:4:5:0:0, 2010, Emergent Design 
+2:10:7:4:0, 2010, Hadoop: Divide and Conquer Gigantic Datasets 
+0:16:3:0:0, 2010, Test-Driven Development at the System Scale 
+0:8:1:8:0, 2010, Multicore and Event Driven Architectures 
+0:2:1:2:0, 2010, Drop the debugger and become a better programmer. 
+0:4:7:0:0, 2010, Static Analysis in Search for Performance Anti-Patterns 
+0:0:2:0:0, 2010, Maven NG: Sisu, Aether, Polyglot Maven, Maven Shell, Proviso & Benson 
+0:2:1:6:0, 2010, DI flavours in Spring 3 
+0:2:3:2:0, 2010, 97 Things: Testing Is the Engineering Rigor of Software Development 
+0:6:1:0:0, 2010, 97 Things: Do Lots of Deliberate Practice 
+0:2:1:2:0, 2010, 97 Things Every Programmer Should Know 
+0:4:5:4:0, 2010, Pattern matching in Scala 
+0:18:3:6:0, 2010, HTML5 & WebSockets: Think BIG. Really BIG! 
+0:4:1:4:0, 2010, Getting Real: Lift, the Scala web framework 
+0:4:1:2:0, 2010, Mule 3: What's New and Cool 
+0:4:3:12:0, 2010, Then Our Buildings Shape Us: Form and Content in Software Development 
+0:8:5:4:0, 2010, Basic Memory Troubleshooting 
+0:12:1:0:0, 2010, NOSQL with Java 
+0:2:1:2:0, 2010, It Is Possible to Do Object-Oriented Programming in Java 
+0:14:1:0:0, 2010, OpenMQ, The JMS reference Implementation 
+2:8:1:0:0, 2010, Keyboard navigation in Web apps is NOT optional 
+0:12:3:0:0, 2010, Java 7 NIO.2: The I/O API for Future 
+0:10:1:0:0, 2010, Vaadin - Rich Web Applications in Java without Plug-ins or JavaScript 
+0:2:1:2:0, 2010, I Tried Domain Driven Design and Failed 
+0:14:2:0:0, 2010, Akka: Simpler Scalability, Fault-Tolerance, Concurrency & Remoting through Actors 
+0:6:1:0:0, 2010, Time to fix it! - JSR-310 Date and Time API 
+0:10:9:0:0, 2010, Event Driven Architecture with the Spring Platform 
+0:4:3:0:0, 2010, Extreme performance in Financial Services - Matching Engines 
+0:6:1:0:0, 2010, JavaFX: Designer Developer Workflow 
+0:6:1:2:0, 2010, Git-fu! 
+0:6:1:0:0, 2010, Live Coding Session : Adding non obtrusive and search engine friendly JavaScript navigation 
+0:6:1:2:0, 2010, Building a scalable search engine with Apache Solr, Hibernate Shards and MySQL 
+0:4:3:0:0, 2010, Mocking too close for comfort? 
+0:12:3:4:0, 2010, Decision Making in Software Teams 
+0:4:5:4:0, 2010, Play! framework: a revolution in the Java world 
+0:12:3:0:0, 2010, Cloud Computing with Scala and GridGain 
+0:12:4:0:0, 2010, Getting Started with Spring and Activiti 
+0:8:0:0:0, 2010, Implementing a REST API using Qi4j 
+0:4:3:2:0, 2010, Architecture Determines Performance 
+0:10:2:4:0, 2010, Creating modular web applications with Apache Aries and OSGi 
+0:12:0:4:0, 2010, Spring Roo, a tiny tour de force of sensible Rapid Application Development 
+0:6:3:2:0, 2010, Writing SOLID JavaScript code 
+0:8:1:2:0, 2010, Flying with Griffon 
+0:6:1:4:0, 2010, Surviving Java Maintenance - A mini field manual 
+0:12:1:0:0, 2010, Using the latest Java Persistence API 2.0 features 
+2:16:5:0:0, 2010, Erjang - A JVM-based Erlang VM 
+1:5:2:0:0, 2010, Augmented reality voucher hunt high on caffeine 
+0:4:3:0:0, 2010, How to debug threads in your production VM! 
+0:6:1:2:0, 2010, Git Going with a Distributed Version Control System 
+0:8:11:12:0, 2010, Cyber-Dojo - a code dojo for seriously improving your development ability 
+0:22:5:8:0, 2010, CouchDB and the web 
+2:12:3:0:0, 2010, Seven cost-efficient ways to reduce your project overruns 
+0:8:1:4:0, 2010, HATEOAS - The Confusing Bit from REST 
+0:4:1:4:0, 2010, Securing Web Services with OpenSSO 
+0:4:1:0:0, 2010, Time-travel and logging 
+0:2:1:2:0, 2010, Is the grass greener for wiki users? 
+0:12:1:0:0, 2010, Hydras and Hypermedia 
+0:6:5:0:0, 2010, How JRebel works? 
+0:4:7:6:0, 2010, Ehcache 2.0 — A consistent & coherent distributed cache using JTA 
+0:6:7:0:0, 2010, Leveraging Open Source - Everything You Wanted to Know About Open Source that Nobody Told You (including getting paid to do it) 
+0:12:11:6:0, 2010, Why We Should Start Tagging Our Code 
+0:0:3:2:0, 2010, Lean Quality Assurance 
+0:4:0:0:0, 2010, Challenging requirements 
+0:8:7:2:0, 2010, The Java EE Spike Kata 
+0:8:1:0:0, 2010, Encryption Boot Camp on the JVM 
+0:12:1:0:0, 2011, The Art of Garbage Collector Tuning (for the SUN/Oracle JVM) 
+0:2:7:6:0, 2011, Play! Framework: to infinity and beyond 
+0:18:3:6:0, 2011, Do I still hate SOA? 
+0:10:3:2:0, 2011, Comparing Asynchronous Web Techniques 
+0:1:1:0:0, 2011, What your boss wants and how you can meet the expectations 
+0:22:1:0:0, 2011, The Forgotten Art of Automation - 12 Scripts and Hacks That Will Free Your Energies 
+0:6:3:2:0, 2011, The Java Memory Model 
+0:2:4:0:0, 2011, Webbit - event driven Java WebSocket server 
+0:8:2:0:0, 2011, Scalability through Streaming 
+0:4:1:2:0, 2011, HTML5 an introduction - What can HTML5 be used for and how HTML5 can solve real problems. 
+0:8:1:0:0, 2011, Hacking - in the real world 
+0:8:1:2:2, 2011, Introducing Apache Wicket 
+0:2:5:2:0, 2011, Code Reviews - One Thing Every Programmer Should Know 
+0:2:3:2:0, 2011, AST Transformations 
+0:16:1:0:0, 2011, Close that queue-connection! 
+0:6:1:0:0, 2011, Automated Android testing using Jenkins CI 
+0:0:1:10:0, 2011, Cool Code 
+0:4:3:4:0, 2011, Extreme Cleverness: Functional Data Structures in Scala 
+0:8:1:2:0, 2011, Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity. 
+0:8:3:8:0, 2011, Extreme Performance Testing 
+0:6:1:6:0, 2011, Code Templates - The unknown superhero 
+0:12:1:2:0, 2011, Cascading through Hadoop: A DSL for Simpler MapReduce 
+0:8:3:6:0, 2011, Complexity Theory and Software Development 
+0:2:1:6:0, 2011, Programmer's Survival Kit: Code Injection for Troubleshooting 
+0:4:3:4:0, 2011, The fun of introducing technology to development projects 
+0:42:15:20:0, 2011, Usability 101 
+0:12:3:4:0, 2011, CoffeeScript: JavaScript without the Fail 
+0:14:3:2:0, 2011, The Cloudy Future of Integration 
+0:2:3:4:0, 2011, Hypermedia Design and REST 
+0:14:1:0:0, 2011, Functional Thinking 
+0:8:4:4:0, 2011, Bytecode for discriminating developers 
+0:8:3:0:0, 2011, How to make your own nosql cloud 
+0:4:1:4:0, 2011, Working with code 
+0:6:3:0:0, 2011, Regex - The future programming 
+0:6:5:2:0, 2011, Information Alchemy: Presentation Patterns & Anti-Patterns 
+0:4:1:0:0, 2011, Deploying Apps on Heroku 
+0:14:1:0:0, 2011, Above the Clouds: Introducing Akka 
+0:6:3:8:0, 2011, Oracle JVM Convergence: 1 + 1 = 1 
+0:4:7:2:0, 2011, The Pros and Cons of JPA 2 
+0:6:3:2:0, 2011, Goal-directed web applications with Scala 
+0:8:1:0:0, 2011, Moving Java Forward: Java SE 7 has been released, what about Java SE 8? 
+0:4:3:0:0, 2011, Groovy.DSLs(from: beginner, to: expert) 
+2:8:1:2:0, 2011, RIA Security - Broken By Design 
+0:6:3:0:0, 2011, Domain Driven Security Code Kata 
+0:4:3:2:0, 2011, MongoDB and the JVM: Bringing NoSQL and the Java Platform Together 
+0:8:1:2:0, 2011, Pump It Up: Maximizing the Value of an Existing Investment in Java with Ruby 
+0:6:5:4:0, 2011, High Wizardry in the Land of Scala 
+0:6:7:0:0, 2011, Spring Java Config is cool. Writing it in Scala makes it sexy! 
+0:6:1:0:0, 2011, Cucumber now with JVM improvements 
+0:8:7:4:0, 2011, Java Concurrent Animated 
+0:6:1:2:0, 2011, Building for the Cloud 
+2:2:5:0:0, 2011, Enterprise Integration - The seriously nasty stuff 
+0:6:5:0:0, 2011, Long term value of acceptance tests 
+0:6:5:2:0, 2011, How Java will not die 
+0:6:1:2:0, 2011, Meet the Java Posse 
+0:4:1:0:0, 2011, Software G Forces: The Effects of Acceleration 
+0:4:3:0:0, 2011, Dependency injection when you only have one dependency 
+0:2:1:2:0, 2011, A Deep Dive into Spring's IoC Support, in 2011, and in the Future 
+2:8:1:4:0, 2011, Testable Enterprise Development with Arquillian 
+0:8:2:2:0, 2011, The Future is Reactive 
+0:4:1:2:0, 2011, The Complexity of Complexity 
+0:8:1:0:0, 2011, 3 Case Studies in NoSQL, Java and the Real World 
+0:10:3:0:2, 2011, Radical NoSQL Scalability with Cassandra 
+0:16:7:4:0, 2011, Living with Git and Subversion in Parallel 
+0:12:4:0:0, 2011, Facts and speculation about noSQL 
+0:14:5:2:0, 2011, What Riding the Camel can do to make integration easier for you 
+0:14:5:0:0, 2011, Real Architecture: Engineering? or Pompous Bullshit? 
+0:4:5:0:0, 2011, Using Spring with non relational databases 
+0:12:1:0:0, 2011, HTML 5 Fact and Fiction 
+0:6:3:4:0, 2011, Beheading the Software Beast 
+0:0:0:2:0, 2011, Continous delivery 
+0:6:3:0:0, 2011, Do distribute! Fallacies of Distributed Computing meets the Cloud... 
+0:4:3:6:0, 2011, Dependency Injection Options in Scala 
+0:2:0:0:0, 2011, Caching abstraction in Spring 3.1 
+0:12:3:2:2, 2011, Polyglot persistence for Java developers - moving out of the relational comfort zone 
+0:12:1:2:0, 2011, Breaking the [Amdahl's] law!  Effective use of the fork-join framework in Java SE 7 
+0:6:1:2:0, 2011, Mythbusters: JavaScript edition 
+0:12:3:0:0, 2012, Up up and Out: Scaling software with Akka 2 
+0:6:1:0:0, 2012, Integration test or unit test? You don't have to choose! 
+2:8:3:6:2, 2012, Real Agile: How Real Tests Lead to Real Progress 
+0:6:1:0:0, 2012, How to develop Big Data Pipelines for Hadoop 
+0:6:1:0:0, 2012, 55 New Features in JDK 7 
+0:8:1:3:0, 2012, Continuous Inspection with Sonar 
+0:6:3:0:0, 2012, F# 3.0: data, services, Web, cloud, at your fingertips 
+0:8:1:2:0, 2012, Serialization: Tips, Traps, and Techniques 
+0:4:5:6:2, 2012, Going Native 
+0:8:1:4:0, 2012, Better and groovier tests with Spock 
+0:2:3:4:0, 2012, Publish! 
+0:6:3:0:0, 2012, The evolution of data grids, from local caching to distributed computing 
+0:4:3:2:0, 2012, Using alternative languages in the enterprise without needing to be an expert 
+2:8:0:4:0, 2012, Kotlin: Making the Java Platform a Better Place 
+0:12:6:10:0, 2012, Panel: Making the programming pain stop 
+0:6:3:0:0, 2012, Functional Programming You Already Know 
+0:2:3:4:0, 2012, Comfort code 
+0:4:1:0:0, 2012, Complex Event Processing in practice 
+0:4:7:0:0, 2012, Building quality web applications on top of crap 
+0:12:0:0:0, 2012, I believe in Rust 
+0:6:7:6:0, 2012, Linking data without common identifiers 
+0:4:3:2:0, 2012, How about learning f***ing programming? 
+0:6:9:0:2, 2012, Painless Web App Development with Backbone 
+0:8:1:0:0, 2012, Advanced Git 
+0:8:27:0:0, 2012, Continuous delivery - is it possible - the experience 
+0:6:3:2:0, 2012, Lambdas in Java 8 
+0:6:1:2:0, 2012, The Future I was Promised 
+2:4:3:0:0, 2012, Swing with Style 
+0:4:3:0:2, 2012, Cracking the monolith: lessons learned from splitting the Guardian's platform 
+0:12:1:2:0, 2012, Taming Java Agents 
+0:8:8:6:0, 2012, Salesforce.com - just point&click in the cloud? 
+0:18:1:4:0, 2012, Real-World Performance Testing in AWS 
+0:6:3:0:0, 2012, Going from Mark-And-Sweep to G1 (Garbage First) garbage collection 
+0:12:0:4:0, 2012, On Building An E-Commerce SOA Platform For The World's 2nd Largest Online Retailer (B2C) 
+0:16:1:0:0, 2012, Reliable Scalability with MongoDB 
+2:4:5:0:2, 2012, An Introduction to Neo4j (and Doctor Who) 
+0:6:9:6:0, 2012, A thousand words or more? 
+0:10:7:0:0, 2012, JavaScript Libraries You Aren't Using...Yet 
+0:4:1:2:0, 2012, From open source to open API with Restlet 
+0:18:3:0:0, 2012, Relative estimation of software development effort: It matters with what and how you compare (innlagt NM i estimering) 
+0:8:3:0:0, 2012, How NoSQL Paid Off for Telenor 
+0:6:3:0:0, 2012, CPU Caches 
+0:4:1:4:0, 2012, Readable code - and the long lost secret of how to achieve it 
+0:14:7:2:0, 2012, Import Continuous Delivery 
+0:4:0:0:0, 2012, The challenge of maintenance 
+0:16:1:8:0, 2012, Object Orientation Extended with clear Interaction  Code 
+0:6:3:2:0, 2012, Grails and the World of Tomorrow 
+0:2:2:2:0, 2012, Big Data in practice with Cassandra 
+0:16:3:2:0, 2012, Pause 'n' play: Asynchronous C# Explained 
+0:10:0:6:0, 2012, sizeOf in Java - because size does matter! 
+0:4:3:4:0, 2012, Running Java, Play! and Scala Apps on the Cloud 
+0:4:3:0:0, 2012, Functional Groovy 
+0:12:11:8:0, 2012, Networks for Programmers 
+0:24:1:2:0, 2012, Managing Agile Processes, with a Stakeholder Value point of view:  10 Revised Agile Principles 
+0:6:3:4:0, 2012, A Good API is Hard to Find 
+0:4:1:2:0, 2012, Hipstergramming with Java 
+0:2:1:2:2, 2012, Enterprise Integration and Batch Processing on Cloud Foundry 
+0:12:13:8:0, 2012, Then Our Buildings Shape Us 
+0:16:1:6:0, 2012, Cloudname, a system for coordinating services 
+0:6:0:2:0, 2012, Readable, Maintainable, Trustworthy Unit Tests 
+0:4:3:0:0, 2012, Java EE Security in practice with Java EE 6 and GlassFish 
+0:10:1:2:0, 2012, Continuous Delivery: from dinosaur to spaceship in 2 years 
+0:4:3:2:0, 2012, MongoDB and the JVM: Bringing NoSQL and the Java/Scala Platforms Together 
+0:8:3:6:0, 2012, Scaling search with Apache Solr 4.0 and SolrCloud 
+0:6:5:0:0, 2012, Introduction to Ceylon 
+0:18:5:2:2, 2012, Ruboto - Ruby on Java on Android 
+0:8:9:2:0, 2012, Averting Tragedy on the Architectural Commons 
+0:4:1:4:2, 2012, Reinventing software quality 
+0:6:1:4:0, 2012, (Unit) Testing Swiss Knife: All the Tools You Wanted to Know 
+0:6:3:2:0, 2012, Git From the Bits Up 
+0:4:3:0:0, 2012, 98% performance boost - From 24 hours to 24 minutes 
+0:2:1:2:0, 2012, Programmer happiness is an undervalued asset 
+0:2:1:4:0, 2012, Pure JavaScript 
+0:12:1:2:0, 2012, Puppet for Java developers 
+0:6:3:0:0, 2012, Design For Replaceability - Architecture For An Agile Lifestyle 
+0:6:1:0:0, 2012, Memory Leaks in Java 
+0:4:1:2:0, 2012, Prototyping, Iterating, Rebuilding government 
+0:18:1:8:0, 2012, Cakes and diesel fuel - What every developer needs to know about application security 
+0:10:5:2:2, 2012, Everything a Java(script) programmer needs to know about internet video 
+0:12:3:4:0, 2012, How to write highly portable Android applications 
+0:16:1:2:0, 2012, Decomposing applications for scalability and deployability 
+0:2:1:4:0, 2012, SBT or Maven? - I'll take both! 
+0:2:15:2:0, 2012, The Mobile App Smackdown: Native Apps vs. The Mobile Web 
+0:10:5:6:0, 2013, A software craftsman gets things done! 
+0:6:1:8:2, 2013, Anxious Cows in ClojureScript 
+0:6:1:2:0, 2013, Build True Native Apps for iOS, Android, Windows and More in Java 
+0:10:1:4:0, 2013, Dart and Web Components - Scalable, Structured Web Apps 
+0:4:3:2:0, 2013, www.NoSQL.com 
+2:2:3:0:0, 2013, Going Reactive: Event-Driven, Scalable & Resilient Systems 
+0:4:1:2:0, 2013, Unit test enforced database delta scripts 
+2:6:3:4:0, 2013, First, Kill All the Product Owners 
+0:16:9:6:0, 2013, So SQL 
+4:2:3:0:0, 2013, Breaking the monolith: Towards a system-of-systems architecture 
+0:22:5:6:0, 2013, Authorization: it's not just about who you are! 
+0:0:5:6:0, 2013, Visualize your architecture and information 
+0:8:3:0:0, 2013, Data, Visibility, and Abstraction 
+0:4:1:2:0, 2013, Phaser and StampedLock Concurrency Synchronizers 
+0:8:1:0:2, 2013, Mocking, Stub and Spying with Spock 
+0:8:1:4:0, 2013, Fun with JavaFX on Raspberry Pi and BeagleBoard xM 
+0:8:1:0:0, 2013, Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory 
+0:6:1:0:0, 2013, Why and how we do mobile native apps at FINN.no 
+0:0:7:2:0, 2013, Design is a Process, not a Document 
+0:12:1:4:0, 2013, Lowering stress-level with beta-users and functional switches 
+0:18:5:0:0, 2013, How to survive in a BASE world 
+0:22:3:4:0, 2013, Implementing modular software on the Java platform 
+0:18:1:6:0, 2013, Simple scales faster and better in the real world 
+2:4:3:2:0, 2013, AngularJS - What is it and why you should care! 
+0:14:3:4:0, 2013, Extreme Programming Live 
+1:1:0:0:0, 2013, Tuning the JVM 
+0:2:4:0:0, 2013, Goodbye XML ! 
+0:8:3:8:0, 2013, Configuring large scale distributed systems 
+0:12:7:0:0, 2013, The Unreasonable Effectiveness of Dynamic Typing for Practical Programs 
+0:14:5:0:0, 2013, Immutable data stores - Datomic vs EventStore 
+0:8:1:4:0, 2013, Functional I/O in Scala 
+0:10:9:2:0, 2013, Getting your project off the ground 
+0:8:3:0:0, 2013, Backbone vs Angular - How much work do you want the framework to do for you? 
+0:6:3:0:0, 2013, Top 10 Security Mistakes In Software 
+0:16:5:2:0, 2013, Programming, Only Better 
+0:4:11:0:0, 2013, Functional Programming without Lambdas 
+0:8:5:4:0, 2013, The Long Tail Treasure Trove 
+0:10:1:6:0, 2013, Git with T for team 
+0:8:3:6:0, 2013, Select; Arm; DEPLOY! - Building a missile-launcher style deploy button 
+0:6:1:4:0, 2013, Chef for developers 
+0:8:1:8:0, 2013, CRaSH : the shell for the Java Platform 
+0:12:3:2:0, 2013, Ten man-years of JavaFX: Real-world project experiences 
+0:10:9:8:0, 2013, Safe REST full of OAuth 
+0:8:11:0:0, 2013, You probably don't know how the internet actually works 
+0:10:1:2:0, 2013, Unfiltered Directives - doing http right 
+0:4:3:4:0, 2013, State or intent? How should you store your data? 
+2:16:3:0:0, 2013, Customer value through quality requirements 
+0:4:1:4:0, 2013, Managing Asynchronicity in JavaScript with RQ 
+0:4:3:2:0, 2013, Mutation testing with Pitest 
+0:4:3:0:0, 2013, Functional Programming in Java: lambdas and beyond 
+0:4:1:4:0, 2013, Exploring Ceylon in Eclipse 
+0:6:5:0:0, 2013, Oracle SQL Hacking Session: "Just you, me, Java and a Oracle database" 
+0:2:1:0:0, 2013, High Performance Design 
+0:0:2:0:0, 2013, High Speed Continuous & Reliable Data Ingest into Hadoop 
+0:14:3:4:0, 2013, How to Write a Method 
+0:6:1:0:0, 2013, JSF 2.2 Big Ticket Features in Context 
+0:24:5:8:0, 2013, Rmatch, matching many regular expressions in parallel 
+0:2:1:4:0, 2013, Home Automation at the touch of a button 
+0:2:3:2:0, 2013, Java 8 to the rescue!? 
+0:0:3:2:0, 2013, Designing for Continuous Delivery 
+0:4:1:2:0, 2013, Modern Cassandra: big data without big headaches 
+0:20:3:4:0, 2013, Why and how The Lean Startup Movement will change (and maybe save) your life as a programmer 
+0:4:1:10:0, 2013, Patterns of Large-Scale JavaScript Applications 
+0:2:1:4:0, 2013, Programming should be FUN 
+0:2:1:6:2, 2013, Borrowing from GitHub's Culture for Fun and Profit 
+0:10:3:4:0, 2013, Small lambda talk 
+0:8:3:0:0, 2013, CSS regression testing with PhantomCSS, Resemble.js and friends 
+0:12:2:4:0, 2013, Scala macros: what are they, how do they work & who uses them 
+0:6:8:6:0, 2013, Micro-Services - Java, the UNIX way 
+0:8:7:4:0, 2013, Flyway: The agile database migration framework for Java 
+0:2:3:0:0, 2013, Think Erlang 
+0:8:1:0:0, 2013, JavaScript Framework Face off 
+0:4:1:2:0, 2013, Designing and Implementing a Graph Database Application 
+0:2:1:0:0, 2013, Concurrent Processing Techniques 
+0:6:1:4:0, 2013, Moving the web to the client 
+0:4:1:6:0, 2013, Adding language features through AST hacking – possibilities and limitations 
+0:6:3:0:0, 2013, Upload files better with AJAX 
+0:6:3:4:0, 2013, Livin on the edge: Netflix edge architecture 
+0:6:5:0:0, 2013, Fighting bitrot with your mind 
+0:6:1:0:0, 2013, Replay your production bugs 
+0:8:1:2:0, 2013, 6 Years Later: One Line of Code That Changed the Web Forever 
+0:8:3:2:0, 2013, Information-Leading Architectures 
+0:10:0:0:0, 2013, Advanced Enterprise Architectures using Open Source 
+0:10:1:0:0, 2013, Autoscaled Frankenstein Pipeline in the Cloud 
+0:8:5:4:0, 2013, Don't use Git 
+0:14:1:2:0, 2013, Economies of Scala 
+0:2:3:4:0, 2013, Building a life-saving portal as a single page Javascript application 
+0:8:1:2:0, 2013, Machine Learning for Java Developers - it’s not just the algorithms 
+0:10:1:0:0, 2014, Distributed Consensus A.K.A. "What do we eat for lunch?" 
+0:10:1:6:0, 2014, Regex Ninja: The Magic of Regular Expressions 
+0:4:3:2:2, 2014, What's the deal with Functional Programming anyway? 
+0:10:7:4:0, 2014, Strategic reuse 
+0:10:5:12:0, 2014, goto java; 
+0:14:15:4:0, 2014, Fix That! 
+0:12:7:4:0, 2014, Starting off Vaadin on the right foot 
+2:8:11:2:0, 2014, Immutable Server Generation: the new App Deployment 
+0:12:5:8:0, 2014, Making the Case for Reviews 
+0:6:1:2:0, 2014, The Adventurous Developer's guide to Application Servers 
+0:4:3:4:0, 2014, Under the Hood of the HotSpot G1 Garbage Collector 
+0:6:7:0:0, 2014, Refactoring to Functional 
+0:10:3:2:0, 2014, Resilience with Hystrix 
+0:8:1:0:0, 2014, Jolokia - JMX on Capsaicin 
+0:4:2:6:0, 2014, A Little Graph Theory for the Busy Developer 
+0:8:1:0:0, 2014, Predictive Models of Development Teams and the Systems they Build 
+0:14:19:6:0, 2014, I/Opener to the Big I/O 
+0:10:0:0:0, 2014, How do crypto currencies work? 
+0:8:1:2:0, 2014, Mimicking Natural Phenomena to Solve Complex Industrial Problems 
+0:10:0:8:0, 2014, TDD with AngularJS and TypeScript 
+0:12:5:6:0, 2014, Building flexible and high performance software with CQRS and Axon Framework 
+0:8:1:6:0, 2014, Future of Development and the Cloud 
+0:0:3:4:0, 2014, Dart: A programming language designed for speed and the web 
+0:8:5:2:0, 2014, Blueflood: A case study in open-sourcing a large piece of infrastructure software 
+0:12:3:4:0, 2014, Distributed Ad hoc Real-Time Stream Processing 
+0:2:0:0:0, 2014, Hands on elasticsearch / Kibana 
+0:10:3:4:0, 2014, Using Docker to streamline development 
+0:14:5:2:0, 2014, Making Steaks from Sacred Cows 
+0:10:7:0:0, 2014, Choose the right tools for the job - avoid "hammer first" solutions 
+0:14:11:8:0, 2014, Semantic Wizardry, Logic [Zebra] Puzzles, and Java 
+0:4:3:4:0, 2014, Kotlin vs Java puzzlers 
+0:4:1:0:0, 2014, Accelerate your development by accelerating your feedback loop 
+0:8:5:2:0, 2014, Combining .NET and Java in an enterprise web publishing platform 
+0:12:5:6:0, 2014, Java 8: Efficient use of multi core processors with lambdas and streams 
+0:4:1:4:2, 2014, 50 new features of Java EE 7 
+0:2:1:2:0, 2014, What the hell is WebRTC? 
+0:10:3:8:0, 2014, Web-security experiences from a Penetration Tester 
+0:4:1:2:0, 2014, #NoEstimates 
+0:8:3:0:0, 2014, Cost-Aware Architectures 
+0:2:3:6:0, 2014, A Hands-on Introduction to Neo4j 
+0:12:1:2:0, 2014, Connecting Physical Devices to the Web  - Event Driven Architecture using WebSocket for the Internet of Things 
+0:8:3:8:0, 2014, Get a power-up for your browser tests with geb and groovy! 
+0:2:3:2:0, 2014, Functional UIs with Vaadin 
+0:8:1:2:0, 2014, Continuous Delivery for Architects 
+0:4:3:0:0, 2014, Cassandra (and Hadoop) case studies from FINN.no 
+0:8:13:2:0, 2014, Software Design: Why, When & How 
+0:8:3:6:0, 2014, Mastering Continuous Delivery and DevOps 
+0:6:5:2:0, 2014, Ceylon from here to infinity: the big picture and what's coming 
+0:18:0:2:0, 2014, JSR 363 - The  Answer to Life Science and the Internet of Everything 
+0:4:6:4:2, 2014, How Open Source can make your $job a better place 
+0:8:5:2:0, 2014, Build your Java applications with Gradle 
+0:16:3:2:0, 2014, Building on SOLID Foundations 
+0:10:1:2:0, 2014, Handling complexity through configurability: Erex - an energy settlement solution for the railways of tomorrow 
+0:8:11:14:2, 2014, The Spirit of the Dugnad – Support Your Local Meetup! 
+0:6:1:0:0, 2014, Conquering the wicked kingdom of Java with a NodeJS Trojan horse 
+0:6:5:0:0, 2014, Your web application is already out of date 
+0:10:5:0:0, 2014, Akka hands-on 
+0:4:3:2:0, 2014, Functional Reactive Programming in Javascript 
+0:14:1:0:0, 2014, 33 things you want to do better 
+0:6:1:2:0, 2014, Quick and easy performance testing for developers 
+0:8:3:0:0, 2014, SQL, the Underestimated Big Data Technology 
+0:24:3:18:0, 2014, Logs live and in color – say goodbye to old school log files 
+0:4:1:2:0, 2014, Building a Country on Open Source Java 
+0:10:3:0:0, 2014, Introduction to Mutation Testing 
+2:10:1:2:0, 2014, Workshop: Designing event sourced applications 
+0:6:5:6:2, 2014, BDD - better driven development? 
+0:6:1:8:0, 2014, Mind the Gap: Architecting UIs in the Era of Diverse Devices 
+0:6:1:2:0, 2014, Real world RESTful service development problems and solutions 
+0:8:5:2:0, 2014, Understanding Java byte code 
+0:12:3:4:0, 2014, Power to the Programmers 
+0:8:5:6:0, 2014, Building Advanced Web Applications using Canvas 
+0:16:11:4:0, 2014, Using the right tools to get back into the driver's seat of your JVM 
+0:12:1:0:0, 2014, REST in Practice, in Practice 
+0:0:3:2:0, 2014, Akka in real-time 
+0:4:3:2:0, 2014, Building Modular Java Applications in the Cloud Age 
+0:6:1:0:0, 2014, Build Mobile iOS Apps In Java Using Codename One 
+0:8:5:0:0, 2014, Unit testing concurrent code 
+0:8:3:2:0, 2014, Functional Groovy 
+0:8:7:0:0, 2014, Building A Big Data Machine Learning Platform 
+0:4:0:4:0, 2014, The fastest Arduino in Scandinavia 
+0:4:1:2:0, 2014, Paxos explained in one hour 
+0:4:2:6:0, 2014, Polymer: Shadow DOMS, Custom Components and the Future of Web 
+0:18:5:4:0, 2014, So long, and thanks for all the tests 
+0:4:2:2:0, 2014, Schema migration - the missing piece in Java EE 
+0:2:3:2:0, 2014, How to "login with Facebook": OAuth 2 demystified 
+0:8:5:4:0, 2014, Practical Considerations For Microservice Architectures 
+0:12:3:2:0, 2014, Iteration 2.0: Stream 
+0:4:3:6:0, 2014, Really understanding Clojure, getting into macros 
+0:16:1:0:0, 2014, I-Tier: Breaking Up the Monolith 
+0:2:3:10:0, 2014, Fibonacci Pairing: Learning through Collaboration 
+0:6:3:0:0, 2014, Interpolation - The art of moving from A to B 
+2:10:7:4:0, 2015, Docker for Java developers 
+0:2:3:6:0, 2015, Seven Things Developers Can Learn from Film 
+0:4:15:6:0, 2015, Code Reviews: Techniques and Tips 
+0:16:7:4:0, 2015, Efficient HTTP Apis 
+0:8:3:2:0, 2015, NoSQL and Einstein's theory of relativity 
+0:10:1:4:0, 2015, public abstract JSON executeJavaScript(String script, boolean shouldYou); 
+0:0:3:6:0, 2015, Big Data Engineering - The Hitchhiker's Guide 
+0:8:5:2:0, 2015, ASVS in a business application 
+0:16:3:0:0, 2015, Stateless authentication with OAuth 2 and JWT 
+0:26:1:2:0, 2015, Elasticsearch, Logstash and Kibana – Highly Configurable Log Analysis 
+0:6:3:2:0, 2015, Future crimes and our responsibility 
+0:4:1:0:0, 2015, Akka Streams: Streaming data transformation á la carte 
+0:12:1:2:0, 2015, High Performance Java - Binary instead of Objects 
+0:4:1:2:0, 2015, Android 101 
+0:8:3:4:0, 2015, Building security into your continuous delivery pipeline 
+0:6:1:4:0, 2015, Building a Carputer: Java and teh Automotive Internet of Things 
+0:4:1:4:0, 2015, IntelliJ IDEA Tips and Tricks 
+0:4:1:0:0, 2015, Production time profiling On-Demand with Java Flight Recorder 
+0:4:1:6:0, 2015, Playing with Hypermedia 
+0:2:3:0:0, 2015, Developers, start thinking about design! 
+2:8:6:0:0, 2015, JVM debugging under the hood 
+0:2:1:2:0, 2015, JCache - Say Goodbye to proprietary Caching APIs 
+0:4:5:2:0, 2015, PubSub++ - few tips that make your life with kafka easier. 
+0:10:5:0:0, 2015, Beyond Basic Auth - Logins for Apps and APIs 
+0:2:1:4:0, 2015, NodeBots: JavaScript Powered Robots with Johnny-Five 
+0:2:1:10:0, 2015, HTTP/2 and Java 
+0:4:5:0:0, 2015, Low Latency in Java 8 
+0:6:1:0:0, 2015, Youre the app that I want 
+0:8:3:2:0, 2015, 20 tips to reach your goals! 
+0:4:5:2:0, 2015, Get insights from your application with Metrics 
+0:0:9:2:0, 2015, jdk not so hidden treasures 
+0:10:5:4:0, 2015, Winning Integration Architectures with Apache Camel 
+0:4:3:2:0, 2015, JTransfo, converting between transfer and domain objects 
+0:12:3:4:0, 2015, Continuous Security 
+0:6:3:0:0, 2015, 5 Reasons Why You Can't do Stream Processing Without Knowing FP Well 
+0:4:3:4:0, 2015, How to make your code sustainable - what they don't teach you 
+0:6:11:6:0, 2015, 99% Java 
+0:2:4:2:0, 2015, Java 8 DOs and DON'Ts 
+0:8:13:2:0, 2015, Does My Profiler Tell The Truth? 
+0:8:15:0:0, 2015, Securing Your Java EE Applications 
+0:8:5:8:0, 2015, DSL Development with Xtext 
+0:6:3:4:0, 2015, Unlocking the magic of monads with Java 8 
+0:8:1:2:0, 2015, BYO Java RetroPi Console 
+0:4:0:0:0, 2015, The Illusion of Execution 
+0:4:1:2:0, 2015, Don't compromise: Native UX and cross-platform mobile app development in Java using RoboVM 
+0:8:5:0:0, 2015, What's wrong with Java's type system? 
+0:6:3:2:0, 2015, Taming the WebRTC beast on Android 
+0:4:9:0:0, 2015, Gradle Glam: Plugins Galore 
+0:8:1:2:0, 2015, Everything a Java Developer Should Know about the JavaScript Landscape 
+0:10:11:0:0, 2015, Practical API design 
+0:6:1:2:0, 2015, Testing and packaging a system of microservices based on docker and spring 
+0:4:1:6:0, 2015, There is no snapshot 
+0:5:1:2:0, 2015, Beer analytics with ELK 
+0:8:5:2:0, 2015, Make your REST services attack proof 
+0:16:3:0:0, 2015, Java 8 JVM Memory and Thread Management 
+0:8:17:8:0, 2015, Continuous Delivery and Zero Downtime: what your architecture needs to succeed 
+0:2:1:4:0, 2015, Unlock the value of your data with Elasticsearch 
+0:6:3:6:0, 2015, Flavors of Concurrency in Java 
+0:2:1:0:0, 2015, Containerization 101 
+0:8:3:6:0, 2015, Building microservices  with functional domain models and event sourcing 
+0:8:1:2:0, 2015, Keeping your frontend intact while the backend is breaking into pieces 
+0:4:5:2:0, 2015, Java EE 8 - What's new on the Web front? 
+0:4:3:0:0, 2015, Practical mutation testing with pitest 
+0:2:7:0:0, 2015, A dedicated follower of fashion 
+0:8:1:2:0, 2015, Create your own programming language 
+0:6:1:0:0, 2015, Pulling Yourself to Nirvana 
+0:8:1:0:0, 2015, Java Image Processing Survival Guide 
+0:4:1:2:0, 2015, You can't change this: Immutable JavaScript 
+0:10:1:0:0, 2015, The dangers of building microservices 
+0:2:1:4:0, 2015, Java 8 in the highly distributed world 
+0:8:5:2:2, 2015, Front end for back end developers 
+0:16:3:0:0, 2015, High Performance Lists in Java 
+0:4:3:4:0, 2015, Making Java more dynamic 
+0:8:5:6:0, 2015, Microservices for Mortals 
+0:10:7:2:0, 2015, Juggling chainsaws while on fire: Introduction to Product Management 
+0:4:1:2:0, 2015, Coding Culture 
+0:8:1:2:0, 2015, A guided tour of the BigData technologies zoo 
+0:12:3:2:0, 2015, Angular 2 + TypeScript = true. Let's Play! 
+0:24:4:16:0, 2015, IoT LiveHacking with TinkerForge and Java8 
+0:6:3:2:0, 2015, "Bootiful" Applications with Spring Boot 
+0:2:1:0:2, 2015, The Rule of Three 
+0:6:1:4:0, 2015, JRebel under the covers - how is it even possible? 
+0:4:5:0:0, 2015, Web push - bringing apps to the browser 
+0:4:1:4:2, 2015, Lambdas and Streams Hands on Lab 
+0:18:3:6:0, 2015, Java modularity: life after Java 9 
+0:4:3:0:0, 2015, The Lisp in the Machine: Clojure inside Braintree 
+0:12:3:4:0, 2015, Easy Batch: batch processing with Java made easy 
+0:2:1:2:0, 2015, Java Concurrency Under The Hood 
+0:12:5:6:0, 2015, Graph Search and Discovery for your Dark Data 
+0:4:1:6:0, 2015, The age of orchestration: from Docker basics to cluster management 
+0:6:1:2:0, 2015, IntelliJ-O-Rama 
+0:8:1:0:0, 2015, Java Flight Recorder Hands On Lab 
+2:2:5:2:0, 2015, Building Microservice Architectures 
+0:0:1:2:0, 2015, EcmaScript 2015: The close future of JavaScript 
+0:12:5:4:0, 2015, My formula racer has WebSockets, does yours? 
+0:10:5:4:0, 2015, Up in the sky: Architecture and Deployment of Microservices for the Cloud 

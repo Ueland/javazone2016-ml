@@ -1,0 +1,74 @@
+Hva er egentlig statisk data?
+Is your data 5-starred?
+Swarm Intelligence - løsningen på uløselige problemer?
+Gratis maskinlesbare data frå offentleg sektor, ja takk!
+- Enterprise programvare! Vart du skræmt no?
+Arkitekt-meg og Progge-meg i bokseringen
+Avhengighetens pris
+Din første pull request
+Not ready to quit your day job? Hvordan lykkes med hobbyprosjekter?
+This isn't Richard Stallman's Open Source Anymore
+Du tror du driver med DevOps du..
+DevOps e' grisevanskelig
+DevOps. You're fucking dead to me.
+An American Man moter en norsk kvinne
+Lær Kidsa Koding! slik kan du bidra
+Maskinlæring - Hva er det og hvorfor snakker vi om det?
+MLaaS - Machine Learning for the rest of us
+MQTT and CoAP for the Java Developer
+Biohacking, hack your body!
+Ikke gjør som kunden din sier!
+Hvordan Oslo Kommune og Difi samarbeider om åpen kildekode
+Offentlig IT-prosjekt bommet på tiden ...
+Hacakton i Dagens Næringsliv
+Hva har agurk og testdata til felles?
+Gjenbruk av software-tester for systemovervåkning
+Testautomatisering: Hva, når, hvordan?
+Offline webapps med bakgrunnsynkronisering
+Flow er power!
+Building software with Keynote
+(Når) bør man bruke parallelle streams?
+En ny følelse av Java med Immutables og Javaslang
+Kotlin: Pragmatisk programmering på JVM
+Det er greit å lyve litt, eller?
+Finn bugs automatisk med SonarQube
+Maven - Taming the Beast
+If coding music videos was easy as algdat and cloud
+Nettleseren som musikkinstrument
+Hvordan bruke Terraform for å konfigurere Amazon AWS
+Behaviour-Driven DevOps
+Diff deg til trygghet!
+Enforcing codestyle changes over time
+Tips for knallbra kodegransk
+Lord of Chaos - Becoming a Chaos Engineer
+Estimating, fast and slow
+Give your apps the X(II) factor!
+Jeg vil bare lage internett!. Hvordan bruker vi Docker i utviklingsmiljøet hos SpareBank 1 for å kjøre komplisert infrastruktur.
+End-2-End testning med Docker: mock it all - or die trying!
+Selvbyggende byggserver med Docker på SpareBank 1
+final? Gi meg const!
+The Art of Processing
+I have a stream - Insights in Reactive Programming
+Hjælp! Maskiner slår oss nå i brettspillet Go og snart kjører de bilene våre. Hvordan greier de det?
+Kom i gang med maskinlæring i skyen!
+Juniorene kommer!
+Tracking location of your neighbours wearable with Android
+UI-testing på Android med Espresso
+GraphQL > REST API?
+Swagger - Vis frem API-ene dine!
+Bruk av node og esi i en mikrotjenestearkitektur for å rendre forsiden til halvparten av norske lokalaviser
+Let's Encrypt! Endelig er SSL-sertifikater enkelt og gratis!
+Sikkerhet er ikke en one stop shop!
+Så enkelt kan innlogging være
+A Java windows service in 10 minutes
+Collect all the things with Beats
+Kan du få data tilbake igjen fra dine Elasticsearch snapshots?
+Let's overengineer the hell out of this
+Hvordan sikre høy ytelse i komplekse systemer?
+Alternative tastatur og tastaturoppsett for utviklere
+En introduksjon til JWT
+Flex med bokser
+Code with the Flow - Healthy coding
+Redux + Angular2 = sant
+The road to nines is paved with war stories
+Learn to be Lucky

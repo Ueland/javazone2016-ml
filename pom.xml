@@ -21,6 +21,8 @@
     <module>topicmodeling</module>
     <module>common</module>
     <module>deeplearning</module>
+	<module>sentiment</module>
+	<module>review</module>
   </modules>
 
   <packaging>pom</packaging>
